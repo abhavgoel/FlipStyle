@@ -1,21 +1,27 @@
 import streamlit as st
 from openaiApi import *
 
+st.title("FlipStyle : The smart outfit generator")
 
-st.set_page_config(
-    page_title="FlipStyle",
-    page_icon="🧊",
-)
-st.title("FlipStyle")
-# st.sidebar.success("Select a page above")
+# Initialize chat history
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
-if("my_input" not in st.session_state):
-    st.session_state["my_input"] = ""
+# Display chat messages from history on app rerun
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
 
-my_input = st.text_input("Describe an outfit you want to generate", st.session_state["my_input"])
-submit = st.button("Submit")
-if(submit):
-    st.session_state["my_input"] = my_input
-    reply = outfit_generator(my_input)
-    st.write(reply)
-    
+# React to user input
+if prompt := st.chat_input("What do you plan on wearing today?"):
+    # Display user message in chat message container
+    st.chat_message("user").markdown(prompt)
+    # Add user message to chat history
+    st.session_state.messages.append({"role": "user", "content": prompt})
+
+    response = outfit_generator(prompt)
+    # Display assistant response in chat message container
+    with st.chat_message("assistant"):
+        st.markdown(response)
+    # Add assistant response to chat history
+    st.session_state.messages.append({"role": "assistant", "content": response})
