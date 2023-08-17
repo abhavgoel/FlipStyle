@@ -16,6 +16,6 @@ page_source = driver.page_source
 driver.quit()
 
 soup = BeautifulSoup(page_source, 'html.parser')
+text = soup.get_text()
 
-for i in soup.body.find_all('a'):
-    print(i)
+print(text)
