@@ -53,10 +53,8 @@ def generate_simulated_purchase_data(num_users, purchases_per_user):
         'Gloves': ['Leather Gloves', 'Knit Gloves', 'Touchscreen Gloves', 'Driving Gloves', 'Wool Gloves'],
         'Belts': ['Leather Belt', 'Canvas Belt', 'Braided Belt', 'Webbed Belt', 'Studded Belt'],
         
-        # Categories...
     }
 
-    # Create an empty list to store items purchased
     items_purchased = []
     for _ in range(total_purchases):
         subcategory = np.random.choice(list(subcategories.keys()))

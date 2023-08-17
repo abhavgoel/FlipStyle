@@ -9,9 +9,9 @@ def generate_simulated_browsing_data(num_users, entries_per_user):
     user_ids = np.repeat(np.arange(1, num_users + 1), entries_per_user)
     
     browsing_pages = np.random.choice(['Clothing', 'Shoes', 'Accessories', 'Sale', 'Homepage'], num_browsing_entries, p=[0.4, 0.3, 0.2, 0.05, 0.05])
-    time_spent_seconds = np.random.randint(5, 600, num_browsing_entries)  # Random time spent from 5 seconds to 10 minutes
+    time_spent_seconds = np.random.randint(5, 600, num_browsing_entries)  
     devices = np.random.choice(['Desktop', 'Mobile', 'Tablet'], num_browsing_entries, p=[0.5, 0.4, 0.1])
-    visit_frequencies = np.random.randint(1, 20, num_browsing_entries)  # Number of times visited
+    visit_frequencies = np.random.randint(1, 20, num_browsing_entries) 
     
     subcategories = {
         'Shirts': ['Casual Shirt', 'Formal Shirt', 'Printed Shirt', 'Striped Shirt', 'Graphic Shirt'],
@@ -54,7 +54,6 @@ def generate_simulated_browsing_data(num_users, entries_per_user):
         'Ties': ['Silk Tie', 'Knit Tie', 'Bowtie', 'Skinny Tie', 'Woven Tie'],
         'Gloves': ['Leather Gloves', 'Knit Gloves', 'Touchscreen Gloves', 'Driving Gloves', 'Wool Gloves'],
         'Belts': ['Leather Belt', 'Canvas Belt', 'Braided Belt', 'Webbed Belt', 'Studded Belt'],
-        # ... (your subcategory definitions)
     }
     
     product_categories_list = ['Clothing', 'Shoes', 'Accessories', 'Beauty', 'Sale']
