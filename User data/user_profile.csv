@@ -1,0 +1,501 @@
+UserID,Gender,Age,Region,Pincode,BodyType,SizeGenerallyBought
+1,Other,34,West Bengal,841052,Curvy,XL
+2,Female,55,West Bengal,486474,Athletic,XS
+3,Other,37,Kerala,440717,Slim,XL
+4,Male,34,Nagaland,840677,Average,M
+5,Male,35,Nagaland,683974,Curvy,M
+6,Female,26,Sikkim,413049,Average,L
+7,Female,44,Meghalaya,149273,Curvy,XXL
+8,Female,38,Manipur,793288,Slim,M
+9,Female,51,Kerala,279994,Athletic,XS
+10,Other,21,Nagaland,822022,Curvy,M
+11,Other,19,Meghalaya,250498,Curvy,M
+12,Male,24,Andhra Pradesh,194189,Athletic,XXL
+13,Female,49,Tamil Nadu,420196,Average,XXL
+14,Male,44,Kerala,152339,Curvy,XXL
+15,Male,35,Meghalaya,434029,Average,L
+16,Other,37,Manipur,845777,Curvy,S
+17,Female,49,Rajasthan,359426,Average,L
+18,Female,48,Maharashtra,471317,Average,S
+19,Other,57,Sikkim,859773,Average,L
+20,Other,31,Gujarat,134539,Curvy,M
+21,Male,27,Telangana,318564,Curvy,S
+22,Female,38,Karnataka,967051,Average,S
+23,Female,42,Chhattisgarh,331436,Athletic,XXL
+24,Female,24,Rajasthan,230220,Average,L
+25,Other,36,Haryana,453785,Average,XL
+26,Female,31,Assam,663276,Curvy,XS
+27,Male,20,Telangana,129919,Average,XS
+28,Male,18,Gujarat,175113,Average,XL
+29,Female,20,Karnataka,248000,Slim,XXL
+30,Female,49,Sikkim,301550,Curvy,XL
+31,Male,43,Bihar,880093,Athletic,XS
+32,Female,24,Sikkim,273458,Curvy,XS
+33,Female,24,Madhya Pradesh,155001,Curvy,L
+34,Female,57,Kerala,235690,Average,S
+35,Other,33,Kerala,986296,Curvy,XS
+36,Other,33,Andhra Pradesh,887034,Slim,M
+37,Other,30,Rajasthan,980352,Athletic,XL
+38,Other,53,Andhra Pradesh,491483,Slim,XXL
+39,Other,46,Haryana,429824,Slim,XL
+40,Other,25,Meghalaya,686109,Athletic,S
+41,Female,18,Meghalaya,397653,Curvy,XS
+42,Other,28,Haryana,370532,Curvy,L
+43,Other,42,Punjab,109830,Average,S
+44,Male,42,Manipur,752486,Curvy,L
+45,Male,55,Jharkhand,955535,Curvy,M
+46,Male,21,Punjab,240050,Athletic,XS
+47,Male,37,Mizoram,796207,Curvy,XXL
+48,Other,45,Assam,233798,Slim,XL
+49,Other,22,Telangana,157924,Curvy,XXL
+50,Female,35,Maharashtra,652830,Athletic,XXL
+51,Female,41,Manipur,662902,Curvy,L
+52,Male,46,Uttarakhand,970460,Athletic,XL
+53,Female,56,Mizoram,152777,Athletic,M
+54,Female,49,Andhra Pradesh,601629,Athletic,XL
+55,Other,59,Bihar,788005,Average,S
+56,Male,32,Odisha,467568,Athletic,S
+57,Female,56,Bihar,422785,Slim,XL
+58,Other,31,Mizoram,706367,Curvy,M
+59,Male,34,Nagaland,447653,Curvy,L
+60,Male,40,Madhya Pradesh,373509,Curvy,L
+61,Male,44,Meghalaya,404607,Athletic,M
+62,Male,24,Tripura,486294,Average,S
+63,Male,48,Haryana,336014,Average,XL
+64,Female,51,Uttarakhand,521179,Athletic,XS
+65,Other,21,Andhra Pradesh,667152,Slim,XS
+66,Male,30,Assam,113591,Athletic,L
+67,Other,25,Bihar,677474,Average,M
+68,Other,49,Goa,116563,Athletic,XL
+69,Other,57,Sikkim,975330,Average,L
+70,Female,37,Punjab,893098,Slim,S
+71,Male,26,Bihar,749595,Curvy,XL
+72,Female,53,Chhattisgarh,946519,Curvy,XXL
+73,Other,44,Chhattisgarh,234805,Slim,XL
+74,Other,25,Tripura,708127,Athletic,XS
+75,Female,56,Meghalaya,208948,Athletic,XXL
+76,Other,57,Chhattisgarh,504413,Slim,XS
+77,Female,20,Bihar,358476,Average,XL
+78,Male,42,Kerala,408864,Slim,S
+79,Male,41,Andhra Pradesh,498409,Average,S
+80,Male,32,Telangana,550373,Athletic,XS
+81,Other,30,Madhya Pradesh,771602,Athletic,XS
+82,Other,45,Telangana,120802,Athletic,XL
+83,Male,42,Goa,734378,Athletic,XS
+84,Female,59,Manipur,391476,Athletic,XS
+85,Male,59,Meghalaya,830713,Curvy,S
+86,Other,51,West Bengal,937858,Average,XL
+87,Female,55,Telangana,523329,Average,S
+88,Female,43,Nagaland,188115,Average,L
+89,Other,39,Jharkhand,344498,Average,XXL
+90,Male,49,Maharashtra,985797,Athletic,XS
+91,Other,51,Meghalaya,233935,Slim,XS
+92,Other,41,Manipur,870536,Curvy,XS
+93,Male,39,Meghalaya,178953,Curvy,S
+94,Other,24,Himachal Pradesh,831205,Average,S
+95,Female,50,Rajasthan,980491,Average,XL
+96,Other,51,Bihar,396723,Slim,XXL
+97,Other,55,Chhattisgarh,500682,Athletic,XXL
+98,Other,28,Uttarakhand,283781,Average,S
+99,Male,35,Bihar,746068,Slim,XL
+100,Male,59,Mizoram,984217,Athletic,XS
+101,Male,47,Arunachal Pradesh,339360,Slim,L
+102,Other,44,Uttar Pradesh,563666,Athletic,XL
+103,Female,31,Manipur,334720,Athletic,S
+104,Other,40,West Bengal,907004,Average,XL
+105,Female,35,Gujarat,164445,Average,XL
+106,Male,31,Meghalaya,538537,Slim,XS
+107,Male,30,Odisha,339101,Curvy,XL
+108,Male,22,Uttar Pradesh,707689,Athletic,XL
+109,Male,26,Manipur,197065,Average,M
+110,Male,47,Sikkim,378415,Athletic,M
+111,Male,22,Goa,524842,Curvy,XS
+112,Female,52,Maharashtra,116930,Average,XXL
+113,Female,46,Himachal Pradesh,853117,Average,M
+114,Other,36,Jharkhand,245863,Athletic,XXL
+115,Male,57,Bihar,518708,Slim,M
+116,Female,26,Nagaland,545351,Athletic,S
+117,Female,31,Mizoram,692413,Curvy,L
+118,Other,44,Gujarat,746193,Athletic,S
+119,Male,30,Meghalaya,668121,Curvy,L
+120,Female,39,Telangana,393453,Average,XXL
+121,Other,39,Maharashtra,981217,Average,L
+122,Female,35,Arunachal Pradesh,633905,Slim,S
+123,Male,51,Gujarat,587443,Curvy,XL
+124,Other,58,Manipur,529882,Curvy,XL
+125,Other,30,Tamil Nadu,124422,Curvy,XL
+126,Other,25,Bihar,110726,Athletic,L
+127,Female,38,Punjab,742828,Slim,L
+128,Female,55,Tripura,478358,Slim,S
+129,Male,49,Jharkhand,201825,Average,XXL
+130,Other,42,Chhattisgarh,497514,Average,XS
+131,Male,57,Nagaland,944558,Curvy,XXL
+132,Female,25,Karnataka,923576,Athletic,M
+133,Female,54,Himachal Pradesh,490747,Average,XL
+134,Other,31,Haryana,238847,Athletic,M
+135,Male,22,Haryana,570238,Slim,XXL
+136,Other,48,Kerala,637082,Average,S
+137,Other,48,Nagaland,569185,Average,XL
+138,Female,23,Uttar Pradesh,374182,Curvy,XS
+139,Male,22,Mizoram,980719,Curvy,XL
+140,Male,56,Rajasthan,645727,Slim,XL
+141,Male,38,Maharashtra,504628,Curvy,M
+142,Male,43,Chhattisgarh,711390,Athletic,S
+143,Female,45,Haryana,740498,Slim,M
+144,Other,59,Arunachal Pradesh,939267,Curvy,L
+145,Male,23,Himachal Pradesh,803042,Athletic,L
+146,Male,18,Tamil Nadu,480468,Slim,XS
+147,Other,18,Madhya Pradesh,649282,Curvy,XXL
+148,Male,42,Tripura,711835,Curvy,S
+149,Male,49,Chhattisgarh,520746,Athletic,XXL
+150,Other,28,Tamil Nadu,330516,Average,M
+151,Female,45,Sikkim,630323,Slim,XS
+152,Male,40,Chhattisgarh,585575,Slim,XXL
+153,Male,59,Tripura,733825,Athletic,S
+154,Male,43,Mizoram,782272,Curvy,XS
+155,Female,47,Telangana,355410,Average,XXL
+156,Other,43,Rajasthan,274084,Slim,L
+157,Other,39,Telangana,693643,Athletic,L
+158,Male,20,Sikkim,231595,Curvy,M
+159,Male,42,Madhya Pradesh,585583,Average,XXL
+160,Female,57,Bihar,448137,Curvy,XS
+161,Male,35,Goa,474099,Slim,M
+162,Other,19,Uttar Pradesh,647259,Athletic,S
+163,Other,28,Uttar Pradesh,851662,Slim,L
+164,Other,51,Karnataka,179282,Curvy,L
+165,Female,28,Chhattisgarh,302435,Average,XXL
+166,Other,44,Andhra Pradesh,923409,Average,XS
+167,Female,32,Tamil Nadu,856506,Average,XXL
+168,Other,32,Rajasthan,801218,Curvy,XXL
+169,Male,33,Karnataka,250556,Athletic,XS
+170,Female,40,Haryana,837511,Curvy,S
+171,Male,49,Uttarakhand,932300,Curvy,XS
+172,Male,27,Rajasthan,609459,Average,XS
+173,Other,35,Rajasthan,605828,Average,XXL
+174,Male,28,Sikkim,742023,Curvy,S
+175,Male,30,Punjab,877537,Slim,XXL
+176,Other,45,Andhra Pradesh,887309,Average,L
+177,Other,55,Bihar,366096,Athletic,XS
+178,Other,22,Arunachal Pradesh,823572,Average,XL
+179,Male,50,Goa,904644,Slim,XXL
+180,Female,52,Goa,919683,Average,XS
+181,Female,54,Nagaland,278326,Athletic,M
+182,Other,23,Mizoram,981391,Slim,XS
+183,Male,23,Jharkhand,290618,Average,L
+184,Female,23,Rajasthan,606389,Slim,M
+185,Other,24,Andhra Pradesh,128507,Athletic,L
+186,Other,25,Telangana,205064,Athletic,XXL
+187,Male,34,Tripura,402514,Average,XXL
+188,Other,24,Maharashtra,377886,Slim,XS
+189,Female,33,Odisha,622039,Curvy,S
+190,Male,46,Gujarat,643313,Slim,L
+191,Male,21,Madhya Pradesh,369639,Athletic,XXL
+192,Other,34,Nagaland,890524,Slim,S
+193,Other,33,Telangana,170739,Athletic,XL
+194,Other,22,Odisha,115772,Average,XS
+195,Male,51,Telangana,297920,Curvy,M
+196,Female,46,Himachal Pradesh,305647,Slim,L
+197,Male,38,Telangana,687871,Athletic,M
+198,Male,25,Andhra Pradesh,935020,Athletic,L
+199,Female,25,Telangana,420849,Slim,XXL
+200,Male,49,Gujarat,895263,Athletic,L
+201,Other,56,Andhra Pradesh,626884,Average,XXL
+202,Other,39,Maharashtra,372622,Curvy,L
+203,Female,59,Haryana,680300,Athletic,XXL
+204,Other,38,Andhra Pradesh,269799,Athletic,L
+205,Other,47,Arunachal Pradesh,356669,Athletic,XS
+206,Other,40,Sikkim,577921,Curvy,L
+207,Other,20,Karnataka,487345,Average,M
+208,Male,37,Mizoram,274125,Average,XL
+209,Female,26,Uttarakhand,305839,Slim,XL
+210,Other,44,Maharashtra,284463,Average,L
+211,Other,31,Bihar,629284,Average,M
+212,Male,55,Arunachal Pradesh,153705,Athletic,M
+213,Other,56,Tripura,602343,Curvy,XS
+214,Other,28,Karnataka,198237,Slim,XL
+215,Male,52,Tamil Nadu,265919,Curvy,L
+216,Other,40,Uttarakhand,882929,Slim,XXL
+217,Female,55,Chhattisgarh,993243,Athletic,XXL
+218,Female,24,Uttar Pradesh,845671,Curvy,L
+219,Female,39,Gujarat,920290,Athletic,XS
+220,Other,39,Assam,651715,Curvy,XS
+221,Female,37,Nagaland,966373,Curvy,S
+222,Female,19,Himachal Pradesh,977241,Curvy,XS
+223,Male,28,Odisha,521640,Curvy,M
+224,Male,39,Assam,318468,Athletic,L
+225,Male,56,Arunachal Pradesh,467597,Athletic,M
+226,Other,55,Himachal Pradesh,634639,Athletic,XS
+227,Female,52,Punjab,983584,Average,L
+228,Other,50,Assam,754658,Athletic,S
+229,Other,21,Himachal Pradesh,539410,Average,M
+230,Male,55,Madhya Pradesh,164725,Slim,XXL
+231,Male,59,Gujarat,773183,Average,M
+232,Male,44,Assam,714425,Athletic,XXL
+233,Other,36,Karnataka,230969,Athletic,L
+234,Other,41,Punjab,624964,Athletic,M
+235,Other,28,Goa,374494,Curvy,XL
+236,Male,44,Gujarat,668834,Curvy,S
+237,Female,22,Maharashtra,691945,Curvy,M
+238,Other,36,Manipur,481178,Curvy,XL
+239,Other,51,Bihar,836676,Average,XS
+240,Other,23,Rajasthan,211394,Average,L
+241,Female,34,Bihar,211212,Slim,XL
+242,Other,41,Tripura,368483,Curvy,S
+243,Other,34,Chhattisgarh,258761,Curvy,XL
+244,Female,23,Arunachal Pradesh,403980,Average,S
+245,Female,34,Maharashtra,726018,Average,S
+246,Male,42,Karnataka,319886,Athletic,XL
+247,Male,38,Haryana,293490,Athletic,XXL
+248,Other,51,Karnataka,261863,Curvy,M
+249,Female,28,Chhattisgarh,100122,Curvy,M
+250,Female,57,Nagaland,363948,Curvy,XL
+251,Male,23,Uttarakhand,774801,Slim,XS
+252,Female,37,Nagaland,468477,Athletic,M
+253,Male,57,Tamil Nadu,699283,Curvy,M
+254,Other,40,West Bengal,307407,Average,S
+255,Other,29,Manipur,217603,Slim,XXL
+256,Male,50,Karnataka,840685,Slim,M
+257,Male,34,Maharashtra,452380,Slim,M
+258,Female,25,Madhya Pradesh,569139,Average,XL
+259,Male,49,Punjab,597411,Average,M
+260,Male,55,Manipur,502415,Average,L
+261,Female,57,Kerala,843799,Average,S
+262,Male,23,Rajasthan,101278,Slim,M
+263,Other,39,Manipur,383331,Curvy,XXL
+264,Other,28,Punjab,579221,Athletic,XXL
+265,Male,43,Haryana,862141,Average,XXL
+266,Female,19,Manipur,391166,Athletic,XXL
+267,Male,30,Assam,542823,Athletic,XL
+268,Other,40,Kerala,322657,Curvy,XXL
+269,Other,18,Himachal Pradesh,695292,Average,M
+270,Other,56,Jharkhand,759540,Athletic,XL
+271,Female,27,Uttarakhand,445530,Average,S
+272,Other,23,Andhra Pradesh,354126,Slim,XXL
+273,Male,19,Chhattisgarh,409890,Curvy,S
+274,Female,48,Jharkhand,229611,Slim,M
+275,Female,44,Arunachal Pradesh,655287,Average,M
+276,Male,21,Kerala,985205,Average,XL
+277,Female,18,Kerala,458367,Athletic,XXL
+278,Female,43,Uttar Pradesh,336279,Average,L
+279,Male,57,Haryana,949078,Curvy,L
+280,Male,48,Arunachal Pradesh,664134,Slim,S
+281,Male,41,Jharkhand,365418,Average,XL
+282,Female,54,Himachal Pradesh,265765,Curvy,XL
+283,Male,50,Meghalaya,145898,Average,M
+284,Other,34,Nagaland,173733,Average,XXL
+285,Male,26,Himachal Pradesh,948028,Curvy,XS
+286,Male,23,Chhattisgarh,400359,Slim,L
+287,Male,35,Odisha,484819,Slim,XS
+288,Male,48,Haryana,276063,Curvy,S
+289,Male,52,Arunachal Pradesh,155503,Athletic,XL
+290,Male,41,Tripura,390228,Athletic,M
+291,Male,22,Gujarat,359581,Athletic,S
+292,Male,59,Tamil Nadu,396368,Athletic,L
+293,Other,28,Meghalaya,205770,Slim,M
+294,Other,20,Kerala,167637,Average,XXL
+295,Female,30,West Bengal,280476,Slim,XS
+296,Other,41,Chhattisgarh,302347,Slim,M
+297,Female,19,Punjab,988296,Athletic,XXL
+298,Female,41,Uttarakhand,581325,Curvy,M
+299,Female,37,Meghalaya,371863,Average,XXL
+300,Female,39,Uttar Pradesh,317653,Curvy,XS
+301,Male,41,Jharkhand,402532,Average,XS
+302,Other,42,Karnataka,772131,Slim,S
+303,Other,46,Nagaland,710250,Slim,XS
+304,Female,53,Tamil Nadu,983260,Athletic,XS
+305,Female,40,Himachal Pradesh,624365,Average,S
+306,Other,21,Uttarakhand,769780,Slim,XL
+307,Other,23,Maharashtra,653354,Curvy,L
+308,Male,49,Chhattisgarh,493580,Curvy,S
+309,Male,40,Uttarakhand,260324,Curvy,M
+310,Male,26,Nagaland,642521,Athletic,XS
+311,Female,43,Kerala,869413,Curvy,M
+312,Other,55,Tamil Nadu,695344,Slim,S
+313,Female,49,Tamil Nadu,998635,Average,XXL
+314,Other,23,Odisha,543449,Slim,M
+315,Other,39,Haryana,811414,Athletic,L
+316,Male,45,Arunachal Pradesh,775944,Average,XS
+317,Other,31,Gujarat,390323,Athletic,L
+318,Other,45,Kerala,467164,Average,S
+319,Other,34,Odisha,539146,Slim,XS
+320,Female,46,Assam,341680,Slim,L
+321,Female,22,Mizoram,426192,Slim,XS
+322,Other,58,Maharashtra,264290,Average,M
+323,Male,39,Assam,202238,Athletic,XXL
+324,Male,48,Telangana,575185,Athletic,XS
+325,Other,59,Meghalaya,823482,Average,XS
+326,Other,59,Manipur,453477,Slim,L
+327,Other,28,Tripura,690351,Slim,S
+328,Female,47,Rajasthan,406912,Slim,S
+329,Male,27,Tamil Nadu,723079,Athletic,XL
+330,Male,44,West Bengal,731351,Slim,XXL
+331,Female,19,Punjab,314886,Slim,XS
+332,Male,30,Meghalaya,594090,Slim,XS
+333,Male,48,Andhra Pradesh,796973,Curvy,L
+334,Female,59,Bihar,176511,Slim,M
+335,Female,28,Karnataka,798522,Average,L
+336,Female,27,Assam,702954,Slim,XXL
+337,Female,32,Madhya Pradesh,984696,Average,XS
+338,Male,20,Goa,276349,Average,XXL
+339,Male,41,Mizoram,206637,Average,XL
+340,Other,22,Punjab,934148,Slim,L
+341,Other,45,Jharkhand,205384,Average,XL
+342,Other,55,Andhra Pradesh,874907,Curvy,XXL
+343,Female,58,Himachal Pradesh,362974,Athletic,XXL
+344,Female,22,Karnataka,558233,Curvy,M
+345,Male,27,Uttar Pradesh,725224,Curvy,XL
+346,Male,59,Mizoram,739498,Slim,S
+347,Other,21,Assam,269606,Slim,XL
+348,Male,27,Rajasthan,458529,Average,XL
+349,Male,43,Madhya Pradesh,893137,Curvy,XL
+350,Male,49,Telangana,827996,Slim,M
+351,Female,28,Maharashtra,339558,Slim,XL
+352,Male,25,Tamil Nadu,835189,Slim,XXL
+353,Other,46,Andhra Pradesh,609477,Slim,M
+354,Other,29,Bihar,853680,Average,XXL
+355,Other,23,Assam,747441,Average,XXL
+356,Other,53,Meghalaya,375081,Curvy,L
+357,Male,36,Odisha,965701,Athletic,S
+358,Male,41,Uttarakhand,952181,Average,L
+359,Female,39,Madhya Pradesh,257304,Average,S
+360,Female,32,Sikkim,586416,Average,S
+361,Male,59,Uttar Pradesh,453825,Slim,XL
+362,Female,56,Uttarakhand,600553,Curvy,M
+363,Female,33,Goa,552842,Athletic,L
+364,Other,29,Madhya Pradesh,830259,Athletic,XXL
+365,Male,28,Jharkhand,745222,Average,M
+366,Other,50,Telangana,955706,Average,XL
+367,Male,32,Tripura,611112,Curvy,XXL
+368,Female,34,Manipur,926722,Curvy,XL
+369,Female,38,Uttar Pradesh,277829,Curvy,XS
+370,Male,37,Himachal Pradesh,266933,Athletic,XS
+371,Other,41,Kerala,812301,Athletic,M
+372,Male,31,Maharashtra,322709,Slim,XS
+373,Male,35,Haryana,741303,Curvy,L
+374,Female,24,Goa,295412,Average,S
+375,Other,40,Goa,921331,Average,L
+376,Male,34,West Bengal,765692,Average,M
+377,Male,48,Tamil Nadu,216498,Curvy,XL
+378,Other,57,Nagaland,789064,Curvy,XS
+379,Female,47,Rajasthan,281234,Slim,M
+380,Female,47,Kerala,782497,Slim,M
+381,Female,32,Chhattisgarh,621909,Athletic,XXL
+382,Other,31,Himachal Pradesh,889526,Athletic,XS
+383,Female,32,Tamil Nadu,651354,Slim,XL
+384,Female,22,Sikkim,309369,Curvy,S
+385,Other,54,Andhra Pradesh,288308,Average,XS
+386,Other,22,Himachal Pradesh,880960,Athletic,M
+387,Female,56,Odisha,728672,Curvy,M
+388,Female,47,Gujarat,833930,Slim,XXL
+389,Other,24,Haryana,716100,Slim,XXL
+390,Other,36,Himachal Pradesh,730427,Curvy,L
+391,Male,35,Maharashtra,127984,Athletic,XXL
+392,Female,24,West Bengal,484050,Average,M
+393,Male,38,Uttarakhand,841742,Average,M
+394,Female,29,Rajasthan,718385,Curvy,XXL
+395,Female,55,Odisha,151529,Curvy,S
+396,Other,42,Madhya Pradesh,697491,Average,XXL
+397,Male,44,Haryana,139803,Slim,XXL
+398,Other,25,Odisha,780156,Slim,XL
+399,Female,46,Maharashtra,669430,Slim,M
+400,Male,57,Meghalaya,423869,Athletic,L
+401,Male,58,Uttarakhand,249057,Curvy,XXL
+402,Male,22,Odisha,323354,Average,XL
+403,Other,23,Bihar,383149,Average,L
+404,Other,48,Bihar,854394,Slim,XS
+405,Other,23,Goa,163789,Curvy,L
+406,Male,38,Arunachal Pradesh,519792,Average,XXL
+407,Female,28,Arunachal Pradesh,124556,Average,XL
+408,Other,50,Tamil Nadu,530307,Athletic,S
+409,Other,42,Uttarakhand,567472,Average,L
+410,Other,34,Arunachal Pradesh,850588,Average,L
+411,Male,38,Telangana,773892,Slim,L
+412,Female,45,Chhattisgarh,671900,Athletic,XXL
+413,Male,41,Jharkhand,232495,Slim,XXL
+414,Male,53,Haryana,270843,Average,M
+415,Other,39,Assam,306645,Slim,L
+416,Female,25,Uttar Pradesh,524756,Slim,M
+417,Female,50,Rajasthan,661640,Slim,XXL
+418,Female,18,Rajasthan,156921,Curvy,L
+419,Other,21,Maharashtra,675455,Athletic,M
+420,Other,58,Chhattisgarh,945399,Average,S
+421,Other,52,Bihar,712407,Slim,S
+422,Female,37,Mizoram,970052,Average,XXL
+423,Female,18,Punjab,278701,Slim,S
+424,Other,52,Karnataka,436424,Athletic,XS
+425,Male,59,Andhra Pradesh,771596,Curvy,XS
+426,Female,45,Tamil Nadu,723317,Curvy,XXL
+427,Male,51,Himachal Pradesh,439714,Slim,XS
+428,Female,20,Sikkim,874137,Average,S
+429,Other,31,Chhattisgarh,758787,Curvy,S
+430,Female,40,Bihar,333953,Slim,L
+431,Female,29,Rajasthan,933846,Athletic,XL
+432,Male,37,Bihar,163937,Curvy,XXL
+433,Other,22,Tripura,781773,Athletic,XL
+434,Male,30,Karnataka,732747,Average,L
+435,Female,49,Telangana,604110,Athletic,XL
+436,Other,32,Manipur,930324,Slim,M
+437,Female,57,Sikkim,603435,Slim,XL
+438,Male,46,Mizoram,737859,Athletic,L
+439,Female,40,Mizoram,928744,Athletic,M
+440,Other,45,Arunachal Pradesh,690716,Average,L
+441,Female,31,Madhya Pradesh,766002,Slim,XXL
+442,Male,34,Tripura,763959,Athletic,XXL
+443,Female,52,Maharashtra,470832,Curvy,S
+444,Male,29,Manipur,831802,Athletic,XL
+445,Other,54,Kerala,555773,Athletic,XS
+446,Male,55,Uttar Pradesh,128395,Slim,XS
+447,Other,46,Uttarakhand,545745,Athletic,XS
+448,Other,24,Kerala,316428,Curvy,M
+449,Other,48,Maharashtra,523417,Average,XL
+450,Other,46,Madhya Pradesh,937568,Average,XS
+451,Other,53,Sikkim,700097,Curvy,XL
+452,Other,57,Sikkim,966271,Slim,M
+453,Female,21,Madhya Pradesh,331982,Slim,XL
+454,Female,57,Rajasthan,751093,Curvy,XS
+455,Female,42,Manipur,232519,Slim,M
+456,Other,42,Goa,861724,Athletic,M
+457,Other,40,Chhattisgarh,537029,Slim,S
+458,Female,21,Sikkim,484745,Slim,L
+459,Other,47,Uttar Pradesh,117509,Average,L
+460,Male,45,Sikkim,685594,Slim,L
+461,Male,59,Karnataka,590791,Athletic,XXL
+462,Female,32,Sikkim,840706,Average,S
+463,Male,28,Uttarakhand,379825,Athletic,XS
+464,Male,52,Nagaland,170438,Average,XXL
+465,Male,59,Sikkim,578419,Average,L
+466,Female,33,Telangana,778202,Curvy,XL
+467,Other,50,Jharkhand,108178,Athletic,M
+468,Female,27,Meghalaya,506915,Average,S
+469,Male,26,Tripura,201482,Slim,XL
+470,Female,51,Bihar,600396,Slim,L
+471,Male,37,Goa,552145,Slim,L
+472,Female,43,Tamil Nadu,333920,Average,XL
+473,Male,21,Sikkim,304850,Curvy,XXL
+474,Male,39,Karnataka,369023,Curvy,L
+475,Female,50,Odisha,248125,Athletic,XS
+476,Female,25,West Bengal,146101,Slim,XL
+477,Other,58,Uttar Pradesh,495851,Slim,M
+478,Other,59,Manipur,470016,Athletic,S
+479,Female,38,Haryana,601222,Curvy,L
+480,Female,48,Arunachal Pradesh,863275,Slim,S
+481,Other,55,Meghalaya,993671,Average,L
+482,Female,43,Manipur,685489,Curvy,L
+483,Male,26,Jharkhand,308725,Athletic,S
+484,Female,39,West Bengal,646010,Average,XS
+485,Other,44,Meghalaya,449725,Average,L
+486,Other,40,Manipur,270104,Athletic,M
+487,Female,22,Himachal Pradesh,774605,Curvy,S
+488,Female,44,Tripura,605536,Average,L
+489,Female,34,Nagaland,538672,Curvy,XS
+490,Female,48,Jharkhand,277859,Athletic,XL
+491,Female,32,Uttarakhand,990664,Curvy,S
+492,Female,54,Assam,569517,Slim,M
+493,Other,49,Andhra Pradesh,659642,Slim,L
+494,Male,50,Kerala,770695,Slim,M
+495,Other,41,Meghalaya,398645,Slim,XXL
+496,Female,36,Punjab,296780,Average,XS
+497,Female,49,Sikkim,652844,Athletic,M
+498,Female,22,Karnataka,564993,Slim,S
+499,Other,25,Uttarakhand,236826,Slim,XXL
+500,Female,47,Maharashtra,676433,Curvy,XS

@@ -1,0 +1,2501 @@
+UserID,Date,TimeSpentSeconds,Device,VisitFrequency,ProductType,ProductDescription
+1,2021-01-01 00:00:00,39,Tablet,18,Dresses, Evening Dress
+1,2021-01-01 01:00:00,299,Mobile,11,Heels, Block Heels
+1,2021-01-01 02:00:00,485,Mobile,8,Ties, Silk Tie
+1,2021-01-01 03:00:00,318,Tablet,16,Makeup, Concealer
+1,2021-01-01 04:00:00,166,Desktop,10,Jackets, Windbreaker
+2,2021-01-01 05:00:00,456,Mobile,8,Heels, Block Heels
+2,2021-01-01 06:00:00,53,Desktop,7,Accessories, Cufflinks
+2,2021-01-01 07:00:00,139,Mobile,8,Hoodies, Fleece Hoodie
+2,2021-01-01 08:00:00,7,Desktop,2,Bags, Crossbody Bag
+2,2021-01-01 09:00:00,293,Mobile,18,Accessories, Cufflinks
+3,2021-01-01 10:00:00,582,Tablet,12,Boots, Ankle Boots
+3,2021-01-01 11:00:00,413,Desktop,1,Dresses, Maxi Dress
+3,2021-01-01 12:00:00,77,Mobile,4,Skincare, Moisturizer
+3,2021-01-01 13:00:00,592,Desktop,3,Jeans, High-rise Jeans
+3,2021-01-01 14:00:00,350,Tablet,19,Hoodies, Graphic Hoodie
+4,2021-01-01 15:00:00,590,Desktop,11,Scarves, Plaid Scarf
+4,2021-01-01 16:00:00,493,Tablet,18,Backpacks, Daypack
+4,2021-01-01 17:00:00,128,Desktop,7,Watches, Digital Watch
+4,2021-01-01 18:00:00,74,Tablet,7,Jackets, Windbreaker
+4,2021-01-01 19:00:00,554,Mobile,13,Gloves, Driving Gloves
+5,2021-01-01 20:00:00,179,Tablet,9,Swimwear, Swim Trunks
+5,2021-01-01 21:00:00,76,Tablet,5,Hoodies, Graphic Hoodie
+5,2021-01-01 22:00:00,467,Tablet,12,T-Shirts, V-Neck T-Shirt
+5,2021-01-01 23:00:00,423,Desktop,1,Swimwear, Swim Shirt
+5,2021-01-02 00:00:00,144,Desktop,6,Sweaters, Cable Knit Sweater
+6,2021-01-02 01:00:00,92,Desktop,16,Heels, Wedge Heels
+6,2021-01-02 02:00:00,205,Mobile,7,Boots, Hiking Boots
+6,2021-01-02 03:00:00,200,Mobile,7,Jackets, Denim Jacket
+6,2021-01-02 04:00:00,37,Tablet,19,Accessories, Pocket Square
+6,2021-01-02 05:00:00,480,Desktop,1,Bags, Tote Bag
+7,2021-01-02 06:00:00,570,Desktop,14,Hoodies, Fleece Hoodie
+7,2021-01-02 07:00:00,33,Mobile,5,Sandals, Platform Sandals
+7,2021-01-02 08:00:00,39,Tablet,17,Makeup, Blush
+7,2021-01-02 09:00:00,549,Mobile,19,Makeup, Mascara
+7,2021-01-02 10:00:00,7,Desktop,4,Accessories, Belt
+8,2021-01-02 11:00:00,200,Desktop,19,Hoodies, Pullover Hoodie
+8,2021-01-02 12:00:00,405,Desktop,4,Sandals, Gladiator Sandals
+8,2021-01-02 13:00:00,492,Desktop,12,Sweaters, V-Neck Sweater
+8,2021-01-02 14:00:00,449,Desktop,7,T-Shirts, Plain T-Shirt
+8,2021-01-02 15:00:00,493,Mobile,12,Scarves, Silk Scarf
+9,2021-01-02 16:00:00,427,Mobile,12,Belts, Studded Belt
+9,2021-01-02 17:00:00,260,Mobile,6,Shorts, Cargo Shorts
+9,2021-01-02 18:00:00,512,Desktop,5,Bags, Backpack
+9,2021-01-02 19:00:00,37,Mobile,19,Scarves, Knit Scarf
+9,2021-01-02 20:00:00,445,Desktop,3,Sneakers, Skate Shoes
+10,2021-01-02 21:00:00,231,Desktop,15,Scarves, Fringe Scarf
+10,2021-01-02 22:00:00,531,Desktop,3,Hoodies, Graphic Hoodie
+10,2021-01-02 23:00:00,478,Mobile,8,Jeans, Bootcut Jeans
+10,2021-01-03 00:00:00,325,Desktop,5,Ties, Silk Tie
+10,2021-01-03 01:00:00,326,Mobile,8,Dresses, Summer Dress
+11,2021-01-03 02:00:00,400,Tablet,16,Makeup, Eyeshadow
+11,2021-01-03 03:00:00,23,Mobile,16,Backpacks, Daypack
+11,2021-01-03 04:00:00,523,Tablet,14,Scarves, Knit Scarf
+11,2021-01-03 05:00:00,36,Desktop,3,Backpacks, Canvas Backpack
+11,2021-01-03 06:00:00,246,Mobile,18,Dresses, Cocktail Dress
+12,2021-01-03 07:00:00,300,Mobile,5,Sandals, Flat Sandals
+12,2021-01-03 08:00:00,244,Desktop,5,Sunglasses, Round Sunglasses
+12,2021-01-03 09:00:00,543,Tablet,18,Sweaters, V-Neck Sweater
+12,2021-01-03 10:00:00,526,Desktop,11,Scarves, Plaid Scarf
+12,2021-01-03 11:00:00,531,Tablet,13,Jeans, High-rise Jeans
+13,2021-01-03 12:00:00,400,Mobile,2,Hoodies, Graphic Hoodie
+13,2021-01-03 13:00:00,451,Desktop,10,Skincare, Moisturizer
+13,2021-01-03 14:00:00,15,Mobile,2,Skincare, Moisturizer
+13,2021-01-03 15:00:00,382,Desktop,11,Jewelry, Necklace
+13,2021-01-03 16:00:00,84,Mobile,3,Jackets, Leather Jacket
+14,2021-01-03 17:00:00,251,Desktop,2,Scarves, Plaid Scarf
+14,2021-01-03 18:00:00,203,Desktop,16,Jackets, Leather Jacket
+14,2021-01-03 19:00:00,129,Mobile,4,Accessories, Bowtie
+14,2021-01-03 20:00:00,117,Desktop,13,Sandals, Wedge Sandals
+14,2021-01-03 21:00:00,148,Mobile,14,Backpacks, Laptop Backpack
+15,2021-01-03 22:00:00,129,Desktop,13,Accessories, Belt
+15,2021-01-03 23:00:00,130,Mobile,14,Sunglasses, Round Sunglasses
+15,2021-01-04 00:00:00,529,Mobile,19,Dresses, Cocktail Dress
+15,2021-01-04 01:00:00,372,Mobile,1,Backpacks, Laptop Backpack
+15,2021-01-04 02:00:00,570,Mobile,12,Belts, Leather Belt
+16,2021-01-04 03:00:00,364,Desktop,13,Backpacks, Daypack
+16,2021-01-04 04:00:00,462,Desktop,8,Skincare, Cleanser
+16,2021-01-04 05:00:00,347,Desktop,8,Watches, Smart Watch
+16,2021-01-04 06:00:00,478,Desktop,12,Swimwear, Swim Shirt
+16,2021-01-04 07:00:00,155,Mobile,13,Jewelry, Necklace
+17,2021-01-04 08:00:00,319,Mobile,3,Heels, Stiletto Heels
+17,2021-01-04 09:00:00,34,Tablet,6,Suits, Casual Suit
+17,2021-01-04 10:00:00,545,Mobile,12,Shorts, Cargo Shorts
+17,2021-01-04 11:00:00,370,Desktop,14,Swimwear, Swim Trunks
+17,2021-01-04 12:00:00,332,Desktop,12,Shorts, Bermuda Shorts
+18,2021-01-04 13:00:00,364,Desktop,5,Watches, Analog Watch
+18,2021-01-04 14:00:00,206,Tablet,5,Skincare, Face Mask
+18,2021-01-04 15:00:00,160,Desktop,4,Sweaters, Cable Knit Sweater
+18,2021-01-04 16:00:00,266,Desktop,10,Swimwear, Swim Shirt
+18,2021-01-04 17:00:00,468,Desktop,5,Jewelry, Ring
+19,2021-01-04 18:00:00,222,Mobile,7,Swimwear, Board Shorts
+19,2021-01-04 19:00:00,314,Mobile,12,Shorts, Chino Shorts
+19,2021-01-04 20:00:00,535,Mobile,17,Sunglasses, Square Sunglasses
+19,2021-01-04 21:00:00,76,Desktop,7,Shirts, Printed Shirt
+19,2021-01-04 22:00:00,66,Desktop,19,Makeup, Eyeshadow
+20,2021-01-04 23:00:00,594,Desktop,19,Hoodies, Athletic Hoodie
+20,2021-01-05 00:00:00,117,Desktop,18,Swimwear, Rash Guard
+20,2021-01-05 01:00:00,119,Mobile,2,Hats, Trucker Hat
+20,2021-01-05 02:00:00,96,Mobile,16,Skincare, Cleanser
+20,2021-01-05 03:00:00,511,Tablet,16,Heels, Block Heels
+21,2021-01-05 04:00:00,149,Mobile,18,Shirts, Striped Shirt
+21,2021-01-05 05:00:00,404,Desktop,18,Swimwear, Swim Trunks
+21,2021-01-05 06:00:00,531,Desktop,9,Makeup, Concealer
+21,2021-01-05 07:00:00,119,Tablet,9,Suits, Tuxedo
+21,2021-01-05 08:00:00,320,Desktop,6,Suits, Casual Suit
+22,2021-01-05 09:00:00,304,Mobile,7,Shorts, Bermuda Shorts
+22,2021-01-05 10:00:00,482,Desktop,13,Hoodies, Pullover Hoodie
+22,2021-01-05 11:00:00,376,Mobile,7,Belts, Studded Belt
+22,2021-01-05 12:00:00,9,Desktop,15,Shorts, Athletic Shorts
+22,2021-01-05 13:00:00,106,Tablet,8,Bags, Crossbody Bag
+23,2021-01-05 14:00:00,325,Tablet,9,Shorts, Chino Shorts
+23,2021-01-05 15:00:00,315,Mobile,11,Sunglasses, Wayfarer Sunglasses
+23,2021-01-05 16:00:00,72,Mobile,19,Belts, Canvas Belt
+23,2021-01-05 17:00:00,103,Mobile,19,Jeans, Straight Jeans
+23,2021-01-05 18:00:00,519,Desktop,14,Backpacks, Travel Backpack
+24,2021-01-05 19:00:00,220,Desktop,3,Scarves, Plaid Scarf
+24,2021-01-05 20:00:00,158,Mobile,18,Backpacks, Travel Backpack
+24,2021-01-05 21:00:00,53,Desktop,7,Suits, Casual Suit
+24,2021-01-05 22:00:00,538,Desktop,17,Suits, Double-Breasted Suit
+24,2021-01-05 23:00:00,250,Desktop,7,Sweaters, Turtleneck Sweater
+25,2021-01-06 00:00:00,171,Mobile,8,T-Shirts, V-Neck T-Shirt
+25,2021-01-06 01:00:00,375,Desktop,16,Suits, Double-Breasted Suit
+25,2021-01-06 02:00:00,16,Mobile,11,Belts, Studded Belt
+25,2021-01-06 03:00:00,373,Desktop,14,Watches, Dress Watch
+25,2021-01-06 04:00:00,248,Desktop,12,Boots, Chelsea Boots
+26,2021-01-06 05:00:00,491,Desktop,16,Backpacks, Travel Backpack
+26,2021-01-06 06:00:00,210,Desktop,8,Shorts, Denim Shorts
+26,2021-01-06 07:00:00,478,Mobile,8,Bags, Crossbody Bag
+26,2021-01-06 08:00:00,109,Mobile,8,Shorts, Chino Shorts
+26,2021-01-06 09:00:00,170,Desktop,17,Jackets, Blazer
+27,2021-01-06 10:00:00,542,Desktop,7,Shirts, Printed Shirt
+27,2021-01-06 11:00:00,395,Tablet,6,Dresses, Evening Dress
+27,2021-01-06 12:00:00,499,Desktop,3,Jackets, Bomber Jacket
+27,2021-01-06 13:00:00,264,Desktop,16,Sneakers, Running Shoes
+27,2021-01-06 14:00:00,161,Desktop,1,Jeans, Bootcut Jeans
+28,2021-01-06 15:00:00,88,Desktop,1,Ties, Bowtie
+28,2021-01-06 16:00:00,533,Tablet,15,T-Shirts, V-Neck T-Shirt
+28,2021-01-06 17:00:00,429,Desktop,6,Suits, Business Suit
+28,2021-01-06 18:00:00,527,Tablet,13,Makeup, Foundation
+28,2021-01-06 19:00:00,171,Mobile,8,Backpacks, Hiking Backpack
+29,2021-01-06 20:00:00,280,Desktop,12,Swimwear, Rash Guard
+29,2021-01-06 21:00:00,591,Mobile,8,Makeup, Blush
+29,2021-01-06 22:00:00,161,Mobile,4,Swimwear, Rash Guard
+29,2021-01-06 23:00:00,124,Mobile,9,T-Shirts, V-Neck T-Shirt
+29,2021-01-07 00:00:00,240,Mobile,3,Pants, Cargo Pants
+30,2021-01-07 01:00:00,92,Tablet,8,Makeup, Concealer
+30,2021-01-07 02:00:00,342,Mobile,13,Heels, Block Heels
+30,2021-01-07 03:00:00,283,Mobile,4,Sneakers, Running Shoes
+30,2021-01-07 04:00:00,420,Desktop,14,Backpacks, Travel Backpack
+30,2021-01-07 05:00:00,295,Tablet,1,Bags, Clutch Bag
+31,2021-01-07 06:00:00,425,Desktop,11,Ties, Skinny Tie
+31,2021-01-07 07:00:00,425,Mobile,9,Boots, Chelsea Boots
+31,2021-01-07 08:00:00,596,Mobile,18,T-Shirts, Graphic T-Shirt
+31,2021-01-07 09:00:00,261,Desktop,1,Heels, Ankle-strap Heels
+31,2021-01-07 10:00:00,335,Mobile,19,Dresses, Summer Dress
+32,2021-01-07 11:00:00,43,Desktop,9,Shorts, Cargo Shorts
+32,2021-01-07 12:00:00,141,Mobile,8,Suits, Casual Suit
+32,2021-01-07 13:00:00,496,Desktop,14,Gloves, Wool Gloves
+32,2021-01-07 14:00:00,575,Mobile,13,Sweaters, Cable Knit Sweater
+32,2021-01-07 15:00:00,165,Tablet,15,Swimwear, Rash Guard
+33,2021-01-07 16:00:00,366,Mobile,19,Jackets, Denim Jacket
+33,2021-01-07 17:00:00,258,Desktop,17,Dresses, Summer Dress
+33,2021-01-07 18:00:00,499,Mobile,16,Skincare, Eye Cream
+33,2021-01-07 19:00:00,460,Tablet,8,Jeans, High-rise Jeans
+33,2021-01-07 20:00:00,571,Desktop,17,Suits, Casual Suit
+34,2021-01-07 21:00:00,471,Mobile,4,Pants, Dress Pants
+34,2021-01-07 22:00:00,280,Mobile,14,Hoodies, Zip-Up Hoodie
+34,2021-01-07 23:00:00,33,Mobile,9,Ties, Woven Tie
+34,2021-01-08 00:00:00,260,Mobile,12,Gloves, Wool Gloves
+34,2021-01-08 01:00:00,273,Desktop,6,Sandals, Flat Sandals
+35,2021-01-08 02:00:00,547,Tablet,13,Sweaters, Crewneck Sweater
+35,2021-01-08 03:00:00,126,Desktop,2,Boots, Hiking Boots
+35,2021-01-08 04:00:00,59,Desktop,15,Jewelry, Anklet
+35,2021-01-08 05:00:00,442,Mobile,19,Sneakers, Classic Sneakers
+35,2021-01-08 06:00:00,552,Mobile,7,Hats, Wide Brim Hat
+36,2021-01-08 07:00:00,236,Desktop,14,Shorts, Cargo Shorts
+36,2021-01-08 08:00:00,6,Desktop,6,Shirts, Graphic Shirt
+36,2021-01-08 09:00:00,72,Desktop,15,Makeup, Mascara
+36,2021-01-08 10:00:00,247,Desktop,8,Sneakers, Classic Sneakers
+36,2021-01-08 11:00:00,517,Mobile,1,Heels, Ankle-strap Heels
+37,2021-01-08 12:00:00,518,Tablet,2,Heels, Wedge Heels
+37,2021-01-08 13:00:00,258,Desktop,5,Boots, Chelsea Boots
+37,2021-01-08 14:00:00,53,Mobile,7,Accessories, Cufflinks
+37,2021-01-08 15:00:00,542,Desktop,14,Sneakers, Canvas Sneakers
+37,2021-01-08 16:00:00,429,Mobile,7,Swimwear, Swim Trunks
+38,2021-01-08 17:00:00,581,Mobile,3,Boots, Ankle Boots
+38,2021-01-08 18:00:00,515,Mobile,10,Scarves, Silk Scarf
+38,2021-01-08 19:00:00,535,Mobile,1,Jackets, Blazer
+38,2021-01-08 20:00:00,584,Mobile,1,Jeans, Distressed Jeans
+38,2021-01-08 21:00:00,166,Mobile,13,T-Shirts, Graphic T-Shirt
+39,2021-01-08 22:00:00,587,Mobile,10,Shorts, Bermuda Shorts
+39,2021-01-08 23:00:00,199,Mobile,18,Shirts, Striped Shirt
+39,2021-01-09 00:00:00,183,Mobile,4,Sunglasses, Cat-Eye Sunglasses
+39,2021-01-09 01:00:00,417,Desktop,15,T-Shirts, Plain T-Shirt
+39,2021-01-09 02:00:00,79,Desktop,16,Bags, Clutch Bag
+40,2021-01-09 03:00:00,415,Mobile,16,T-Shirts, Striped T-Shirt
+40,2021-01-09 04:00:00,300,Tablet,3,Sweaters, Turtleneck Sweater
+40,2021-01-09 05:00:00,53,Desktop,12,Sneakers, Skate Shoes
+40,2021-01-09 06:00:00,171,Mobile,7,Scarves, Fringe Scarf
+40,2021-01-09 07:00:00,479,Tablet,3,Accessories, Bowtie
+41,2021-01-09 08:00:00,93,Desktop,6,Watches, Sports Watch
+41,2021-01-09 09:00:00,244,Desktop,15,Jeans, High-rise Jeans
+41,2021-01-09 10:00:00,443,Desktop,17,Makeup, Mascara
+41,2021-01-09 11:00:00,59,Mobile,9,Jackets, Blazer
+41,2021-01-09 12:00:00,584,Desktop,4,Jewelry, Ring
+42,2021-01-09 13:00:00,273,Desktop,3,Jewelry, Earrings
+42,2021-01-09 14:00:00,120,Desktop,10,Jewelry, Necklace
+42,2021-01-09 15:00:00,112,Mobile,19,T-Shirts, Graphic T-Shirt
+42,2021-01-09 16:00:00,159,Desktop,11,Jackets, Bomber Jacket
+42,2021-01-09 17:00:00,168,Mobile,17,Pants, Cargo Pants
+43,2021-01-09 18:00:00,430,Desktop,1,Jeans, Straight Jeans
+43,2021-01-09 19:00:00,482,Desktop,12,Jewelry, Necklace
+43,2021-01-09 20:00:00,114,Mobile,16,Boots, Hiking Boots
+43,2021-01-09 21:00:00,120,Mobile,7,Bags, Crossbody Bag
+43,2021-01-09 22:00:00,226,Mobile,7,Pants, Track Pants
+44,2021-01-09 23:00:00,19,Desktop,12,Makeup, Concealer
+44,2021-01-10 00:00:00,335,Mobile,10,Makeup, Concealer
+44,2021-01-10 01:00:00,79,Tablet,9,Jewelry, Bracelet
+44,2021-01-10 02:00:00,399,Desktop,4,Watches, Sports Watch
+44,2021-01-10 03:00:00,332,Tablet,9,Boots, Chelsea Boots
+45,2021-01-10 04:00:00,482,Desktop,10,Hats, Trucker Hat
+45,2021-01-10 05:00:00,230,Mobile,2,Bags, Crossbody Bag
+45,2021-01-10 06:00:00,206,Mobile,1,Dresses, Summer Dress
+45,2021-01-10 07:00:00,13,Mobile,8,Gloves, Touchscreen Gloves
+45,2021-01-10 08:00:00,312,Mobile,13,Skincare, Cleanser
+46,2021-01-10 09:00:00,584,Desktop,8,Skincare, Serum
+46,2021-01-10 10:00:00,373,Mobile,5,Belts, Webbed Belt
+46,2021-01-10 11:00:00,247,Tablet,13,Shirts, Graphic Shirt
+46,2021-01-10 12:00:00,298,Desktop,15,Makeup, Mascara
+46,2021-01-10 13:00:00,319,Desktop,10,Swimwear, Swim Briefs
+47,2021-01-10 14:00:00,293,Desktop,19,Heels, Stiletto Heels
+47,2021-01-10 15:00:00,582,Mobile,19,Bags, Satchel Bag
+47,2021-01-10 16:00:00,557,Mobile,17,Sandals, Gladiator Sandals
+47,2021-01-10 17:00:00,9,Desktop,17,Backpacks, Travel Backpack
+47,2021-01-10 18:00:00,305,Desktop,17,Gloves, Wool Gloves
+48,2021-01-10 19:00:00,136,Desktop,3,Ties, Skinny Tie
+48,2021-01-10 20:00:00,388,Mobile,5,Pants, Track Pants
+48,2021-01-10 21:00:00,234,Desktop,15,Belts, Leather Belt
+48,2021-01-10 22:00:00,224,Mobile,12,Sweaters, V-Neck Sweater
+48,2021-01-10 23:00:00,567,Mobile,19,Jeans, Skinny Jeans
+49,2021-01-11 00:00:00,126,Desktop,9,Hats, Beanie
+49,2021-01-11 01:00:00,38,Mobile,9,Watches, Dress Watch
+49,2021-01-11 02:00:00,179,Desktop,12,Belts, Leather Belt
+49,2021-01-11 03:00:00,500,Desktop,5,Makeup, Eyeshadow
+49,2021-01-11 04:00:00,448,Mobile,19,Shirts, Formal Shirt
+50,2021-01-11 05:00:00,200,Desktop,15,Backpacks, Travel Backpack
+50,2021-01-11 06:00:00,26,Mobile,16,Swimwear, Board Shorts
+50,2021-01-11 07:00:00,400,Desktop,9,Gloves, Leather Gloves
+50,2021-01-11 08:00:00,294,Mobile,4,Watches, Analog Watch
+50,2021-01-11 09:00:00,381,Mobile,14,Jewelry, Ring
+51,2021-01-11 10:00:00,412,Mobile,10,Watches, Smart Watch
+51,2021-01-11 11:00:00,470,Mobile,12,Skincare, Cleanser
+51,2021-01-11 12:00:00,308,Mobile,9,Sunglasses, Wayfarer Sunglasses
+51,2021-01-11 13:00:00,60,Desktop,2,Sunglasses, Cat-Eye Sunglasses
+51,2021-01-11 14:00:00,468,Mobile,15,Heels, Block Heels
+52,2021-01-11 15:00:00,418,Mobile,8,Jackets, Bomber Jacket
+52,2021-01-11 16:00:00,106,Tablet,16,T-Shirts, Pocket T-Shirt
+52,2021-01-11 17:00:00,524,Tablet,17,Jewelry, Earrings
+52,2021-01-11 18:00:00,59,Desktop,3,Hoodies, Fleece Hoodie
+52,2021-01-11 19:00:00,37,Desktop,8,Bags, Satchel Bag
+53,2021-01-11 20:00:00,460,Desktop,18,Jackets, Windbreaker
+53,2021-01-11 21:00:00,337,Mobile,1,Jeans, Straight Jeans
+53,2021-01-11 22:00:00,302,Tablet,6,Sandals, Wedge Sandals
+53,2021-01-11 23:00:00,540,Mobile,10,Dresses, Summer Dress
+53,2021-01-12 00:00:00,338,Desktop,18,Scarves, Infinity Scarf
+54,2021-01-12 01:00:00,407,Desktop,18,Swimwear, Swim Shirt
+54,2021-01-12 02:00:00,434,Desktop,8,Scarves, Infinity Scarf
+54,2021-01-12 03:00:00,100,Mobile,2,Sweaters, V-Neck Sweater
+54,2021-01-12 04:00:00,458,Mobile,4,Belts, Leather Belt
+54,2021-01-12 05:00:00,357,Desktop,19,Swimwear, Swim Shirt
+55,2021-01-12 06:00:00,404,Mobile,18,Skincare, Cleanser
+55,2021-01-12 07:00:00,325,Mobile,2,T-Shirts, Striped T-Shirt
+55,2021-01-12 08:00:00,348,Desktop,12,Pants, Chinos
+55,2021-01-12 09:00:00,302,Desktop,6,Sunglasses, Square Sunglasses
+55,2021-01-12 10:00:00,55,Mobile,9,Accessories, Bowtie
+56,2021-01-12 11:00:00,262,Mobile,10,Pants, Chinos
+56,2021-01-12 12:00:00,348,Desktop,11,Shirts, Formal Shirt
+56,2021-01-12 13:00:00,441,Tablet,15,Hats, Baseball Cap
+56,2021-01-12 14:00:00,416,Desktop,6,Backpacks, Hiking Backpack
+56,2021-01-12 15:00:00,463,Desktop,19,Bags, Crossbody Bag
+57,2021-01-12 16:00:00,426,Desktop,3,Dresses, Cocktail Dress
+57,2021-01-12 17:00:00,553,Mobile,5,Watches, Smart Watch
+57,2021-01-12 18:00:00,245,Mobile,4,Jewelry, Necklace
+57,2021-01-12 19:00:00,351,Tablet,1,Hoodies, Athletic Hoodie
+57,2021-01-12 20:00:00,497,Tablet,7,Shirts, Formal Shirt
+58,2021-01-12 21:00:00,478,Tablet,6,Shorts, Denim Shorts
+58,2021-01-12 22:00:00,233,Desktop,14,Boots, Combat Boots
+58,2021-01-12 23:00:00,434,Desktop,1,Gloves, Driving Gloves
+58,2021-01-13 00:00:00,306,Desktop,6,Shirts, Striped Shirt
+58,2021-01-13 01:00:00,142,Tablet,16,Jewelry, Earrings
+59,2021-01-13 02:00:00,224,Mobile,15,Sandals, Wedge Sandals
+59,2021-01-13 03:00:00,541,Desktop,12,T-Shirts, Graphic T-Shirt
+59,2021-01-13 04:00:00,562,Desktop,9,Backpacks, Travel Backpack
+59,2021-01-13 05:00:00,469,Mobile,7,Belts, Canvas Belt
+59,2021-01-13 06:00:00,274,Mobile,15,Jewelry, Earrings
+60,2021-01-13 07:00:00,296,Desktop,2,Backpacks, Daypack
+60,2021-01-13 08:00:00,362,Desktop,11,Swimwear, Board Shorts
+60,2021-01-13 09:00:00,5,Desktop,8,Swimwear, Swim Briefs
+60,2021-01-13 10:00:00,292,Mobile,12,Jewelry, Necklace
+60,2021-01-13 11:00:00,393,Tablet,10,Belts, Canvas Belt
+61,2021-01-13 12:00:00,20,Mobile,17,Jackets, Leather Jacket
+61,2021-01-13 13:00:00,50,Mobile,7,Heels, Block Heels
+61,2021-01-13 14:00:00,523,Mobile,4,Jewelry, Ring
+61,2021-01-13 15:00:00,450,Desktop,11,Gloves, Wool Gloves
+61,2021-01-13 16:00:00,311,Mobile,14,Hoodies, Pullover Hoodie
+62,2021-01-13 17:00:00,11,Desktop,5,Scarves, Infinity Scarf
+62,2021-01-13 18:00:00,246,Mobile,18,Shorts, Cargo Shorts
+62,2021-01-13 19:00:00,111,Desktop,12,Belts, Studded Belt
+62,2021-01-13 20:00:00,233,Mobile,5,Swimwear, Swim Trunks
+62,2021-01-13 21:00:00,250,Desktop,14,Ties, Woven Tie
+63,2021-01-13 22:00:00,184,Mobile,13,Shorts, Denim Shorts
+63,2021-01-13 23:00:00,235,Mobile,5,Swimwear, Board Shorts
+63,2021-01-14 00:00:00,105,Desktop,6,Backpacks, Daypack
+63,2021-01-14 01:00:00,207,Mobile,12,Sunglasses, Round Sunglasses
+63,2021-01-14 02:00:00,148,Mobile,6,Swimwear, Rash Guard
+64,2021-01-14 03:00:00,491,Mobile,15,Bags, Crossbody Bag
+64,2021-01-14 04:00:00,236,Mobile,16,T-Shirts, Striped T-Shirt
+64,2021-01-14 05:00:00,186,Desktop,4,Accessories, Cufflinks
+64,2021-01-14 06:00:00,223,Desktop,1,Shirts, Printed Shirt
+64,2021-01-14 07:00:00,477,Mobile,7,Ties, Bowtie
+65,2021-01-14 08:00:00,343,Tablet,11,Gloves, Touchscreen Gloves
+65,2021-01-14 09:00:00,334,Desktop,15,Hoodies, Athletic Hoodie
+65,2021-01-14 10:00:00,25,Mobile,7,Dresses, Maxi Dress
+65,2021-01-14 11:00:00,491,Desktop,6,Dresses, Maxi Dress
+65,2021-01-14 12:00:00,302,Mobile,4,Dresses, Maxi Dress
+66,2021-01-14 13:00:00,98,Desktop,9,Shirts, Printed Shirt
+66,2021-01-14 14:00:00,566,Mobile,9,Jackets, Bomber Jacket
+66,2021-01-14 15:00:00,404,Desktop,17,Skincare, Face Mask
+66,2021-01-14 16:00:00,169,Mobile,1,Shirts, Striped Shirt
+66,2021-01-14 17:00:00,264,Desktop,9,Accessories, Pocket Square
+67,2021-01-14 18:00:00,101,Mobile,16,Boots, Knee-high Boots
+67,2021-01-14 19:00:00,130,Desktop,8,Boots, Ankle Boots
+67,2021-01-14 20:00:00,567,Mobile,6,T-Shirts, Graphic T-Shirt
+67,2021-01-14 21:00:00,237,Mobile,10,Shorts, Cargo Shorts
+67,2021-01-14 22:00:00,183,Mobile,7,Ties, Woven Tie
+68,2021-01-14 23:00:00,296,Desktop,3,Pants, Jeans
+68,2021-01-15 00:00:00,512,Mobile,6,Bags, Clutch Bag
+68,2021-01-15 01:00:00,581,Desktop,2,Pants, Jeans
+68,2021-01-15 02:00:00,537,Tablet,18,Belts, Canvas Belt
+68,2021-01-15 03:00:00,563,Desktop,3,Watches, Analog Watch
+69,2021-01-15 04:00:00,128,Desktop,15,Ties, Skinny Tie
+69,2021-01-15 05:00:00,214,Desktop,5,Backpacks, Canvas Backpack
+69,2021-01-15 06:00:00,68,Desktop,8,Skincare, Cleanser
+69,2021-01-15 07:00:00,425,Mobile,18,Sandals, Gladiator Sandals
+69,2021-01-15 08:00:00,488,Desktop,6,Watches, Analog Watch
+70,2021-01-15 09:00:00,23,Mobile,5,Jackets, Leather Jacket
+70,2021-01-15 10:00:00,495,Tablet,1,Swimwear, Swim Briefs
+70,2021-01-15 11:00:00,290,Tablet,5,T-Shirts, Pocket T-Shirt
+70,2021-01-15 12:00:00,30,Mobile,1,Scarves, Infinity Scarf
+70,2021-01-15 13:00:00,168,Mobile,13,Sweaters, Cable Knit Sweater
+71,2021-01-15 14:00:00,136,Mobile,9,Sandals, Slide Sandals
+71,2021-01-15 15:00:00,258,Mobile,8,Swimwear, Swim Shirt
+71,2021-01-15 16:00:00,58,Mobile,12,Jewelry, Necklace
+71,2021-01-15 17:00:00,348,Desktop,3,Bags, Clutch Bag
+71,2021-01-15 18:00:00,569,Mobile,18,Scarves, Silk Scarf
+72,2021-01-15 19:00:00,87,Desktop,1,Ties, Bowtie
+72,2021-01-15 20:00:00,10,Mobile,6,Jeans, High-rise Jeans
+72,2021-01-15 21:00:00,542,Desktop,3,Accessories, Pocket Square
+72,2021-01-15 22:00:00,19,Mobile,17,T-Shirts, Plain T-Shirt
+72,2021-01-15 23:00:00,405,Desktop,18,Shorts, Bermuda Shorts
+73,2021-01-16 00:00:00,281,Desktop,15,Sweaters, Cardigan
+73,2021-01-16 01:00:00,300,Mobile,14,Boots, Ankle Boots
+73,2021-01-16 02:00:00,253,Mobile,17,Scarves, Plaid Scarf
+73,2021-01-16 03:00:00,238,Mobile,3,Dresses, Evening Dress
+73,2021-01-16 04:00:00,508,Desktop,6,Shirts, Graphic Shirt
+74,2021-01-16 05:00:00,388,Mobile,16,Jeans, High-rise Jeans
+74,2021-01-16 06:00:00,477,Tablet,19,Sweaters, Crewneck Sweater
+74,2021-01-16 07:00:00,546,Desktop,7,Heels, Block Heels
+74,2021-01-16 08:00:00,231,Tablet,10,Gloves, Driving Gloves
+74,2021-01-16 09:00:00,520,Mobile,17,Watches, Analog Watch
+75,2021-01-16 10:00:00,14,Mobile,17,Backpacks, Daypack
+75,2021-01-16 11:00:00,107,Desktop,12,Hats, Baseball Cap
+75,2021-01-16 12:00:00,141,Desktop,6,Jeans, Skinny Jeans
+75,2021-01-16 13:00:00,263,Mobile,19,Suits, Business Suit
+75,2021-01-16 14:00:00,555,Tablet,16,Bags, Crossbody Bag
+76,2021-01-16 15:00:00,255,Desktop,19,Shirts, Printed Shirt
+76,2021-01-16 16:00:00,524,Desktop,11,Backpacks, Canvas Backpack
+76,2021-01-16 17:00:00,291,Desktop,18,Sweaters, Cardigan
+76,2021-01-16 18:00:00,26,Tablet,12,Swimwear, Swim Shirt
+76,2021-01-16 19:00:00,417,Desktop,6,Sandals, Slide Sandals
+77,2021-01-16 20:00:00,336,Desktop,12,Sweaters, Cardigan
+77,2021-01-16 21:00:00,474,Desktop,13,Hats, Baseball Cap
+77,2021-01-16 22:00:00,221,Desktop,12,Scarves, Silk Scarf
+77,2021-01-16 23:00:00,419,Tablet,3,Sneakers, Classic Sneakers
+77,2021-01-17 00:00:00,379,Mobile,14,Bags, Crossbody Bag
+78,2021-01-17 01:00:00,35,Desktop,3,Skincare, Face Mask
+78,2021-01-17 02:00:00,533,Mobile,14,Backpacks, Laptop Backpack
+78,2021-01-17 03:00:00,499,Desktop,1,Gloves, Driving Gloves
+78,2021-01-17 04:00:00,5,Desktop,11,Jeans, High-rise Jeans
+78,2021-01-17 05:00:00,587,Mobile,1,Jewelry, Earrings
+79,2021-01-17 06:00:00,168,Mobile,15,Belts, Braided Belt
+79,2021-01-17 07:00:00,573,Mobile,15,Pants, Dress Pants
+79,2021-01-17 08:00:00,150,Mobile,15,Shorts, Cargo Shorts
+79,2021-01-17 09:00:00,354,Tablet,13,Belts, Studded Belt
+79,2021-01-17 10:00:00,33,Mobile,6,Gloves, Knit Gloves
+80,2021-01-17 11:00:00,568,Desktop,11,Shirts, Printed Shirt
+80,2021-01-17 12:00:00,308,Mobile,17,Boots, Ankle Boots
+80,2021-01-17 13:00:00,505,Mobile,5,Watches, Smart Watch
+80,2021-01-17 14:00:00,165,Mobile,9,Gloves, Wool Gloves
+80,2021-01-17 15:00:00,504,Mobile,14,Accessories, Necktie
+81,2021-01-17 16:00:00,428,Mobile,6,Jeans, Skinny Jeans
+81,2021-01-17 17:00:00,544,Desktop,3,T-Shirts, V-Neck T-Shirt
+81,2021-01-17 18:00:00,385,Mobile,1,Bags, Satchel Bag
+81,2021-01-17 19:00:00,366,Desktop,12,Pants, Chinos
+81,2021-01-17 20:00:00,589,Tablet,13,Suits, Double-Breasted Suit
+82,2021-01-17 21:00:00,543,Mobile,12,Dresses, Cocktail Dress
+82,2021-01-17 22:00:00,69,Mobile,9,Swimwear, Board Shorts
+82,2021-01-17 23:00:00,109,Desktop,2,Swimwear, Swim Shirt
+82,2021-01-18 00:00:00,543,Desktop,15,Dresses, Cocktail Dress
+82,2021-01-18 01:00:00,379,Mobile,18,Shirts, Graphic Shirt
+83,2021-01-18 02:00:00,442,Desktop,5,Skincare, Face Mask
+83,2021-01-18 03:00:00,363,Tablet,7,Boots, Ankle Boots
+83,2021-01-18 04:00:00,391,Tablet,8,Watches, Smart Watch
+83,2021-01-18 05:00:00,65,Tablet,12,Suits, Double-Breasted Suit
+83,2021-01-18 06:00:00,459,Desktop,12,Jeans, Skinny Jeans
+84,2021-01-18 07:00:00,64,Desktop,2,Belts, Braided Belt
+84,2021-01-18 08:00:00,199,Mobile,11,Skincare, Moisturizer
+84,2021-01-18 09:00:00,412,Mobile,15,Suits, Casual Suit
+84,2021-01-18 10:00:00,310,Desktop,4,Ties, Woven Tie
+84,2021-01-18 11:00:00,534,Desktop,9,Sweaters, Cardigan
+85,2021-01-18 12:00:00,435,Desktop,14,Hats, Trucker Hat
+85,2021-01-18 13:00:00,574,Desktop,17,Shirts, Striped Shirt
+85,2021-01-18 14:00:00,20,Desktop,5,Hats, Baseball Cap
+85,2021-01-18 15:00:00,507,Desktop,12,Ties, Skinny Tie
+85,2021-01-18 16:00:00,189,Mobile,3,T-Shirts, Pocket T-Shirt
+86,2021-01-18 17:00:00,551,Desktop,1,Sneakers, High-Top Sneakers
+86,2021-01-18 18:00:00,390,Mobile,8,Jackets, Denim Jacket
+86,2021-01-18 19:00:00,137,Desktop,5,Hoodies, Pullover Hoodie
+86,2021-01-18 20:00:00,351,Desktop,8,Dresses, Summer Dress
+86,2021-01-18 21:00:00,226,Mobile,8,Heels, Block Heels
+87,2021-01-18 22:00:00,115,Desktop,13,Shirts, Printed Shirt
+87,2021-01-18 23:00:00,531,Desktop,13,Hats, Bucket Hat
+87,2021-01-19 00:00:00,24,Desktop,15,Accessories, Bowtie
+87,2021-01-19 01:00:00,33,Desktop,9,Dresses, Cocktail Dress
+87,2021-01-19 02:00:00,213,Mobile,17,Heels, Block Heels
+88,2021-01-19 03:00:00,52,Mobile,8,Shorts, Athletic Shorts
+88,2021-01-19 04:00:00,186,Mobile,19,Jeans, High-rise Jeans
+88,2021-01-19 05:00:00,294,Mobile,13,Hats, Beanie
+88,2021-01-19 06:00:00,436,Desktop,19,Bags, Crossbody Bag
+88,2021-01-19 07:00:00,171,Mobile,3,Suits, Tuxedo
+89,2021-01-19 08:00:00,211,Desktop,18,Sunglasses, Square Sunglasses
+89,2021-01-19 09:00:00,560,Desktop,12,Sunglasses, Wayfarer Sunglasses
+89,2021-01-19 10:00:00,557,Tablet,11,Gloves, Wool Gloves
+89,2021-01-19 11:00:00,541,Desktop,14,T-Shirts, Striped T-Shirt
+89,2021-01-19 12:00:00,487,Desktop,12,Jeans, High-rise Jeans
+90,2021-01-19 13:00:00,386,Desktop,10,Heels, Wedge Heels
+90,2021-01-19 14:00:00,114,Mobile,11,Accessories, Belt
+90,2021-01-19 15:00:00,254,Desktop,15,Boots, Knee-high Boots
+90,2021-01-19 16:00:00,539,Desktop,17,Sweaters, Crewneck Sweater
+90,2021-01-19 17:00:00,167,Mobile,10,Shirts, Striped Shirt
+91,2021-01-19 18:00:00,148,Desktop,3,Belts, Braided Belt
+91,2021-01-19 19:00:00,517,Mobile,14,Sandals, Flat Sandals
+91,2021-01-19 20:00:00,162,Desktop,11,Scarves, Silk Scarf
+91,2021-01-19 21:00:00,138,Desktop,9,Jewelry, Ring
+91,2021-01-19 22:00:00,553,Mobile,15,Heels, Wedge Heels
+92,2021-01-19 23:00:00,569,Desktop,2,Swimwear, Swim Trunks
+92,2021-01-20 00:00:00,122,Mobile,6,Boots, Hiking Boots
+92,2021-01-20 01:00:00,205,Desktop,6,Pants, Chinos
+92,2021-01-20 02:00:00,289,Mobile,17,Sweaters, Cable Knit Sweater
+92,2021-01-20 03:00:00,516,Mobile,18,Heels, Block Heels
+93,2021-01-20 04:00:00,502,Desktop,12,Hats, Wide Brim Hat
+93,2021-01-20 05:00:00,594,Desktop,8,Sunglasses, Round Sunglasses
+93,2021-01-20 06:00:00,592,Mobile,4,T-Shirts, Plain T-Shirt
+93,2021-01-20 07:00:00,48,Desktop,17,Scarves, Knit Scarf
+93,2021-01-20 08:00:00,324,Mobile,1,Watches, Dress Watch
+94,2021-01-20 09:00:00,308,Desktop,6,Watches, Analog Watch
+94,2021-01-20 10:00:00,419,Tablet,13,Hats, Bucket Hat
+94,2021-01-20 11:00:00,574,Desktop,4,Bags, Clutch Bag
+94,2021-01-20 12:00:00,17,Desktop,1,Swimwear, Swim Briefs
+94,2021-01-20 13:00:00,124,Desktop,19,Skincare, Cleanser
+95,2021-01-20 14:00:00,295,Mobile,10,Ties, Bowtie
+95,2021-01-20 15:00:00,293,Desktop,10,Shirts, Casual Shirt
+95,2021-01-20 16:00:00,88,Desktop,1,Watches, Sports Watch
+95,2021-01-20 17:00:00,148,Mobile,17,Sneakers, Classic Sneakers
+95,2021-01-20 18:00:00,268,Mobile,17,Boots, Chelsea Boots
+96,2021-01-20 19:00:00,383,Desktop,1,Skincare, Face Mask
+96,2021-01-20 20:00:00,472,Desktop,2,Suits, Single-Breasted Suit
+96,2021-01-20 21:00:00,74,Mobile,12,Gloves, Driving Gloves
+96,2021-01-20 22:00:00,426,Tablet,3,Watches, Digital Watch
+96,2021-01-20 23:00:00,440,Desktop,9,Skincare, Eye Cream
+97,2021-01-21 00:00:00,255,Tablet,2,Hoodies, Athletic Hoodie
+97,2021-01-21 01:00:00,64,Desktop,8,Sandals, Gladiator Sandals
+97,2021-01-21 02:00:00,479,Mobile,19,Scarves, Silk Scarf
+97,2021-01-21 03:00:00,156,Desktop,17,Skincare, Face Mask
+97,2021-01-21 04:00:00,349,Desktop,7,Dresses, Maxi Dress
+98,2021-01-21 05:00:00,334,Desktop,18,Bags, Clutch Bag
+98,2021-01-21 06:00:00,256,Mobile,16,Jackets, Windbreaker
+98,2021-01-21 07:00:00,208,Desktop,10,Watches, Smart Watch
+98,2021-01-21 08:00:00,288,Desktop,2,Watches, Dress Watch
+98,2021-01-21 09:00:00,502,Mobile,8,Ties, Woven Tie
+99,2021-01-21 10:00:00,521,Desktop,12,Gloves, Leather Gloves
+99,2021-01-21 11:00:00,446,Mobile,16,Sunglasses, Cat-Eye Sunglasses
+99,2021-01-21 12:00:00,186,Tablet,3,Hoodies, Zip-Up Hoodie
+99,2021-01-21 13:00:00,177,Desktop,14,Hoodies, Fleece Hoodie
+99,2021-01-21 14:00:00,566,Desktop,5,Jewelry, Earrings
+100,2021-01-21 15:00:00,169,Desktop,14,Jackets, Windbreaker
+100,2021-01-21 16:00:00,89,Mobile,15,Sneakers, High-Top Sneakers
+100,2021-01-21 17:00:00,273,Tablet,18,Jewelry, Necklace
+100,2021-01-21 18:00:00,592,Mobile,1,Makeup, Blush
+100,2021-01-21 19:00:00,432,Mobile,17,T-Shirts, V-Neck T-Shirt
+101,2021-01-21 20:00:00,265,Mobile,14,Pants, Chinos
+101,2021-01-21 21:00:00,435,Mobile,1,Belts, Webbed Belt
+101,2021-01-21 22:00:00,172,Tablet,15,Accessories, Pocket Square
+101,2021-01-21 23:00:00,402,Mobile,7,Pants, Jeans
+101,2021-01-22 00:00:00,460,Desktop,2,Jeans, Straight Jeans
+102,2021-01-22 01:00:00,262,Desktop,6,Swimwear, Swim Shirt
+102,2021-01-22 02:00:00,274,Desktop,10,Ties, Bowtie
+102,2021-01-22 03:00:00,296,Tablet,3,Sandals, Platform Sandals
+102,2021-01-22 04:00:00,59,Desktop,14,Hoodies, Pullover Hoodie
+102,2021-01-22 05:00:00,157,Desktop,18,Sunglasses, Cat-Eye Sunglasses
+103,2021-01-22 06:00:00,244,Mobile,7,Shirts, Casual Shirt
+103,2021-01-22 07:00:00,7,Mobile,2,Jeans, Straight Jeans
+103,2021-01-22 08:00:00,561,Mobile,5,Ties, Silk Tie
+103,2021-01-22 09:00:00,512,Desktop,8,Backpacks, Canvas Backpack
+103,2021-01-22 10:00:00,465,Desktop,7,Bags, Crossbody Bag
+104,2021-01-22 11:00:00,543,Desktop,6,Belts, Studded Belt
+104,2021-01-22 12:00:00,403,Desktop,12,Hoodies, Graphic Hoodie
+104,2021-01-22 13:00:00,427,Mobile,4,Gloves, Leather Gloves
+104,2021-01-22 14:00:00,384,Mobile,3,Jewelry, Ring
+104,2021-01-22 15:00:00,372,Tablet,16,Bags, Satchel Bag
+105,2021-01-22 16:00:00,494,Mobile,6,Belts, Webbed Belt
+105,2021-01-22 17:00:00,23,Desktop,7,Shirts, Graphic Shirt
+105,2021-01-22 18:00:00,392,Desktop,7,Bags, Tote Bag
+105,2021-01-22 19:00:00,203,Desktop,19,Ties, Knit Tie
+105,2021-01-22 20:00:00,238,Mobile,19,Jackets, Bomber Jacket
+106,2021-01-22 21:00:00,216,Desktop,19,T-Shirts, Graphic T-Shirt
+106,2021-01-22 22:00:00,162,Mobile,11,Hoodies, Pullover Hoodie
+106,2021-01-22 23:00:00,404,Desktop,11,Sunglasses, Round Sunglasses
+106,2021-01-23 00:00:00,439,Tablet,13,Watches, Analog Watch
+106,2021-01-23 01:00:00,564,Desktop,19,Makeup, Foundation
+107,2021-01-23 02:00:00,144,Tablet,14,Boots, Ankle Boots
+107,2021-01-23 03:00:00,250,Mobile,9,Makeup, Eyeshadow
+107,2021-01-23 04:00:00,107,Desktop,16,Boots, Chelsea Boots
+107,2021-01-23 05:00:00,555,Mobile,13,Dresses, Wrap Dress
+107,2021-01-23 06:00:00,401,Desktop,18,Gloves, Wool Gloves
+108,2021-01-23 07:00:00,288,Desktop,3,Pants, Cargo Pants
+108,2021-01-23 08:00:00,386,Desktop,2,Sweaters, Turtleneck Sweater
+108,2021-01-23 09:00:00,340,Mobile,1,Sunglasses, Square Sunglasses
+108,2021-01-23 10:00:00,31,Mobile,1,Jeans, Straight Jeans
+108,2021-01-23 11:00:00,363,Desktop,12,Scarves, Fringe Scarf
+109,2021-01-23 12:00:00,223,Desktop,18,Boots, Chelsea Boots
+109,2021-01-23 13:00:00,138,Desktop,19,Sandals, Platform Sandals
+109,2021-01-23 14:00:00,486,Mobile,9,Jewelry, Ring
+109,2021-01-23 15:00:00,81,Desktop,11,T-Shirts, Pocket T-Shirt
+109,2021-01-23 16:00:00,107,Desktop,19,Sneakers, High-Top Sneakers
+110,2021-01-23 17:00:00,588,Desktop,4,Swimwear, Board Shorts
+110,2021-01-23 18:00:00,266,Mobile,8,Swimwear, Swim Briefs
+110,2021-01-23 19:00:00,375,Desktop,9,Ties, Skinny Tie
+110,2021-01-23 20:00:00,298,Desktop,18,Hoodies, Graphic Hoodie
+110,2021-01-23 21:00:00,174,Tablet,9,Gloves, Touchscreen Gloves
+111,2021-01-23 22:00:00,479,Desktop,11,Watches, Dress Watch
+111,2021-01-23 23:00:00,381,Mobile,1,Backpacks, Hiking Backpack
+111,2021-01-24 00:00:00,275,Mobile,3,Jewelry, Ring
+111,2021-01-24 01:00:00,339,Mobile,3,Heels, Wedge Heels
+111,2021-01-24 02:00:00,134,Mobile,3,Pants, Chinos
+112,2021-01-24 03:00:00,214,Mobile,7,Heels, Platform Heels
+112,2021-01-24 04:00:00,257,Mobile,13,Sweaters, V-Neck Sweater
+112,2021-01-24 05:00:00,78,Desktop,9,Sneakers, High-Top Sneakers
+112,2021-01-24 06:00:00,351,Mobile,5,Sunglasses, Square Sunglasses
+112,2021-01-24 07:00:00,469,Mobile,2,Heels, Platform Heels
+113,2021-01-24 08:00:00,269,Tablet,10,Jackets, Windbreaker
+113,2021-01-24 09:00:00,354,Mobile,4,Shirts, Graphic Shirt
+113,2021-01-24 10:00:00,342,Desktop,6,Accessories, Cufflinks
+113,2021-01-24 11:00:00,397,Desktop,6,Dresses, Evening Dress
+113,2021-01-24 12:00:00,289,Desktop,11,Boots, Chelsea Boots
+114,2021-01-24 13:00:00,60,Mobile,19,Jackets, Windbreaker
+114,2021-01-24 14:00:00,451,Desktop,6,Scarves, Plaid Scarf
+114,2021-01-24 15:00:00,394,Desktop,10,Hoodies, Fleece Hoodie
+114,2021-01-24 16:00:00,27,Mobile,10,Hoodies, Zip-Up Hoodie
+114,2021-01-24 17:00:00,357,Desktop,7,Watches, Digital Watch
+115,2021-01-24 18:00:00,223,Desktop,15,Watches, Smart Watch
+115,2021-01-24 19:00:00,179,Desktop,19,Ties, Skinny Tie
+115,2021-01-24 20:00:00,53,Desktop,14,Swimwear, Rash Guard
+115,2021-01-24 21:00:00,415,Mobile,16,Hats, Beanie
+115,2021-01-24 22:00:00,81,Desktop,16,Jewelry, Earrings
+116,2021-01-24 23:00:00,339,Desktop,16,Boots, Hiking Boots
+116,2021-01-25 00:00:00,445,Desktop,5,Swimwear, Swim Trunks
+116,2021-01-25 01:00:00,506,Desktop,7,Jackets, Leather Jacket
+116,2021-01-25 02:00:00,62,Desktop,3,Backpacks, Canvas Backpack
+116,2021-01-25 03:00:00,75,Desktop,1,Makeup, Mascara
+117,2021-01-25 04:00:00,537,Mobile,9,Sandals, Slide Sandals
+117,2021-01-25 05:00:00,399,Mobile,16,Sandals, Slide Sandals
+117,2021-01-25 06:00:00,455,Mobile,9,Accessories, Necktie
+117,2021-01-25 07:00:00,416,Mobile,5,Watches, Smart Watch
+117,2021-01-25 08:00:00,477,Desktop,16,Shorts, Bermuda Shorts
+118,2021-01-25 09:00:00,117,Tablet,14,Sunglasses, Cat-Eye Sunglasses
+118,2021-01-25 10:00:00,62,Desktop,7,Pants, Chinos
+118,2021-01-25 11:00:00,213,Tablet,6,Scarves, Plaid Scarf
+118,2021-01-25 12:00:00,581,Desktop,18,Dresses, Maxi Dress
+118,2021-01-25 13:00:00,180,Mobile,17,Dresses, Maxi Dress
+119,2021-01-25 14:00:00,17,Tablet,15,Swimwear, Swim Shirt
+119,2021-01-25 15:00:00,396,Desktop,13,Pants, Cargo Pants
+119,2021-01-25 16:00:00,195,Desktop,8,Backpacks, Laptop Backpack
+119,2021-01-25 17:00:00,303,Desktop,17,Watches, Digital Watch
+119,2021-01-25 18:00:00,384,Desktop,16,Ties, Bowtie
+120,2021-01-25 19:00:00,77,Desktop,4,Jewelry, Bracelet
+120,2021-01-25 20:00:00,525,Desktop,3,Gloves, Touchscreen Gloves
+120,2021-01-25 21:00:00,141,Desktop,18,Pants, Jeans
+120,2021-01-25 22:00:00,262,Desktop,14,Gloves, Wool Gloves
+120,2021-01-25 23:00:00,86,Mobile,19,Dresses, Evening Dress
+121,2021-01-26 00:00:00,590,Tablet,6,Jewelry, Necklace
+121,2021-01-26 01:00:00,584,Desktop,10,Pants, Cargo Pants
+121,2021-01-26 02:00:00,231,Desktop,15,Shirts, Graphic Shirt
+121,2021-01-26 03:00:00,259,Mobile,4,Accessories, Necktie
+121,2021-01-26 04:00:00,106,Desktop,2,Boots, Combat Boots
+122,2021-01-26 05:00:00,397,Desktop,19,Gloves, Leather Gloves
+122,2021-01-26 06:00:00,414,Desktop,2,Sweaters, Crewneck Sweater
+122,2021-01-26 07:00:00,324,Desktop,11,Sneakers, Classic Sneakers
+122,2021-01-26 08:00:00,437,Desktop,14,Scarves, Infinity Scarf
+122,2021-01-26 09:00:00,551,Mobile,11,Hoodies, Zip-Up Hoodie
+123,2021-01-26 10:00:00,577,Mobile,9,Suits, Casual Suit
+123,2021-01-26 11:00:00,38,Mobile,19,Dresses, Cocktail Dress
+123,2021-01-26 12:00:00,294,Desktop,12,Sweaters, Crewneck Sweater
+123,2021-01-26 13:00:00,187,Mobile,5,Backpacks, Daypack
+123,2021-01-26 14:00:00,39,Desktop,4,Jackets, Denim Jacket
+124,2021-01-26 15:00:00,498,Desktop,14,Swimwear, Swim Shirt
+124,2021-01-26 16:00:00,502,Mobile,11,Ties, Silk Tie
+124,2021-01-26 17:00:00,512,Mobile,8,Boots, Combat Boots
+124,2021-01-26 18:00:00,491,Mobile,14,Shorts, Chino Shorts
+124,2021-01-26 19:00:00,69,Desktop,4,Backpacks, Daypack
+125,2021-01-26 20:00:00,214,Mobile,6,Sneakers, Running Shoes
+125,2021-01-26 21:00:00,478,Desktop,1,Sweaters, V-Neck Sweater
+125,2021-01-26 22:00:00,295,Desktop,2,Makeup, Eyeshadow
+125,2021-01-26 23:00:00,389,Mobile,16,Watches, Sports Watch
+125,2021-01-27 00:00:00,248,Desktop,1,Hats, Wide Brim Hat
+126,2021-01-27 01:00:00,294,Desktop,12,Gloves, Leather Gloves
+126,2021-01-27 02:00:00,293,Mobile,18,Swimwear, Swim Trunks
+126,2021-01-27 03:00:00,338,Tablet,5,Hoodies, Fleece Hoodie
+126,2021-01-27 04:00:00,21,Desktop,12,Scarves, Fringe Scarf
+126,2021-01-27 05:00:00,429,Desktop,17,T-Shirts, Striped T-Shirt
+127,2021-01-27 06:00:00,529,Mobile,17,Watches, Sports Watch
+127,2021-01-27 07:00:00,540,Desktop,15,Shirts, Formal Shirt
+127,2021-01-27 08:00:00,582,Mobile,9,Swimwear, Swim Shirt
+127,2021-01-27 09:00:00,278,Mobile,15,Watches, Analog Watch
+127,2021-01-27 10:00:00,409,Mobile,17,Sneakers, Classic Sneakers
+128,2021-01-27 11:00:00,49,Mobile,4,Sweaters, V-Neck Sweater
+128,2021-01-27 12:00:00,399,Mobile,3,Hoodies, Zip-Up Hoodie
+128,2021-01-27 13:00:00,482,Mobile,7,Gloves, Touchscreen Gloves
+128,2021-01-27 14:00:00,580,Desktop,2,Shorts, Denim Shorts
+128,2021-01-27 15:00:00,19,Desktop,18,Gloves, Touchscreen Gloves
+129,2021-01-27 16:00:00,585,Mobile,18,Heels, Platform Heels
+129,2021-01-27 17:00:00,431,Desktop,9,Heels, Platform Heels
+129,2021-01-27 18:00:00,521,Desktop,8,Ties, Silk Tie
+129,2021-01-27 19:00:00,45,Mobile,1,Skincare, Eye Cream
+129,2021-01-27 20:00:00,180,Mobile,1,Makeup, Eyeshadow
+130,2021-01-27 21:00:00,278,Mobile,4,Jewelry, Earrings
+130,2021-01-27 22:00:00,532,Mobile,18,Sandals, Wedge Sandals
+130,2021-01-27 23:00:00,237,Mobile,14,Gloves, Driving Gloves
+130,2021-01-28 00:00:00,541,Mobile,16,Shorts, Chino Shorts
+130,2021-01-28 01:00:00,459,Mobile,6,Hoodies, Athletic Hoodie
+131,2021-01-28 02:00:00,346,Desktop,7,Bags, Clutch Bag
+131,2021-01-28 03:00:00,597,Desktop,9,Bags, Satchel Bag
+131,2021-01-28 04:00:00,191,Desktop,12,Heels, Wedge Heels
+131,2021-01-28 05:00:00,127,Desktop,12,Hats, Wide Brim Hat
+131,2021-01-28 06:00:00,82,Desktop,7,Swimwear, Swim Briefs
+132,2021-01-28 07:00:00,485,Desktop,1,Sneakers, High-Top Sneakers
+132,2021-01-28 08:00:00,235,Tablet,6,Shorts, Chino Shorts
+132,2021-01-28 09:00:00,211,Desktop,1,Sweaters, Cardigan
+132,2021-01-28 10:00:00,165,Desktop,13,Boots, Ankle Boots
+132,2021-01-28 11:00:00,176,Desktop,18,Sneakers, Canvas Sneakers
+133,2021-01-28 12:00:00,447,Mobile,14,Hats, Wide Brim Hat
+133,2021-01-28 13:00:00,108,Mobile,5,Jackets, Denim Jacket
+133,2021-01-28 14:00:00,69,Desktop,6,Bags, Clutch Bag
+133,2021-01-28 15:00:00,269,Mobile,7,Backpacks, Hiking Backpack
+133,2021-01-28 16:00:00,403,Desktop,1,T-Shirts, Plain T-Shirt
+134,2021-01-28 17:00:00,476,Mobile,7,Pants, Track Pants
+134,2021-01-28 18:00:00,26,Desktop,6,Sandals, Gladiator Sandals
+134,2021-01-28 19:00:00,224,Mobile,2,Shirts, Formal Shirt
+134,2021-01-28 20:00:00,6,Mobile,8,Hats, Trucker Hat
+134,2021-01-28 21:00:00,135,Mobile,14,Jewelry, Anklet
+135,2021-01-28 22:00:00,357,Mobile,18,Jackets, Leather Jacket
+135,2021-01-28 23:00:00,87,Mobile,2,Shorts, Cargo Shorts
+135,2021-01-29 00:00:00,241,Mobile,13,Jeans, Distressed Jeans
+135,2021-01-29 01:00:00,570,Mobile,14,Accessories, Bowtie
+135,2021-01-29 02:00:00,546,Mobile,7,Boots, Ankle Boots
+136,2021-01-29 03:00:00,554,Desktop,14,Sandals, Flat Sandals
+136,2021-01-29 04:00:00,126,Desktop,8,Ties, Knit Tie
+136,2021-01-29 05:00:00,415,Desktop,4,Gloves, Driving Gloves
+136,2021-01-29 06:00:00,358,Desktop,10,Bags, Crossbody Bag
+136,2021-01-29 07:00:00,529,Desktop,8,Boots, Chelsea Boots
+137,2021-01-29 08:00:00,76,Mobile,10,Pants, Track Pants
+137,2021-01-29 09:00:00,480,Mobile,13,Hoodies, Zip-Up Hoodie
+137,2021-01-29 10:00:00,534,Desktop,12,Jeans, High-rise Jeans
+137,2021-01-29 11:00:00,342,Mobile,8,Belts, Canvas Belt
+137,2021-01-29 12:00:00,487,Desktop,17,Dresses, Summer Dress
+138,2021-01-29 13:00:00,376,Mobile,14,Belts, Braided Belt
+138,2021-01-29 14:00:00,125,Desktop,7,Sneakers, Skate Shoes
+138,2021-01-29 15:00:00,101,Desktop,1,Skincare, Moisturizer
+138,2021-01-29 16:00:00,217,Mobile,4,Gloves, Leather Gloves
+138,2021-01-29 17:00:00,585,Desktop,17,Shorts, Denim Shorts
+139,2021-01-29 18:00:00,162,Mobile,3,Dresses, Summer Dress
+139,2021-01-29 19:00:00,112,Desktop,4,Swimwear, Swim Trunks
+139,2021-01-29 20:00:00,421,Desktop,16,Jewelry, Anklet
+139,2021-01-29 21:00:00,386,Desktop,4,Pants, Track Pants
+139,2021-01-29 22:00:00,48,Desktop,18,Jackets, Windbreaker
+140,2021-01-29 23:00:00,84,Tablet,6,Makeup, Blush
+140,2021-01-30 00:00:00,58,Desktop,11,Pants, Chinos
+140,2021-01-30 01:00:00,116,Mobile,14,Jewelry, Earrings
+140,2021-01-30 02:00:00,220,Mobile,8,Sweaters, V-Neck Sweater
+140,2021-01-30 03:00:00,215,Desktop,9,Jackets, Windbreaker
+141,2021-01-30 04:00:00,349,Mobile,19,Scarves, Knit Scarf
+141,2021-01-30 05:00:00,457,Desktop,11,Makeup, Blush
+141,2021-01-30 06:00:00,448,Desktop,3,Pants, Chinos
+141,2021-01-30 07:00:00,390,Mobile,8,Bags, Crossbody Bag
+141,2021-01-30 08:00:00,245,Desktop,18,Dresses, Evening Dress
+142,2021-01-30 09:00:00,585,Desktop,1,Boots, Knee-high Boots
+142,2021-01-30 10:00:00,149,Desktop,18,Ties, Woven Tie
+142,2021-01-30 11:00:00,508,Mobile,9,Backpacks, Laptop Backpack
+142,2021-01-30 12:00:00,143,Desktop,9,Bags, Tote Bag
+142,2021-01-30 13:00:00,547,Desktop,4,Pants, Dress Pants
+143,2021-01-30 14:00:00,208,Tablet,18,T-Shirts, V-Neck T-Shirt
+143,2021-01-30 15:00:00,273,Desktop,7,Backpacks, Hiking Backpack
+143,2021-01-30 16:00:00,67,Desktop,16,Sunglasses, Wayfarer Sunglasses
+143,2021-01-30 17:00:00,199,Desktop,4,Ties, Woven Tie
+143,2021-01-30 18:00:00,37,Desktop,12,Bags, Clutch Bag
+144,2021-01-30 19:00:00,16,Mobile,5,Skincare, Eye Cream
+144,2021-01-30 20:00:00,62,Tablet,12,Backpacks, Laptop Backpack
+144,2021-01-30 21:00:00,136,Mobile,1,Hats, Trucker Hat
+144,2021-01-30 22:00:00,540,Mobile,16,Swimwear, Board Shorts
+144,2021-01-30 23:00:00,513,Desktop,18,Boots, Hiking Boots
+145,2021-01-31 00:00:00,291,Desktop,12,Gloves, Wool Gloves
+145,2021-01-31 01:00:00,300,Mobile,18,Accessories, Bowtie
+145,2021-01-31 02:00:00,479,Desktop,3,T-Shirts, V-Neck T-Shirt
+145,2021-01-31 03:00:00,499,Desktop,5,Gloves, Wool Gloves
+145,2021-01-31 04:00:00,593,Mobile,3,Heels, Wedge Heels
+146,2021-01-31 05:00:00,198,Desktop,6,Swimwear, Swim Briefs
+146,2021-01-31 06:00:00,553,Desktop,2,Sunglasses, Cat-Eye Sunglasses
+146,2021-01-31 07:00:00,129,Mobile,13,Jackets, Leather Jacket
+146,2021-01-31 08:00:00,120,Mobile,5,Jewelry, Anklet
+146,2021-01-31 09:00:00,579,Desktop,4,T-Shirts, Pocket T-Shirt
+147,2021-01-31 10:00:00,20,Mobile,7,Pants, Chinos
+147,2021-01-31 11:00:00,40,Desktop,16,Suits, Business Suit
+147,2021-01-31 12:00:00,17,Desktop,15,Makeup, Mascara
+147,2021-01-31 13:00:00,388,Desktop,15,Gloves, Wool Gloves
+147,2021-01-31 14:00:00,504,Tablet,9,Dresses, Cocktail Dress
+148,2021-01-31 15:00:00,498,Mobile,12,Skincare, Moisturizer
+148,2021-01-31 16:00:00,177,Desktop,15,Jewelry, Bracelet
+148,2021-01-31 17:00:00,543,Mobile,14,Sandals, Gladiator Sandals
+148,2021-01-31 18:00:00,16,Desktop,10,Jeans, Distressed Jeans
+148,2021-01-31 19:00:00,442,Desktop,13,Jewelry, Bracelet
+149,2021-01-31 20:00:00,393,Desktop,6,Pants, Jeans
+149,2021-01-31 21:00:00,48,Mobile,5,Boots, Chelsea Boots
+149,2021-01-31 22:00:00,61,Mobile,1,Scarves, Fringe Scarf
+149,2021-01-31 23:00:00,149,Desktop,18,Hats, Wide Brim Hat
+149,2021-02-01 00:00:00,307,Desktop,1,Suits, Tuxedo
+150,2021-02-01 01:00:00,217,Mobile,4,Sneakers, Skate Shoes
+150,2021-02-01 02:00:00,547,Tablet,16,T-Shirts, Striped T-Shirt
+150,2021-02-01 03:00:00,361,Mobile,18,Jeans, Straight Jeans
+150,2021-02-01 04:00:00,365,Mobile,4,Jackets, Blazer
+150,2021-02-01 05:00:00,379,Desktop,12,Sneakers, Skate Shoes
+151,2021-02-01 06:00:00,11,Desktop,2,Makeup, Foundation
+151,2021-02-01 07:00:00,490,Desktop,17,Jewelry, Anklet
+151,2021-02-01 08:00:00,152,Desktop,13,Hats, Wide Brim Hat
+151,2021-02-01 09:00:00,19,Mobile,17,Scarves, Fringe Scarf
+151,2021-02-01 10:00:00,530,Desktop,17,Sweaters, Cable Knit Sweater
+152,2021-02-01 11:00:00,222,Desktop,6,Accessories, Cufflinks
+152,2021-02-01 12:00:00,565,Desktop,6,Suits, Single-Breasted Suit
+152,2021-02-01 13:00:00,191,Mobile,2,Jackets, Denim Jacket
+152,2021-02-01 14:00:00,94,Mobile,1,Gloves, Touchscreen Gloves
+152,2021-02-01 15:00:00,302,Desktop,3,Suits, Double-Breasted Suit
+153,2021-02-01 16:00:00,278,Desktop,1,Hoodies, Fleece Hoodie
+153,2021-02-01 17:00:00,269,Mobile,14,Heels, Wedge Heels
+153,2021-02-01 18:00:00,139,Mobile,7,Pants, Dress Pants
+153,2021-02-01 19:00:00,241,Desktop,17,Gloves, Driving Gloves
+153,2021-02-01 20:00:00,177,Desktop,9,Sunglasses, Round Sunglasses
+154,2021-02-01 21:00:00,523,Desktop,15,Pants, Track Pants
+154,2021-02-01 22:00:00,428,Desktop,17,Jackets, Leather Jacket
+154,2021-02-01 23:00:00,174,Mobile,5,Accessories, Pocket Square
+154,2021-02-02 00:00:00,385,Mobile,16,Jewelry, Anklet
+154,2021-02-02 01:00:00,527,Mobile,2,Backpacks, Daypack
+155,2021-02-02 02:00:00,97,Mobile,12,Sweaters, Crewneck Sweater
+155,2021-02-02 03:00:00,256,Desktop,16,Sweaters, Cardigan
+155,2021-02-02 04:00:00,310,Tablet,3,Makeup, Mascara
+155,2021-02-02 05:00:00,225,Desktop,17,Hats, Trucker Hat
+155,2021-02-02 06:00:00,555,Mobile,14,Skincare, Serum
+156,2021-02-02 07:00:00,226,Mobile,8,Pants, Track Pants
+156,2021-02-02 08:00:00,587,Mobile,3,Shirts, Formal Shirt
+156,2021-02-02 09:00:00,296,Desktop,1,Hoodies, Graphic Hoodie
+156,2021-02-02 10:00:00,579,Desktop,9,Sweaters, V-Neck Sweater
+156,2021-02-02 11:00:00,346,Desktop,6,Sandals, Flat Sandals
+157,2021-02-02 12:00:00,510,Mobile,15,Sandals, Gladiator Sandals
+157,2021-02-02 13:00:00,371,Desktop,10,Gloves, Driving Gloves
+157,2021-02-02 14:00:00,102,Desktop,5,Belts, Leather Belt
+157,2021-02-02 15:00:00,98,Desktop,1,Makeup, Blush
+157,2021-02-02 16:00:00,306,Desktop,8,Shirts, Graphic Shirt
+158,2021-02-02 17:00:00,599,Mobile,16,Shorts, Athletic Shorts
+158,2021-02-02 18:00:00,551,Mobile,11,Suits, Tuxedo
+158,2021-02-02 19:00:00,573,Desktop,1,Heels, Stiletto Heels
+158,2021-02-02 20:00:00,94,Desktop,14,Hats, Beanie
+158,2021-02-02 21:00:00,507,Tablet,17,Scarves, Silk Scarf
+159,2021-02-02 22:00:00,435,Desktop,13,Sneakers, Running Shoes
+159,2021-02-02 23:00:00,430,Mobile,19,Bags, Satchel Bag
+159,2021-02-03 00:00:00,527,Mobile,18,Bags, Crossbody Bag
+159,2021-02-03 01:00:00,370,Mobile,8,Scarves, Silk Scarf
+159,2021-02-03 02:00:00,590,Mobile,10,Sunglasses, Square Sunglasses
+160,2021-02-03 03:00:00,304,Desktop,1,Skincare, Eye Cream
+160,2021-02-03 04:00:00,385,Mobile,7,Dresses, Summer Dress
+160,2021-02-03 05:00:00,425,Desktop,7,Ties, Silk Tie
+160,2021-02-03 06:00:00,524,Desktop,7,T-Shirts, Pocket T-Shirt
+160,2021-02-03 07:00:00,576,Desktop,3,Shirts, Casual Shirt
+161,2021-02-03 08:00:00,26,Desktop,4,Skincare, Cleanser
+161,2021-02-03 09:00:00,571,Mobile,8,Heels, Wedge Heels
+161,2021-02-03 10:00:00,431,Desktop,11,Bags, Crossbody Bag
+161,2021-02-03 11:00:00,102,Mobile,12,Backpacks, Hiking Backpack
+161,2021-02-03 12:00:00,21,Mobile,2,Gloves, Knit Gloves
+162,2021-02-03 13:00:00,63,Desktop,19,Dresses, Cocktail Dress
+162,2021-02-03 14:00:00,341,Mobile,13,Bags, Satchel Bag
+162,2021-02-03 15:00:00,245,Desktop,13,Skincare, Eye Cream
+162,2021-02-03 16:00:00,227,Desktop,7,Shorts, Denim Shorts
+162,2021-02-03 17:00:00,129,Mobile,14,Sweaters, Cable Knit Sweater
+163,2021-02-03 18:00:00,86,Desktop,1,Jewelry, Ring
+163,2021-02-03 19:00:00,78,Tablet,8,Hoodies, Graphic Hoodie
+163,2021-02-03 20:00:00,41,Desktop,16,Sweaters, Turtleneck Sweater
+163,2021-02-03 21:00:00,556,Tablet,6,Jeans, Distressed Jeans
+163,2021-02-03 22:00:00,597,Mobile,3,Sandals, Wedge Sandals
+164,2021-02-03 23:00:00,74,Mobile,9,Boots, Ankle Boots
+164,2021-02-04 00:00:00,447,Mobile,9,Hats, Baseball Cap
+164,2021-02-04 01:00:00,527,Mobile,19,Watches, Digital Watch
+164,2021-02-04 02:00:00,37,Mobile,13,Scarves, Knit Scarf
+164,2021-02-04 03:00:00,538,Desktop,2,Heels, Stiletto Heels
+165,2021-02-04 04:00:00,170,Desktop,14,Gloves, Touchscreen Gloves
+165,2021-02-04 05:00:00,427,Mobile,5,Shorts, Chino Shorts
+165,2021-02-04 06:00:00,522,Tablet,6,Pants, Jeans
+165,2021-02-04 07:00:00,124,Desktop,8,Suits, Tuxedo
+165,2021-02-04 08:00:00,479,Desktop,11,Watches, Digital Watch
+166,2021-02-04 09:00:00,443,Desktop,13,Skincare, Eye Cream
+166,2021-02-04 10:00:00,350,Mobile,2,Pants, Dress Pants
+166,2021-02-04 11:00:00,183,Desktop,19,Watches, Sports Watch
+166,2021-02-04 12:00:00,502,Mobile,11,Jewelry, Anklet
+166,2021-02-04 13:00:00,399,Desktop,6,Watches, Smart Watch
+167,2021-02-04 14:00:00,155,Desktop,17,Scarves, Plaid Scarf
+167,2021-02-04 15:00:00,293,Desktop,11,Suits, Double-Breasted Suit
+167,2021-02-04 16:00:00,28,Desktop,10,Hoodies, Graphic Hoodie
+167,2021-02-04 17:00:00,22,Desktop,12,Suits, Single-Breasted Suit
+167,2021-02-04 18:00:00,268,Tablet,7,Sandals, Slide Sandals
+168,2021-02-04 19:00:00,226,Mobile,2,Ties, Bowtie
+168,2021-02-04 20:00:00,459,Desktop,5,Shorts, Cargo Shorts
+168,2021-02-04 21:00:00,576,Mobile,10,Ties, Woven Tie
+168,2021-02-04 22:00:00,359,Mobile,9,Dresses, Maxi Dress
+168,2021-02-04 23:00:00,526,Desktop,18,Heels, Block Heels
+169,2021-02-05 00:00:00,55,Tablet,16,T-Shirts, V-Neck T-Shirt
+169,2021-02-05 01:00:00,535,Desktop,1,Heels, Stiletto Heels
+169,2021-02-05 02:00:00,189,Mobile,7,Pants, Track Pants
+169,2021-02-05 03:00:00,347,Desktop,5,Hoodies, Fleece Hoodie
+169,2021-02-05 04:00:00,454,Mobile,10,Sweaters, Turtleneck Sweater
+170,2021-02-05 05:00:00,305,Tablet,3,Shorts, Cargo Shorts
+170,2021-02-05 06:00:00,147,Tablet,6,Jackets, Windbreaker
+170,2021-02-05 07:00:00,360,Mobile,16,Skincare, Cleanser
+170,2021-02-05 08:00:00,112,Desktop,18,Belts, Webbed Belt
+170,2021-02-05 09:00:00,191,Mobile,16,Shirts, Graphic Shirt
+171,2021-02-05 10:00:00,408,Mobile,16,Scarves, Silk Scarf
+171,2021-02-05 11:00:00,299,Mobile,18,Hats, Baseball Cap
+171,2021-02-05 12:00:00,281,Mobile,13,Makeup, Blush
+171,2021-02-05 13:00:00,343,Mobile,7,Hats, Bucket Hat
+171,2021-02-05 14:00:00,480,Mobile,19,Backpacks, Canvas Backpack
+172,2021-02-05 15:00:00,335,Tablet,15,Pants, Track Pants
+172,2021-02-05 16:00:00,300,Desktop,3,Jeans, High-rise Jeans
+172,2021-02-05 17:00:00,428,Desktop,16,Jackets, Leather Jacket
+172,2021-02-05 18:00:00,418,Desktop,11,Pants, Chinos
+172,2021-02-05 19:00:00,203,Mobile,19,Hoodies, Graphic Hoodie
+173,2021-02-05 20:00:00,213,Desktop,6,T-Shirts, V-Neck T-Shirt
+173,2021-02-05 21:00:00,537,Desktop,1,Boots, Ankle Boots
+173,2021-02-05 22:00:00,374,Mobile,18,Sandals, Slide Sandals
+173,2021-02-05 23:00:00,524,Desktop,10,Gloves, Leather Gloves
+173,2021-02-06 00:00:00,291,Mobile,12,T-Shirts, Plain T-Shirt
+174,2021-02-06 01:00:00,121,Desktop,8,Sandals, Flat Sandals
+174,2021-02-06 02:00:00,482,Desktop,19,Suits, Tuxedo
+174,2021-02-06 03:00:00,242,Desktop,10,Hats, Baseball Cap
+174,2021-02-06 04:00:00,539,Desktop,18,Hats, Trucker Hat
+174,2021-02-06 05:00:00,569,Mobile,18,Sandals, Slide Sandals
+175,2021-02-06 06:00:00,538,Desktop,4,Shorts, Chino Shorts
+175,2021-02-06 07:00:00,130,Mobile,18,Ties, Skinny Tie
+175,2021-02-06 08:00:00,492,Mobile,4,Watches, Sports Watch
+175,2021-02-06 09:00:00,580,Mobile,11,Sunglasses, Aviator Sunglasses
+175,2021-02-06 10:00:00,118,Desktop,17,Shorts, Denim Shorts
+176,2021-02-06 11:00:00,566,Desktop,13,Sandals, Slide Sandals
+176,2021-02-06 12:00:00,519,Desktop,8,Bags, Clutch Bag
+176,2021-02-06 13:00:00,142,Desktop,7,Ties, Knit Tie
+176,2021-02-06 14:00:00,367,Mobile,10,Watches, Smart Watch
+176,2021-02-06 15:00:00,21,Mobile,11,Sandals, Flat Sandals
+177,2021-02-06 16:00:00,519,Tablet,19,Watches, Dress Watch
+177,2021-02-06 17:00:00,431,Desktop,18,Shirts, Striped Shirt
+177,2021-02-06 18:00:00,448,Desktop,8,Makeup, Foundation
+177,2021-02-06 19:00:00,29,Desktop,3,Accessories, Bowtie
+177,2021-02-06 20:00:00,8,Mobile,18,Ties, Silk Tie
+178,2021-02-06 21:00:00,267,Mobile,14,Heels, Ankle-strap Heels
+178,2021-02-06 22:00:00,544,Desktop,7,T-Shirts, V-Neck T-Shirt
+178,2021-02-06 23:00:00,577,Mobile,19,Makeup, Foundation
+178,2021-02-07 00:00:00,199,Desktop,19,Ties, Knit Tie
+178,2021-02-07 01:00:00,171,Desktop,17,Pants, Chinos
+179,2021-02-07 02:00:00,167,Tablet,19,Watches, Smart Watch
+179,2021-02-07 03:00:00,245,Mobile,15,Pants, Track Pants
+179,2021-02-07 04:00:00,99,Desktop,12,Bags, Crossbody Bag
+179,2021-02-07 05:00:00,68,Desktop,16,T-Shirts, Graphic T-Shirt
+179,2021-02-07 06:00:00,268,Mobile,19,Makeup, Concealer
+180,2021-02-07 07:00:00,501,Desktop,1,Shorts, Cargo Shorts
+180,2021-02-07 08:00:00,172,Mobile,8,Pants, Cargo Pants
+180,2021-02-07 09:00:00,518,Mobile,10,Accessories, Bowtie
+180,2021-02-07 10:00:00,490,Desktop,13,Sneakers, High-Top Sneakers
+180,2021-02-07 11:00:00,471,Mobile,8,Suits, Double-Breasted Suit
+181,2021-02-07 12:00:00,333,Desktop,14,Jeans, High-rise Jeans
+181,2021-02-07 13:00:00,331,Desktop,4,Sweaters, Cardigan
+181,2021-02-07 14:00:00,576,Desktop,5,Makeup, Blush
+181,2021-02-07 15:00:00,585,Mobile,3,Pants, Jeans
+181,2021-02-07 16:00:00,403,Desktop,8,Suits, Business Suit
+182,2021-02-07 17:00:00,470,Desktop,6,Shorts, Athletic Shorts
+182,2021-02-07 18:00:00,300,Desktop,13,Gloves, Touchscreen Gloves
+182,2021-02-07 19:00:00,378,Tablet,3,Sneakers, Skate Shoes
+182,2021-02-07 20:00:00,157,Desktop,11,Heels, Ankle-strap Heels
+182,2021-02-07 21:00:00,338,Desktop,15,Gloves, Driving Gloves
+183,2021-02-07 22:00:00,448,Mobile,19,Accessories, Necktie
+183,2021-02-07 23:00:00,146,Mobile,13,T-Shirts, Pocket T-Shirt
+183,2021-02-08 00:00:00,455,Desktop,7,Suits, Double-Breasted Suit
+183,2021-02-08 01:00:00,333,Desktop,17,Sandals, Platform Sandals
+183,2021-02-08 02:00:00,223,Mobile,13,Shorts, Athletic Shorts
+184,2021-02-08 03:00:00,565,Mobile,13,T-Shirts, Plain T-Shirt
+184,2021-02-08 04:00:00,185,Mobile,17,Makeup, Mascara
+184,2021-02-08 05:00:00,72,Desktop,8,Hoodies, Pullover Hoodie
+184,2021-02-08 06:00:00,235,Tablet,18,Sweaters, Crewneck Sweater
+184,2021-02-08 07:00:00,33,Mobile,7,Sweaters, Cardigan
+185,2021-02-08 08:00:00,405,Desktop,17,Jackets, Blazer
+185,2021-02-08 09:00:00,428,Mobile,4,Shorts, Bermuda Shorts
+185,2021-02-08 10:00:00,144,Desktop,19,Makeup, Eyeshadow
+185,2021-02-08 11:00:00,351,Mobile,18,Shorts, Denim Shorts
+185,2021-02-08 12:00:00,540,Mobile,9,Scarves, Fringe Scarf
+186,2021-02-08 13:00:00,297,Mobile,9,Accessories, Pocket Square
+186,2021-02-08 14:00:00,186,Mobile,15,Jeans, Skinny Jeans
+186,2021-02-08 15:00:00,12,Desktop,10,Hats, Bucket Hat
+186,2021-02-08 16:00:00,56,Tablet,10,Backpacks, Laptop Backpack
+186,2021-02-08 17:00:00,293,Desktop,1,Pants, Jeans
+187,2021-02-08 18:00:00,68,Desktop,1,Dresses, Maxi Dress
+187,2021-02-08 19:00:00,303,Desktop,6,Hoodies, Fleece Hoodie
+187,2021-02-08 20:00:00,193,Desktop,19,Belts, Leather Belt
+187,2021-02-08 21:00:00,231,Desktop,19,Ties, Bowtie
+187,2021-02-08 22:00:00,488,Desktop,12,Sunglasses, Round Sunglasses
+188,2021-02-08 23:00:00,335,Desktop,9,Sandals, Platform Sandals
+188,2021-02-09 00:00:00,494,Desktop,12,T-Shirts, Striped T-Shirt
+188,2021-02-09 01:00:00,320,Desktop,8,Jackets, Blazer
+188,2021-02-09 02:00:00,598,Desktop,1,Pants, Dress Pants
+188,2021-02-09 03:00:00,111,Mobile,18,Pants, Dress Pants
+189,2021-02-09 04:00:00,82,Desktop,15,Sunglasses, Cat-Eye Sunglasses
+189,2021-02-09 05:00:00,262,Desktop,6,Shorts, Chino Shorts
+189,2021-02-09 06:00:00,469,Desktop,9,Backpacks, Hiking Backpack
+189,2021-02-09 07:00:00,13,Tablet,14,Bags, Satchel Bag
+189,2021-02-09 08:00:00,168,Mobile,6,Sweaters, V-Neck Sweater
+190,2021-02-09 09:00:00,114,Desktop,12,Skincare, Cleanser
+190,2021-02-09 10:00:00,50,Mobile,11,Swimwear, Swim Shirt
+190,2021-02-09 11:00:00,263,Desktop,11,Accessories, Necktie
+190,2021-02-09 12:00:00,234,Desktop,5,Belts, Leather Belt
+190,2021-02-09 13:00:00,395,Tablet,18,Accessories, Pocket Square
+191,2021-02-09 14:00:00,369,Desktop,10,Dresses, Evening Dress
+191,2021-02-09 15:00:00,9,Desktop,18,Accessories, Bowtie
+191,2021-02-09 16:00:00,548,Desktop,8,Backpacks, Canvas Backpack
+191,2021-02-09 17:00:00,465,Desktop,13,Shirts, Graphic Shirt
+191,2021-02-09 18:00:00,204,Tablet,17,Makeup, Eyeshadow
+192,2021-02-09 19:00:00,6,Desktop,15,Sunglasses, Wayfarer Sunglasses
+192,2021-02-09 20:00:00,166,Tablet,19,Sweaters, Crewneck Sweater
+192,2021-02-09 21:00:00,52,Mobile,8,Pants, Dress Pants
+192,2021-02-09 22:00:00,409,Desktop,3,Sandals, Slide Sandals
+192,2021-02-09 23:00:00,570,Tablet,19,Jeans, Distressed Jeans
+193,2021-02-10 00:00:00,290,Mobile,16,Dresses, Summer Dress
+193,2021-02-10 01:00:00,541,Mobile,12,Bags, Backpack
+193,2021-02-10 02:00:00,556,Mobile,19,Swimwear, Board Shorts
+193,2021-02-10 03:00:00,406,Desktop,11,Belts, Braided Belt
+193,2021-02-10 04:00:00,205,Tablet,12,Hats, Bucket Hat
+194,2021-02-10 05:00:00,306,Mobile,16,Belts, Leather Belt
+194,2021-02-10 06:00:00,389,Desktop,19,T-Shirts, Plain T-Shirt
+194,2021-02-10 07:00:00,286,Mobile,3,Gloves, Knit Gloves
+194,2021-02-10 08:00:00,28,Tablet,15,Jackets, Denim Jacket
+194,2021-02-10 09:00:00,249,Desktop,4,Skincare, Face Mask
+195,2021-02-10 10:00:00,132,Desktop,3,Shorts, Cargo Shorts
+195,2021-02-10 11:00:00,555,Desktop,3,Sandals, Wedge Sandals
+195,2021-02-10 12:00:00,553,Desktop,8,Jeans, High-rise Jeans
+195,2021-02-10 13:00:00,63,Mobile,17,Watches, Smart Watch
+195,2021-02-10 14:00:00,121,Tablet,9,Watches, Analog Watch
+196,2021-02-10 15:00:00,283,Mobile,12,Heels, Block Heels
+196,2021-02-10 16:00:00,560,Desktop,6,Shirts, Formal Shirt
+196,2021-02-10 17:00:00,264,Tablet,7,Belts, Webbed Belt
+196,2021-02-10 18:00:00,110,Mobile,19,Jewelry, Anklet
+196,2021-02-10 19:00:00,555,Mobile,12,Pants, Jeans
+197,2021-02-10 20:00:00,410,Mobile,13,Backpacks, Daypack
+197,2021-02-10 21:00:00,325,Tablet,2,Sneakers, Skate Shoes
+197,2021-02-10 22:00:00,548,Desktop,7,Scarves, Knit Scarf
+197,2021-02-10 23:00:00,273,Desktop,10,Ties, Knit Tie
+197,2021-02-11 00:00:00,227,Desktop,12,Sandals, Gladiator Sandals
+198,2021-02-11 01:00:00,162,Mobile,7,Shorts, Bermuda Shorts
+198,2021-02-11 02:00:00,247,Tablet,2,Swimwear, Board Shorts
+198,2021-02-11 03:00:00,59,Mobile,17,Bags, Tote Bag
+198,2021-02-11 04:00:00,554,Desktop,3,T-Shirts, Striped T-Shirt
+198,2021-02-11 05:00:00,135,Desktop,5,Boots, Knee-high Boots
+199,2021-02-11 06:00:00,65,Tablet,19,Heels, Stiletto Heels
+199,2021-02-11 07:00:00,317,Desktop,17,Sweaters, Turtleneck Sweater
+199,2021-02-11 08:00:00,313,Mobile,5,Belts, Leather Belt
+199,2021-02-11 09:00:00,284,Desktop,13,Gloves, Touchscreen Gloves
+199,2021-02-11 10:00:00,393,Mobile,18,Jackets, Denim Jacket
+200,2021-02-11 11:00:00,62,Mobile,18,Hoodies, Zip-Up Hoodie
+200,2021-02-11 12:00:00,562,Mobile,13,Skincare, Eye Cream
+200,2021-02-11 13:00:00,298,Desktop,3,Bags, Tote Bag
+200,2021-02-11 14:00:00,231,Desktop,9,Swimwear, Swim Shirt
+200,2021-02-11 15:00:00,471,Mobile,14,Sweaters, Cardigan
+201,2021-02-11 16:00:00,332,Desktop,8,Boots, Knee-high Boots
+201,2021-02-11 17:00:00,258,Tablet,2,Jewelry, Ring
+201,2021-02-11 18:00:00,298,Mobile,2,Hats, Bucket Hat
+201,2021-02-11 19:00:00,130,Desktop,12,Scarves, Silk Scarf
+201,2021-02-11 20:00:00,505,Tablet,11,Suits, Double-Breasted Suit
+202,2021-02-11 21:00:00,54,Desktop,8,Ties, Woven Tie
+202,2021-02-11 22:00:00,418,Mobile,15,Jewelry, Earrings
+202,2021-02-11 23:00:00,562,Desktop,18,Jewelry, Necklace
+202,2021-02-12 00:00:00,363,Desktop,16,Hoodies, Athletic Hoodie
+202,2021-02-12 01:00:00,340,Mobile,9,Hoodies, Fleece Hoodie
+203,2021-02-12 02:00:00,537,Tablet,16,Bags, Clutch Bag
+203,2021-02-12 03:00:00,119,Tablet,4,Scarves, Knit Scarf
+203,2021-02-12 04:00:00,369,Desktop,16,Hats, Baseball Cap
+203,2021-02-12 05:00:00,93,Mobile,5,Heels, Ankle-strap Heels
+203,2021-02-12 06:00:00,462,Mobile,1,Boots, Ankle Boots
+204,2021-02-12 07:00:00,102,Mobile,17,Jeans, High-rise Jeans
+204,2021-02-12 08:00:00,280,Desktop,9,Watches, Sports Watch
+204,2021-02-12 09:00:00,519,Mobile,18,Backpacks, Laptop Backpack
+204,2021-02-12 10:00:00,351,Desktop,6,Heels, Platform Heels
+204,2021-02-12 11:00:00,171,Mobile,6,Suits, Tuxedo
+205,2021-02-12 12:00:00,11,Tablet,5,Belts, Leather Belt
+205,2021-02-12 13:00:00,270,Desktop,1,Sneakers, Skate Shoes
+205,2021-02-12 14:00:00,49,Mobile,7,Scarves, Knit Scarf
+205,2021-02-12 15:00:00,374,Desktop,2,Sandals, Platform Sandals
+205,2021-02-12 16:00:00,561,Mobile,6,Shirts, Striped Shirt
+206,2021-02-12 17:00:00,556,Mobile,10,Suits, Double-Breasted Suit
+206,2021-02-12 18:00:00,435,Mobile,17,Sweaters, V-Neck Sweater
+206,2021-02-12 19:00:00,165,Mobile,17,Ties, Knit Tie
+206,2021-02-12 20:00:00,80,Mobile,9,T-Shirts, Graphic T-Shirt
+206,2021-02-12 21:00:00,121,Desktop,8,Jewelry, Anklet
+207,2021-02-12 22:00:00,162,Desktop,11,Sunglasses, Wayfarer Sunglasses
+207,2021-02-12 23:00:00,263,Tablet,13,Shirts, Graphic Shirt
+207,2021-02-13 00:00:00,34,Mobile,14,Ties, Silk Tie
+207,2021-02-13 01:00:00,471,Mobile,3,Backpacks, Daypack
+207,2021-02-13 02:00:00,462,Desktop,3,Belts, Leather Belt
+208,2021-02-13 03:00:00,421,Mobile,6,Dresses, Evening Dress
+208,2021-02-13 04:00:00,521,Desktop,10,Jeans, Straight Jeans
+208,2021-02-13 05:00:00,543,Tablet,7,Skincare, Face Mask
+208,2021-02-13 06:00:00,191,Mobile,18,Jeans, Distressed Jeans
+208,2021-02-13 07:00:00,30,Tablet,19,Jeans, High-rise Jeans
+209,2021-02-13 08:00:00,221,Desktop,14,Hats, Bucket Hat
+209,2021-02-13 09:00:00,556,Desktop,3,Shirts, Printed Shirt
+209,2021-02-13 10:00:00,269,Desktop,7,Backpacks, Canvas Backpack
+209,2021-02-13 11:00:00,108,Tablet,7,Boots, Ankle Boots
+209,2021-02-13 12:00:00,127,Mobile,6,Boots, Chelsea Boots
+210,2021-02-13 13:00:00,122,Mobile,1,Sandals, Flat Sandals
+210,2021-02-13 14:00:00,11,Desktop,5,Hats, Wide Brim Hat
+210,2021-02-13 15:00:00,387,Mobile,13,Boots, Knee-high Boots
+210,2021-02-13 16:00:00,78,Tablet,17,Backpacks, Laptop Backpack
+210,2021-02-13 17:00:00,453,Desktop,9,Sandals, Gladiator Sandals
+211,2021-02-13 18:00:00,98,Mobile,14,Watches, Dress Watch
+211,2021-02-13 19:00:00,409,Desktop,3,Accessories, Belt
+211,2021-02-13 20:00:00,496,Mobile,1,Shorts, Athletic Shorts
+211,2021-02-13 21:00:00,543,Desktop,12,Ties, Skinny Tie
+211,2021-02-13 22:00:00,297,Desktop,15,Belts, Webbed Belt
+212,2021-02-13 23:00:00,371,Mobile,10,Pants, Jeans
+212,2021-02-14 00:00:00,493,Desktop,2,Makeup, Blush
+212,2021-02-14 01:00:00,245,Desktop,7,Swimwear, Swim Shirt
+212,2021-02-14 02:00:00,83,Desktop,19,T-Shirts, Striped T-Shirt
+212,2021-02-14 03:00:00,333,Desktop,18,Sneakers, High-Top Sneakers
+213,2021-02-14 04:00:00,594,Mobile,17,Bags, Clutch Bag
+213,2021-02-14 05:00:00,107,Desktop,17,Skincare, Serum
+213,2021-02-14 06:00:00,104,Mobile,11,Skincare, Cleanser
+213,2021-02-14 07:00:00,9,Desktop,13,Belts, Leather Belt
+213,2021-02-14 08:00:00,136,Desktop,18,Swimwear, Swim Trunks
+214,2021-02-14 09:00:00,53,Mobile,6,Heels, Platform Heels
+214,2021-02-14 10:00:00,448,Desktop,2,Pants, Dress Pants
+214,2021-02-14 11:00:00,522,Desktop,16,Sneakers, Running Shoes
+214,2021-02-14 12:00:00,123,Mobile,10,Bags, Tote Bag
+214,2021-02-14 13:00:00,295,Desktop,18,Backpacks, Travel Backpack
+215,2021-02-14 14:00:00,279,Mobile,16,Jewelry, Ring
+215,2021-02-14 15:00:00,17,Mobile,12,Sweaters, Cable Knit Sweater
+215,2021-02-14 16:00:00,216,Desktop,14,Bags, Satchel Bag
+215,2021-02-14 17:00:00,412,Mobile,15,Hoodies, Pullover Hoodie
+215,2021-02-14 18:00:00,448,Desktop,14,Accessories, Bowtie
+216,2021-02-14 19:00:00,72,Desktop,16,T-Shirts, Pocket T-Shirt
+216,2021-02-14 20:00:00,232,Desktop,1,Skincare, Eye Cream
+216,2021-02-14 21:00:00,437,Mobile,10,Makeup, Concealer
+216,2021-02-14 22:00:00,244,Mobile,12,Sweaters, Crewneck Sweater
+216,2021-02-14 23:00:00,441,Desktop,9,Jewelry, Necklace
+217,2021-02-15 00:00:00,437,Mobile,6,T-Shirts, Striped T-Shirt
+217,2021-02-15 01:00:00,35,Mobile,18,Skincare, Cleanser
+217,2021-02-15 02:00:00,212,Desktop,15,Swimwear, Swim Shirt
+217,2021-02-15 03:00:00,189,Desktop,19,Scarves, Knit Scarf
+217,2021-02-15 04:00:00,117,Mobile,15,Hoodies, Pullover Hoodie
+218,2021-02-15 05:00:00,337,Desktop,9,Boots, Chelsea Boots
+218,2021-02-15 06:00:00,547,Mobile,14,Shirts, Formal Shirt
+218,2021-02-15 07:00:00,564,Desktop,9,Bags, Clutch Bag
+218,2021-02-15 08:00:00,422,Mobile,15,Shorts, Chino Shorts
+218,2021-02-15 09:00:00,77,Mobile,8,Hats, Trucker Hat
+219,2021-02-15 10:00:00,141,Desktop,16,Pants, Dress Pants
+219,2021-02-15 11:00:00,186,Mobile,3,Sneakers, Canvas Sneakers
+219,2021-02-15 12:00:00,145,Mobile,13,Scarves, Silk Scarf
+219,2021-02-15 13:00:00,430,Desktop,15,Shorts, Bermuda Shorts
+219,2021-02-15 14:00:00,56,Desktop,18,Bags, Tote Bag
+220,2021-02-15 15:00:00,439,Mobile,15,Accessories, Bowtie
+220,2021-02-15 16:00:00,463,Desktop,18,Jeans, Bootcut Jeans
+220,2021-02-15 17:00:00,473,Desktop,14,Jeans, High-rise Jeans
+220,2021-02-15 18:00:00,32,Mobile,10,Suits, Single-Breasted Suit
+220,2021-02-15 19:00:00,330,Desktop,1,Heels, Wedge Heels
+221,2021-02-15 20:00:00,547,Desktop,18,Heels, Stiletto Heels
+221,2021-02-15 21:00:00,435,Mobile,11,Sandals, Slide Sandals
+221,2021-02-15 22:00:00,428,Desktop,6,Bags, Backpack
+221,2021-02-15 23:00:00,343,Tablet,8,Jeans, High-rise Jeans
+221,2021-02-16 00:00:00,115,Desktop,6,Boots, Knee-high Boots
+222,2021-02-16 01:00:00,472,Desktop,12,Sandals, Platform Sandals
+222,2021-02-16 02:00:00,187,Mobile,11,Watches, Sports Watch
+222,2021-02-16 03:00:00,209,Mobile,12,Gloves, Knit Gloves
+222,2021-02-16 04:00:00,225,Desktop,14,Sneakers, Skate Shoes
+222,2021-02-16 05:00:00,439,Desktop,18,Swimwear, Swim Shirt
+223,2021-02-16 06:00:00,510,Mobile,5,Sweaters, Turtleneck Sweater
+223,2021-02-16 07:00:00,521,Mobile,10,Hats, Trucker Hat
+223,2021-02-16 08:00:00,373,Desktop,2,Gloves, Knit Gloves
+223,2021-02-16 09:00:00,184,Desktop,12,Sweaters, Cardigan
+223,2021-02-16 10:00:00,335,Tablet,9,Belts, Braided Belt
+224,2021-02-16 11:00:00,163,Desktop,13,Jewelry, Necklace
+224,2021-02-16 12:00:00,187,Mobile,5,Sweaters, V-Neck Sweater
+224,2021-02-16 13:00:00,127,Desktop,2,Accessories, Cufflinks
+224,2021-02-16 14:00:00,520,Mobile,8,Pants, Chinos
+224,2021-02-16 15:00:00,478,Mobile,7,Jackets, Windbreaker
+225,2021-02-16 16:00:00,62,Mobile,9,Gloves, Leather Gloves
+225,2021-02-16 17:00:00,265,Mobile,9,Jewelry, Earrings
+225,2021-02-16 18:00:00,112,Mobile,6,T-Shirts, Plain T-Shirt
+225,2021-02-16 19:00:00,211,Mobile,2,Gloves, Leather Gloves
+225,2021-02-16 20:00:00,52,Mobile,9,Accessories, Cufflinks
+226,2021-02-16 21:00:00,419,Desktop,13,Heels, Ankle-strap Heels
+226,2021-02-16 22:00:00,356,Desktop,5,Sweaters, Cable Knit Sweater
+226,2021-02-16 23:00:00,104,Desktop,11,Bags, Satchel Bag
+226,2021-02-17 00:00:00,421,Desktop,19,Watches, Sports Watch
+226,2021-02-17 01:00:00,395,Tablet,17,Skincare, Face Mask
+227,2021-02-17 02:00:00,232,Mobile,5,Jeans, Skinny Jeans
+227,2021-02-17 03:00:00,206,Desktop,15,T-Shirts, V-Neck T-Shirt
+227,2021-02-17 04:00:00,158,Desktop,17,Dresses, Wrap Dress
+227,2021-02-17 05:00:00,109,Desktop,12,Heels, Ankle-strap Heels
+227,2021-02-17 06:00:00,244,Mobile,6,Sweaters, Turtleneck Sweater
+228,2021-02-17 07:00:00,41,Tablet,7,Shorts, Denim Shorts
+228,2021-02-17 08:00:00,480,Mobile,6,Boots, Ankle Boots
+228,2021-02-17 09:00:00,118,Mobile,3,Scarves, Silk Scarf
+228,2021-02-17 10:00:00,129,Desktop,3,Pants, Cargo Pants
+228,2021-02-17 11:00:00,153,Mobile,19,Jeans, Bootcut Jeans
+229,2021-02-17 12:00:00,561,Desktop,13,Makeup, Blush
+229,2021-02-17 13:00:00,195,Desktop,9,Accessories, Necktie
+229,2021-02-17 14:00:00,322,Desktop,19,Boots, Combat Boots
+229,2021-02-17 15:00:00,364,Desktop,4,Jeans, Straight Jeans
+229,2021-02-17 16:00:00,396,Desktop,3,Belts, Studded Belt
+230,2021-02-17 17:00:00,9,Desktop,8,Heels, Wedge Heels
+230,2021-02-17 18:00:00,201,Desktop,12,Belts, Studded Belt
+230,2021-02-17 19:00:00,184,Desktop,14,Shirts, Casual Shirt
+230,2021-02-17 20:00:00,312,Desktop,2,Scarves, Infinity Scarf
+230,2021-02-17 21:00:00,129,Mobile,6,Suits, Single-Breasted Suit
+231,2021-02-17 22:00:00,372,Mobile,2,Dresses, Maxi Dress
+231,2021-02-17 23:00:00,155,Desktop,14,Jewelry, Earrings
+231,2021-02-18 00:00:00,192,Mobile,10,Hoodies, Zip-Up Hoodie
+231,2021-02-18 01:00:00,445,Desktop,4,Boots, Knee-high Boots
+231,2021-02-18 02:00:00,321,Mobile,16,Ties, Knit Tie
+232,2021-02-18 03:00:00,117,Mobile,3,Shorts, Denim Shorts
+232,2021-02-18 04:00:00,67,Desktop,15,Hats, Baseball Cap
+232,2021-02-18 05:00:00,427,Desktop,12,Hats, Trucker Hat
+232,2021-02-18 06:00:00,90,Desktop,10,Makeup, Eyeshadow
+232,2021-02-18 07:00:00,434,Mobile,19,T-Shirts, V-Neck T-Shirt
+233,2021-02-18 08:00:00,43,Desktop,6,Dresses, Evening Dress
+233,2021-02-18 09:00:00,443,Desktop,9,T-Shirts, Plain T-Shirt
+233,2021-02-18 10:00:00,83,Mobile,5,Sunglasses, Aviator Sunglasses
+233,2021-02-18 11:00:00,102,Desktop,1,Sweaters, Turtleneck Sweater
+233,2021-02-18 12:00:00,400,Desktop,13,Dresses, Evening Dress
+234,2021-02-18 13:00:00,166,Tablet,1,Watches, Analog Watch
+234,2021-02-18 14:00:00,482,Desktop,6,Sweaters, Crewneck Sweater
+234,2021-02-18 15:00:00,220,Mobile,9,Hats, Beanie
+234,2021-02-18 16:00:00,177,Mobile,13,Shorts, Cargo Shorts
+234,2021-02-18 17:00:00,218,Desktop,6,Scarves, Plaid Scarf
+235,2021-02-18 18:00:00,47,Desktop,16,Sunglasses, Aviator Sunglasses
+235,2021-02-18 19:00:00,204,Mobile,17,Pants, Dress Pants
+235,2021-02-18 20:00:00,185,Desktop,19,Jewelry, Earrings
+235,2021-02-18 21:00:00,473,Mobile,11,Pants, Chinos
+235,2021-02-18 22:00:00,224,Desktop,4,Shirts, Graphic Shirt
+236,2021-02-18 23:00:00,369,Mobile,1,Dresses, Wrap Dress
+236,2021-02-19 00:00:00,470,Desktop,19,Jeans, Bootcut Jeans
+236,2021-02-19 01:00:00,75,Desktop,6,Sunglasses, Cat-Eye Sunglasses
+236,2021-02-19 02:00:00,379,Desktop,10,Suits, Single-Breasted Suit
+236,2021-02-19 03:00:00,451,Mobile,5,Belts, Braided Belt
+237,2021-02-19 04:00:00,56,Desktop,16,Sweaters, Crewneck Sweater
+237,2021-02-19 05:00:00,423,Mobile,18,Jackets, Leather Jacket
+237,2021-02-19 06:00:00,112,Desktop,11,Backpacks, Canvas Backpack
+237,2021-02-19 07:00:00,222,Desktop,7,Heels, Platform Heels
+237,2021-02-19 08:00:00,354,Desktop,4,Jeans, Straight Jeans
+238,2021-02-19 09:00:00,466,Mobile,9,Sneakers, Classic Sneakers
+238,2021-02-19 10:00:00,148,Desktop,10,T-Shirts, V-Neck T-Shirt
+238,2021-02-19 11:00:00,565,Mobile,13,Backpacks, Daypack
+238,2021-02-19 12:00:00,308,Desktop,4,Bags, Tote Bag
+238,2021-02-19 13:00:00,156,Desktop,18,Bags, Satchel Bag
+239,2021-02-19 14:00:00,451,Mobile,3,Swimwear, Swim Trunks
+239,2021-02-19 15:00:00,159,Desktop,13,Gloves, Touchscreen Gloves
+239,2021-02-19 16:00:00,380,Mobile,7,Gloves, Leather Gloves
+239,2021-02-19 17:00:00,410,Desktop,12,Sandals, Platform Sandals
+239,2021-02-19 18:00:00,534,Mobile,18,Scarves, Plaid Scarf
+240,2021-02-19 19:00:00,379,Mobile,4,Belts, Leather Belt
+240,2021-02-19 20:00:00,352,Desktop,11,Backpacks, Laptop Backpack
+240,2021-02-19 21:00:00,35,Desktop,13,Sweaters, Crewneck Sweater
+240,2021-02-19 22:00:00,506,Desktop,17,Shorts, Athletic Shorts
+240,2021-02-19 23:00:00,262,Desktop,8,Belts, Studded Belt
+241,2021-02-20 00:00:00,24,Desktop,6,Shorts, Athletic Shorts
+241,2021-02-20 01:00:00,211,Desktop,14,Accessories, Pocket Square
+241,2021-02-20 02:00:00,288,Desktop,5,Heels, Platform Heels
+241,2021-02-20 03:00:00,416,Desktop,2,Skincare, Serum
+241,2021-02-20 04:00:00,439,Mobile,1,Makeup, Eyeshadow
+242,2021-02-20 05:00:00,575,Mobile,19,Sneakers, High-Top Sneakers
+242,2021-02-20 06:00:00,350,Mobile,2,Makeup, Blush
+242,2021-02-20 07:00:00,369,Desktop,14,Hoodies, Zip-Up Hoodie
+242,2021-02-20 08:00:00,43,Mobile,1,Hoodies, Fleece Hoodie
+242,2021-02-20 09:00:00,576,Mobile,3,Ties, Skinny Tie
+243,2021-02-20 10:00:00,487,Desktop,3,Suits, Business Suit
+243,2021-02-20 11:00:00,299,Mobile,10,Boots, Combat Boots
+243,2021-02-20 12:00:00,190,Tablet,19,T-Shirts, Plain T-Shirt
+243,2021-02-20 13:00:00,250,Desktop,13,Hoodies, Zip-Up Hoodie
+243,2021-02-20 14:00:00,40,Mobile,15,Jewelry, Earrings
+244,2021-02-20 15:00:00,286,Mobile,9,Hats, Baseball Cap
+244,2021-02-20 16:00:00,173,Desktop,4,Hoodies, Fleece Hoodie
+244,2021-02-20 17:00:00,245,Mobile,12,Hoodies, Graphic Hoodie
+244,2021-02-20 18:00:00,416,Tablet,2,Watches, Sports Watch
+244,2021-02-20 19:00:00,190,Tablet,18,Dresses, Summer Dress
+245,2021-02-20 20:00:00,124,Desktop,16,Sunglasses, Round Sunglasses
+245,2021-02-20 21:00:00,8,Desktop,6,Ties, Skinny Tie
+245,2021-02-20 22:00:00,596,Mobile,3,Hoodies, Graphic Hoodie
+245,2021-02-20 23:00:00,532,Desktop,14,Sandals, Flat Sandals
+245,2021-02-21 00:00:00,300,Desktop,14,Skincare, Moisturizer
+246,2021-02-21 01:00:00,557,Desktop,3,Dresses, Summer Dress
+246,2021-02-21 02:00:00,564,Desktop,4,Belts, Studded Belt
+246,2021-02-21 03:00:00,351,Tablet,3,Ties, Knit Tie
+246,2021-02-21 04:00:00,193,Tablet,19,Belts, Leather Belt
+246,2021-02-21 05:00:00,399,Desktop,7,Jeans, Straight Jeans
+247,2021-02-21 06:00:00,28,Desktop,12,Jewelry, Necklace
+247,2021-02-21 07:00:00,123,Mobile,1,Heels, Stiletto Heels
+247,2021-02-21 08:00:00,427,Mobile,6,Scarves, Infinity Scarf
+247,2021-02-21 09:00:00,504,Desktop,14,Belts, Webbed Belt
+247,2021-02-21 10:00:00,181,Mobile,14,Bags, Crossbody Bag
+248,2021-02-21 11:00:00,528,Desktop,4,Shorts, Cargo Shorts
+248,2021-02-21 12:00:00,521,Tablet,17,Heels, Wedge Heels
+248,2021-02-21 13:00:00,48,Mobile,7,T-Shirts, Pocket T-Shirt
+248,2021-02-21 14:00:00,175,Mobile,14,Sunglasses, Aviator Sunglasses
+248,2021-02-21 15:00:00,118,Mobile,6,Jeans, Distressed Jeans
+249,2021-02-21 16:00:00,361,Tablet,16,Jewelry, Bracelet
+249,2021-02-21 17:00:00,292,Desktop,4,Dresses, Evening Dress
+249,2021-02-21 18:00:00,82,Desktop,1,Shirts, Printed Shirt
+249,2021-02-21 19:00:00,594,Desktop,18,Shirts, Graphic Shirt
+249,2021-02-21 20:00:00,485,Mobile,3,Suits, Double-Breasted Suit
+250,2021-02-21 21:00:00,406,Desktop,11,Boots, Knee-high Boots
+250,2021-02-21 22:00:00,331,Desktop,4,Jeans, Skinny Jeans
+250,2021-02-21 23:00:00,428,Desktop,16,T-Shirts, Pocket T-Shirt
+250,2021-02-22 00:00:00,416,Desktop,18,Accessories, Pocket Square
+250,2021-02-22 01:00:00,468,Desktop,3,Boots, Chelsea Boots
+251,2021-02-22 02:00:00,526,Desktop,16,Gloves, Knit Gloves
+251,2021-02-22 03:00:00,103,Tablet,14,Accessories, Pocket Square
+251,2021-02-22 04:00:00,436,Mobile,4,Hoodies, Athletic Hoodie
+251,2021-02-22 05:00:00,449,Tablet,5,Boots, Combat Boots
+251,2021-02-22 06:00:00,510,Tablet,12,Scarves, Plaid Scarf
+252,2021-02-22 07:00:00,27,Tablet,9,Shorts, Bermuda Shorts
+252,2021-02-22 08:00:00,166,Mobile,18,Shirts, Casual Shirt
+252,2021-02-22 09:00:00,387,Mobile,19,Accessories, Pocket Square
+252,2021-02-22 10:00:00,269,Mobile,13,Sweaters, Cardigan
+252,2021-02-22 11:00:00,291,Mobile,16,Boots, Knee-high Boots
+253,2021-02-22 12:00:00,9,Mobile,3,Backpacks, Laptop Backpack
+253,2021-02-22 13:00:00,64,Mobile,1,Swimwear, Swim Briefs
+253,2021-02-22 14:00:00,331,Mobile,14,Heels, Ankle-strap Heels
+253,2021-02-22 15:00:00,399,Mobile,17,Skincare, Face Mask
+253,2021-02-22 16:00:00,383,Desktop,19,Ties, Bowtie
+254,2021-02-22 17:00:00,228,Mobile,14,Sweaters, Cable Knit Sweater
+254,2021-02-22 18:00:00,558,Desktop,17,Sweaters, Cable Knit Sweater
+254,2021-02-22 19:00:00,97,Mobile,1,Heels, Platform Heels
+254,2021-02-22 20:00:00,594,Desktop,18,Ties, Woven Tie
+254,2021-02-22 21:00:00,255,Mobile,15,Gloves, Touchscreen Gloves
+255,2021-02-22 22:00:00,477,Desktop,5,Scarves, Infinity Scarf
+255,2021-02-22 23:00:00,215,Mobile,16,Ties, Woven Tie
+255,2021-02-23 00:00:00,314,Mobile,12,Backpacks, Daypack
+255,2021-02-23 01:00:00,249,Mobile,15,Bags, Clutch Bag
+255,2021-02-23 02:00:00,113,Desktop,13,Jeans, Bootcut Jeans
+256,2021-02-23 03:00:00,516,Desktop,17,Hats, Wide Brim Hat
+256,2021-02-23 04:00:00,417,Mobile,8,Swimwear, Board Shorts
+256,2021-02-23 05:00:00,536,Mobile,15,Jackets, Windbreaker
+256,2021-02-23 06:00:00,582,Desktop,13,Jackets, Bomber Jacket
+256,2021-02-23 07:00:00,542,Desktop,15,Accessories, Cufflinks
+257,2021-02-23 08:00:00,124,Mobile,15,Skincare, Moisturizer
+257,2021-02-23 09:00:00,325,Mobile,10,Accessories, Cufflinks
+257,2021-02-23 10:00:00,455,Tablet,19,Heels, Wedge Heels
+257,2021-02-23 11:00:00,10,Desktop,14,Shorts, Chino Shorts
+257,2021-02-23 12:00:00,481,Desktop,4,Dresses, Cocktail Dress
+258,2021-02-23 13:00:00,453,Mobile,8,Ties, Knit Tie
+258,2021-02-23 14:00:00,450,Mobile,16,Backpacks, Daypack
+258,2021-02-23 15:00:00,160,Desktop,1,Shirts, Casual Shirt
+258,2021-02-23 16:00:00,329,Mobile,3,Hoodies, Graphic Hoodie
+258,2021-02-23 17:00:00,553,Desktop,12,Sneakers, High-Top Sneakers
+259,2021-02-23 18:00:00,595,Desktop,19,Boots, Chelsea Boots
+259,2021-02-23 19:00:00,324,Desktop,7,Jackets, Denim Jacket
+259,2021-02-23 20:00:00,567,Desktop,8,Shirts, Striped Shirt
+259,2021-02-23 21:00:00,46,Mobile,3,Gloves, Driving Gloves
+259,2021-02-23 22:00:00,353,Mobile,14,T-Shirts, Plain T-Shirt
+260,2021-02-23 23:00:00,322,Mobile,10,Skincare, Cleanser
+260,2021-02-24 00:00:00,137,Mobile,6,Shirts, Striped Shirt
+260,2021-02-24 01:00:00,178,Mobile,8,Sandals, Gladiator Sandals
+260,2021-02-24 02:00:00,414,Mobile,15,Makeup, Concealer
+260,2021-02-24 03:00:00,405,Tablet,14,Sneakers, High-Top Sneakers
+261,2021-02-24 04:00:00,71,Desktop,12,Boots, Combat Boots
+261,2021-02-24 05:00:00,107,Desktop,1,Jewelry, Earrings
+261,2021-02-24 06:00:00,324,Desktop,1,Watches, Analog Watch
+261,2021-02-24 07:00:00,183,Desktop,11,Jeans, Skinny Jeans
+261,2021-02-24 08:00:00,556,Mobile,16,Heels, Platform Heels
+262,2021-02-24 09:00:00,111,Mobile,3,Swimwear, Swim Briefs
+262,2021-02-24 10:00:00,257,Desktop,12,Gloves, Knit Gloves
+262,2021-02-24 11:00:00,178,Mobile,8,Scarves, Fringe Scarf
+262,2021-02-24 12:00:00,351,Desktop,8,Ties, Knit Tie
+262,2021-02-24 13:00:00,418,Desktop,6,T-Shirts, Pocket T-Shirt
+263,2021-02-24 14:00:00,568,Mobile,8,Ties, Bowtie
+263,2021-02-24 15:00:00,417,Mobile,9,Boots, Chelsea Boots
+263,2021-02-24 16:00:00,544,Mobile,7,Shorts, Chino Shorts
+263,2021-02-24 17:00:00,299,Tablet,5,Accessories, Necktie
+263,2021-02-24 18:00:00,423,Mobile,15,Watches, Analog Watch
+264,2021-02-24 19:00:00,448,Desktop,9,Pants, Track Pants
+264,2021-02-24 20:00:00,427,Mobile,9,Heels, Ankle-strap Heels
+264,2021-02-24 21:00:00,373,Desktop,18,Ties, Woven Tie
+264,2021-02-24 22:00:00,238,Desktop,4,Hoodies, Fleece Hoodie
+264,2021-02-24 23:00:00,28,Mobile,10,Accessories, Necktie
+265,2021-02-25 00:00:00,117,Mobile,9,Watches, Dress Watch
+265,2021-02-25 01:00:00,535,Mobile,4,Backpacks, Daypack
+265,2021-02-25 02:00:00,419,Mobile,19,Sweaters, Turtleneck Sweater
+265,2021-02-25 03:00:00,157,Tablet,1,Heels, Block Heels
+265,2021-02-25 04:00:00,308,Desktop,1,Dresses, Maxi Dress
+266,2021-02-25 05:00:00,445,Desktop,6,Backpacks, Laptop Backpack
+266,2021-02-25 06:00:00,446,Desktop,3,Pants, Jeans
+266,2021-02-25 07:00:00,565,Desktop,13,Shorts, Athletic Shorts
+266,2021-02-25 08:00:00,284,Mobile,2,Ties, Woven Tie
+266,2021-02-25 09:00:00,141,Mobile,3,Hoodies, Athletic Hoodie
+267,2021-02-25 10:00:00,528,Desktop,6,Ties, Bowtie
+267,2021-02-25 11:00:00,373,Mobile,19,Shirts, Formal Shirt
+267,2021-02-25 12:00:00,261,Mobile,3,Dresses, Maxi Dress
+267,2021-02-25 13:00:00,337,Desktop,9,Jewelry, Earrings
+267,2021-02-25 14:00:00,12,Desktop,2,Heels, Ankle-strap Heels
+268,2021-02-25 15:00:00,122,Desktop,16,Watches, Sports Watch
+268,2021-02-25 16:00:00,460,Mobile,9,Pants, Track Pants
+268,2021-02-25 17:00:00,582,Desktop,14,Belts, Leather Belt
+268,2021-02-25 18:00:00,336,Mobile,18,Swimwear, Swim Shirt
+268,2021-02-25 19:00:00,135,Mobile,11,T-Shirts, Striped T-Shirt
+269,2021-02-25 20:00:00,371,Mobile,2,Makeup, Concealer
+269,2021-02-25 21:00:00,212,Mobile,14,Bags, Backpack
+269,2021-02-25 22:00:00,15,Desktop,5,Jackets, Bomber Jacket
+269,2021-02-25 23:00:00,10,Mobile,19,Heels, Wedge Heels
+269,2021-02-26 00:00:00,175,Mobile,9,Hoodies, Pullover Hoodie
+270,2021-02-26 01:00:00,103,Desktop,7,Skincare, Face Mask
+270,2021-02-26 02:00:00,570,Mobile,16,Shirts, Graphic Shirt
+270,2021-02-26 03:00:00,368,Desktop,7,Hats, Baseball Cap
+270,2021-02-26 04:00:00,374,Mobile,2,Backpacks, Hiking Backpack
+270,2021-02-26 05:00:00,7,Desktop,11,Skincare, Eye Cream
+271,2021-02-26 06:00:00,242,Mobile,3,Hoodies, Athletic Hoodie
+271,2021-02-26 07:00:00,124,Desktop,18,Suits, Business Suit
+271,2021-02-26 08:00:00,184,Desktop,8,Suits, Casual Suit
+271,2021-02-26 09:00:00,212,Mobile,14,Belts, Canvas Belt
+271,2021-02-26 10:00:00,85,Desktop,16,Hats, Beanie
+272,2021-02-26 11:00:00,304,Desktop,5,Jewelry, Ring
+272,2021-02-26 12:00:00,111,Desktop,10,Hats, Trucker Hat
+272,2021-02-26 13:00:00,345,Mobile,16,Makeup, Foundation
+272,2021-02-26 14:00:00,60,Tablet,16,Jeans, High-rise Jeans
+272,2021-02-26 15:00:00,304,Mobile,13,Swimwear, Rash Guard
+273,2021-02-26 16:00:00,9,Mobile,11,Sweaters, Cable Knit Sweater
+273,2021-02-26 17:00:00,252,Mobile,1,Backpacks, Laptop Backpack
+273,2021-02-26 18:00:00,448,Mobile,2,Sweaters, Crewneck Sweater
+273,2021-02-26 19:00:00,201,Mobile,6,Swimwear, Board Shorts
+273,2021-02-26 20:00:00,431,Desktop,14,Accessories, Necktie
+274,2021-02-26 21:00:00,350,Desktop,15,Jeans, Straight Jeans
+274,2021-02-26 22:00:00,52,Desktop,4,Sweaters, Cardigan
+274,2021-02-26 23:00:00,176,Desktop,10,Sneakers, Running Shoes
+274,2021-02-27 00:00:00,425,Mobile,6,Hats, Wide Brim Hat
+274,2021-02-27 01:00:00,354,Tablet,1,Scarves, Plaid Scarf
+275,2021-02-27 02:00:00,379,Mobile,11,Backpacks, Canvas Backpack
+275,2021-02-27 03:00:00,23,Desktop,10,Dresses, Summer Dress
+275,2021-02-27 04:00:00,506,Desktop,15,Suits, Casual Suit
+275,2021-02-27 05:00:00,121,Mobile,8,Accessories, Pocket Square
+275,2021-02-27 06:00:00,584,Desktop,14,Sweaters, Cardigan
+276,2021-02-27 07:00:00,464,Desktop,13,Ties, Silk Tie
+276,2021-02-27 08:00:00,571,Tablet,16,Sandals, Flat Sandals
+276,2021-02-27 09:00:00,345,Desktop,8,T-Shirts, Striped T-Shirt
+276,2021-02-27 10:00:00,431,Mobile,12,Bags, Crossbody Bag
+276,2021-02-27 11:00:00,462,Tablet,3,Shirts, Graphic Shirt
+277,2021-02-27 12:00:00,358,Desktop,9,Jewelry, Bracelet
+277,2021-02-27 13:00:00,271,Desktop,5,Dresses, Evening Dress
+277,2021-02-27 14:00:00,18,Tablet,9,Ties, Bowtie
+277,2021-02-27 15:00:00,521,Mobile,12,Backpacks, Daypack
+277,2021-02-27 16:00:00,35,Desktop,8,Shirts, Printed Shirt
+278,2021-02-27 17:00:00,325,Mobile,15,Accessories, Cufflinks
+278,2021-02-27 18:00:00,316,Desktop,6,Sneakers, High-Top Sneakers
+278,2021-02-27 19:00:00,490,Mobile,11,Sneakers, Canvas Sneakers
+278,2021-02-27 20:00:00,491,Desktop,18,Bags, Crossbody Bag
+278,2021-02-27 21:00:00,540,Desktop,7,Hats, Baseball Cap
+279,2021-02-27 22:00:00,180,Desktop,6,Belts, Braided Belt
+279,2021-02-27 23:00:00,427,Desktop,14,Shorts, Bermuda Shorts
+279,2021-02-28 00:00:00,246,Mobile,8,Shirts, Striped Shirt
+279,2021-02-28 01:00:00,531,Tablet,2,Jeans, High-rise Jeans
+279,2021-02-28 02:00:00,17,Mobile,8,Boots, Combat Boots
+280,2021-02-28 03:00:00,165,Mobile,10,Shorts, Athletic Shorts
+280,2021-02-28 04:00:00,244,Tablet,7,Jackets, Blazer
+280,2021-02-28 05:00:00,577,Desktop,3,Suits, Double-Breasted Suit
+280,2021-02-28 06:00:00,443,Mobile,15,Shirts, Printed Shirt
+280,2021-02-28 07:00:00,243,Desktop,17,Gloves, Wool Gloves
+281,2021-02-28 08:00:00,411,Desktop,10,Sweaters, Cardigan
+281,2021-02-28 09:00:00,223,Desktop,14,Ties, Bowtie
+281,2021-02-28 10:00:00,451,Desktop,4,Sweaters, V-Neck Sweater
+281,2021-02-28 11:00:00,518,Mobile,18,Shorts, Bermuda Shorts
+281,2021-02-28 12:00:00,186,Desktop,2,Jewelry, Bracelet
+282,2021-02-28 13:00:00,27,Desktop,11,Boots, Hiking Boots
+282,2021-02-28 14:00:00,208,Desktop,9,Watches, Dress Watch
+282,2021-02-28 15:00:00,182,Mobile,9,Jackets, Leather Jacket
+282,2021-02-28 16:00:00,587,Desktop,8,Hats, Wide Brim Hat
+282,2021-02-28 17:00:00,295,Tablet,17,Pants, Cargo Pants
+283,2021-02-28 18:00:00,110,Desktop,18,Heels, Block Heels
+283,2021-02-28 19:00:00,138,Desktop,5,Accessories, Necktie
+283,2021-02-28 20:00:00,262,Mobile,17,Gloves, Touchscreen Gloves
+283,2021-02-28 21:00:00,540,Desktop,17,Accessories, Necktie
+283,2021-02-28 22:00:00,83,Desktop,12,Pants, Track Pants
+284,2021-02-28 23:00:00,57,Desktop,13,Jewelry, Ring
+284,2021-03-01 00:00:00,74,Mobile,5,Sweaters, Crewneck Sweater
+284,2021-03-01 01:00:00,582,Desktop,19,Boots, Chelsea Boots
+284,2021-03-01 02:00:00,160,Tablet,2,Jackets, Leather Jacket
+284,2021-03-01 03:00:00,517,Desktop,7,Gloves, Touchscreen Gloves
+285,2021-03-01 04:00:00,522,Desktop,16,Jeans, Skinny Jeans
+285,2021-03-01 05:00:00,195,Desktop,18,Sandals, Platform Sandals
+285,2021-03-01 06:00:00,329,Desktop,16,Sunglasses, Wayfarer Sunglasses
+285,2021-03-01 07:00:00,95,Tablet,17,Pants, Chinos
+285,2021-03-01 08:00:00,331,Mobile,12,Sandals, Gladiator Sandals
+286,2021-03-01 09:00:00,222,Mobile,19,Dresses, Wrap Dress
+286,2021-03-01 10:00:00,156,Desktop,17,Scarves, Infinity Scarf
+286,2021-03-01 11:00:00,73,Mobile,10,Heels, Stiletto Heels
+286,2021-03-01 12:00:00,67,Mobile,12,Belts, Canvas Belt
+286,2021-03-01 13:00:00,347,Mobile,7,Heels, Platform Heels
+287,2021-03-01 14:00:00,167,Tablet,9,Swimwear, Board Shorts
+287,2021-03-01 15:00:00,11,Mobile,4,Jeans, Straight Jeans
+287,2021-03-01 16:00:00,384,Mobile,10,Sneakers, Running Shoes
+287,2021-03-01 17:00:00,113,Tablet,8,Boots, Knee-high Boots
+287,2021-03-01 18:00:00,504,Mobile,1,Backpacks, Travel Backpack
+288,2021-03-01 19:00:00,39,Desktop,6,Hoodies, Athletic Hoodie
+288,2021-03-01 20:00:00,31,Tablet,9,Accessories, Pocket Square
+288,2021-03-01 21:00:00,16,Mobile,18,Skincare, Face Mask
+288,2021-03-01 22:00:00,90,Desktop,16,Accessories, Pocket Square
+288,2021-03-01 23:00:00,361,Tablet,1,Dresses, Evening Dress
+289,2021-03-02 00:00:00,84,Desktop,16,Skincare, Moisturizer
+289,2021-03-02 01:00:00,248,Mobile,7,Sweaters, Turtleneck Sweater
+289,2021-03-02 02:00:00,34,Desktop,1,Sweaters, Turtleneck Sweater
+289,2021-03-02 03:00:00,384,Mobile,10,Watches, Analog Watch
+289,2021-03-02 04:00:00,541,Desktop,4,Ties, Bowtie
+290,2021-03-02 05:00:00,332,Desktop,10,Sunglasses, Cat-Eye Sunglasses
+290,2021-03-02 06:00:00,399,Desktop,12,Watches, Digital Watch
+290,2021-03-02 07:00:00,591,Tablet,16,Jeans, Bootcut Jeans
+290,2021-03-02 08:00:00,510,Desktop,19,Swimwear, Swim Trunks
+290,2021-03-02 09:00:00,223,Desktop,17,Skincare, Moisturizer
+291,2021-03-02 10:00:00,200,Desktop,8,Sunglasses, Wayfarer Sunglasses
+291,2021-03-02 11:00:00,551,Mobile,7,Ties, Bowtie
+291,2021-03-02 12:00:00,230,Desktop,10,Watches, Dress Watch
+291,2021-03-02 13:00:00,352,Desktop,2,Sunglasses, Round Sunglasses
+291,2021-03-02 14:00:00,259,Desktop,2,Ties, Bowtie
+292,2021-03-02 15:00:00,180,Desktop,9,Sweaters, Cardigan
+292,2021-03-02 16:00:00,107,Mobile,13,Shirts, Printed Shirt
+292,2021-03-02 17:00:00,13,Tablet,7,Heels, Ankle-strap Heels
+292,2021-03-02 18:00:00,583,Tablet,8,Dresses, Cocktail Dress
+292,2021-03-02 19:00:00,419,Mobile,16,Hats, Bucket Hat
+293,2021-03-02 20:00:00,475,Desktop,2,Jewelry, Anklet
+293,2021-03-02 21:00:00,330,Desktop,15,Sandals, Wedge Sandals
+293,2021-03-02 22:00:00,163,Mobile,11,Dresses, Wrap Dress
+293,2021-03-02 23:00:00,392,Mobile,4,Gloves, Wool Gloves
+293,2021-03-03 00:00:00,384,Mobile,18,Heels, Stiletto Heels
+294,2021-03-03 01:00:00,552,Mobile,18,Dresses, Maxi Dress
+294,2021-03-03 02:00:00,365,Mobile,3,Backpacks, Canvas Backpack
+294,2021-03-03 03:00:00,357,Mobile,16,Sunglasses, Wayfarer Sunglasses
+294,2021-03-03 04:00:00,126,Desktop,10,Ties, Knit Tie
+294,2021-03-03 05:00:00,324,Mobile,19,Sweaters, Cable Knit Sweater
+295,2021-03-03 06:00:00,389,Mobile,6,Dresses, Summer Dress
+295,2021-03-03 07:00:00,542,Mobile,19,Sneakers, Canvas Sneakers
+295,2021-03-03 08:00:00,10,Desktop,16,Belts, Braided Belt
+295,2021-03-03 09:00:00,342,Desktop,18,Sneakers, Running Shoes
+295,2021-03-03 10:00:00,177,Tablet,17,Backpacks, Daypack
+296,2021-03-03 11:00:00,268,Desktop,18,Backpacks, Laptop Backpack
+296,2021-03-03 12:00:00,267,Desktop,4,Sneakers, Classic Sneakers
+296,2021-03-03 13:00:00,497,Mobile,1,Dresses, Cocktail Dress
+296,2021-03-03 14:00:00,99,Mobile,1,Swimwear, Swim Shirt
+296,2021-03-03 15:00:00,527,Mobile,2,Jewelry, Bracelet
+297,2021-03-03 16:00:00,593,Desktop,9,Suits, Casual Suit
+297,2021-03-03 17:00:00,119,Mobile,17,Gloves, Wool Gloves
+297,2021-03-03 18:00:00,141,Mobile,5,Jackets, Denim Jacket
+297,2021-03-03 19:00:00,77,Desktop,11,Suits, Business Suit
+297,2021-03-03 20:00:00,7,Mobile,12,Belts, Webbed Belt
+298,2021-03-03 21:00:00,333,Mobile,11,Pants, Dress Pants
+298,2021-03-03 22:00:00,75,Tablet,6,Sweaters, Cable Knit Sweater
+298,2021-03-03 23:00:00,377,Mobile,8,Belts, Leather Belt
+298,2021-03-04 00:00:00,450,Desktop,14,Skincare, Face Mask
+298,2021-03-04 01:00:00,46,Mobile,10,Jackets, Leather Jacket
+299,2021-03-04 02:00:00,19,Mobile,14,Heels, Platform Heels
+299,2021-03-04 03:00:00,359,Mobile,12,Suits, Double-Breasted Suit
+299,2021-03-04 04:00:00,240,Desktop,10,Accessories, Pocket Square
+299,2021-03-04 05:00:00,545,Mobile,1,Dresses, Evening Dress
+299,2021-03-04 06:00:00,539,Desktop,1,Dresses, Evening Dress
+300,2021-03-04 07:00:00,34,Desktop,4,Jackets, Denim Jacket
+300,2021-03-04 08:00:00,237,Desktop,9,Hats, Beanie
+300,2021-03-04 09:00:00,484,Mobile,4,Dresses, Evening Dress
+300,2021-03-04 10:00:00,12,Mobile,5,Jackets, Blazer
+300,2021-03-04 11:00:00,388,Desktop,2,Jeans, High-rise Jeans
+301,2021-03-04 12:00:00,46,Mobile,10,Shorts, Athletic Shorts
+301,2021-03-04 13:00:00,172,Mobile,12,Pants, Track Pants
+301,2021-03-04 14:00:00,282,Mobile,6,Jeans, Skinny Jeans
+301,2021-03-04 15:00:00,356,Desktop,5,Backpacks, Laptop Backpack
+301,2021-03-04 16:00:00,358,Mobile,6,Suits, Single-Breasted Suit
+302,2021-03-04 17:00:00,535,Desktop,18,Accessories, Bowtie
+302,2021-03-04 18:00:00,484,Mobile,12,Sandals, Wedge Sandals
+302,2021-03-04 19:00:00,172,Desktop,19,Watches, Digital Watch
+302,2021-03-04 20:00:00,352,Mobile,14,Gloves, Touchscreen Gloves
+302,2021-03-04 21:00:00,593,Mobile,4,Ties, Bowtie
+303,2021-03-04 22:00:00,64,Desktop,7,Shirts, Casual Shirt
+303,2021-03-04 23:00:00,320,Tablet,17,Swimwear, Swim Shirt
+303,2021-03-05 00:00:00,586,Desktop,2,Jewelry, Earrings
+303,2021-03-05 01:00:00,430,Desktop,10,Accessories, Belt
+303,2021-03-05 02:00:00,595,Mobile,12,Boots, Combat Boots
+304,2021-03-05 03:00:00,557,Mobile,5,Jeans, Skinny Jeans
+304,2021-03-05 04:00:00,599,Mobile,2,Jeans, Distressed Jeans
+304,2021-03-05 05:00:00,400,Tablet,16,Skincare, Eye Cream
+304,2021-03-05 06:00:00,111,Mobile,3,Accessories, Pocket Square
+304,2021-03-05 07:00:00,564,Desktop,2,Backpacks, Travel Backpack
+305,2021-03-05 08:00:00,186,Mobile,2,Swimwear, Swim Trunks
+305,2021-03-05 09:00:00,29,Desktop,13,Dresses, Cocktail Dress
+305,2021-03-05 10:00:00,191,Desktop,14,Belts, Webbed Belt
+305,2021-03-05 11:00:00,158,Desktop,12,Sweaters, Cable Knit Sweater
+305,2021-03-05 12:00:00,107,Mobile,15,Shirts, Graphic Shirt
+306,2021-03-05 13:00:00,353,Desktop,2,Suits, Casual Suit
+306,2021-03-05 14:00:00,53,Mobile,10,Scarves, Silk Scarf
+306,2021-03-05 15:00:00,420,Desktop,6,Pants, Chinos
+306,2021-03-05 16:00:00,280,Mobile,5,Skincare, Cleanser
+306,2021-03-05 17:00:00,361,Desktop,8,Skincare, Serum
+307,2021-03-05 18:00:00,436,Mobile,15,Accessories, Bowtie
+307,2021-03-05 19:00:00,414,Mobile,14,Pants, Chinos
+307,2021-03-05 20:00:00,290,Desktop,12,Scarves, Fringe Scarf
+307,2021-03-05 21:00:00,82,Desktop,19,Jewelry, Necklace
+307,2021-03-05 22:00:00,203,Desktop,9,Watches, Smart Watch
+308,2021-03-05 23:00:00,254,Mobile,14,Boots, Hiking Boots
+308,2021-03-06 00:00:00,9,Desktop,17,Backpacks, Laptop Backpack
+308,2021-03-06 01:00:00,80,Desktop,14,Watches, Dress Watch
+308,2021-03-06 02:00:00,190,Mobile,16,Dresses, Cocktail Dress
+308,2021-03-06 03:00:00,509,Mobile,5,Belts, Braided Belt
+309,2021-03-06 04:00:00,276,Mobile,12,Backpacks, Canvas Backpack
+309,2021-03-06 05:00:00,249,Tablet,11,Shorts, Cargo Shorts
+309,2021-03-06 06:00:00,116,Desktop,14,Heels, Wedge Heels
+309,2021-03-06 07:00:00,148,Tablet,6,Shirts, Formal Shirt
+309,2021-03-06 08:00:00,573,Mobile,6,Heels, Wedge Heels
+310,2021-03-06 09:00:00,194,Mobile,3,Belts, Studded Belt
+310,2021-03-06 10:00:00,23,Desktop,10,T-Shirts, Graphic T-Shirt
+310,2021-03-06 11:00:00,406,Desktop,10,Jackets, Denim Jacket
+310,2021-03-06 12:00:00,270,Desktop,8,Hats, Trucker Hat
+310,2021-03-06 13:00:00,413,Mobile,1,Boots, Combat Boots
+311,2021-03-06 14:00:00,32,Mobile,19,Skincare, Serum
+311,2021-03-06 15:00:00,388,Desktop,7,Boots, Hiking Boots
+311,2021-03-06 16:00:00,289,Mobile,15,Accessories, Belt
+311,2021-03-06 17:00:00,566,Desktop,7,Belts, Studded Belt
+311,2021-03-06 18:00:00,71,Tablet,1,Shirts, Casual Shirt
+312,2021-03-06 19:00:00,536,Mobile,16,Ties, Silk Tie
+312,2021-03-06 20:00:00,161,Mobile,4,Gloves, Wool Gloves
+312,2021-03-06 21:00:00,357,Desktop,17,Skincare, Face Mask
+312,2021-03-06 22:00:00,314,Mobile,9,Shorts, Bermuda Shorts
+312,2021-03-06 23:00:00,86,Mobile,15,Gloves, Knit Gloves
+313,2021-03-07 00:00:00,191,Mobile,16,Boots, Combat Boots
+313,2021-03-07 01:00:00,51,Mobile,14,Shirts, Printed Shirt
+313,2021-03-07 02:00:00,542,Desktop,4,Scarves, Infinity Scarf
+313,2021-03-07 03:00:00,377,Desktop,3,Ties, Bowtie
+313,2021-03-07 04:00:00,310,Mobile,12,Suits, Casual Suit
+314,2021-03-07 05:00:00,164,Desktop,2,Hoodies, Zip-Up Hoodie
+314,2021-03-07 06:00:00,418,Mobile,12,Jeans, Distressed Jeans
+314,2021-03-07 07:00:00,590,Mobile,6,Skincare, Cleanser
+314,2021-03-07 08:00:00,400,Desktop,15,Accessories, Pocket Square
+314,2021-03-07 09:00:00,121,Desktop,19,Hats, Bucket Hat
+315,2021-03-07 10:00:00,465,Mobile,3,Swimwear, Rash Guard
+315,2021-03-07 11:00:00,393,Desktop,17,Scarves, Knit Scarf
+315,2021-03-07 12:00:00,318,Desktop,2,Sunglasses, Round Sunglasses
+315,2021-03-07 13:00:00,81,Mobile,13,Boots, Ankle Boots
+315,2021-03-07 14:00:00,595,Desktop,19,Accessories, Belt
+316,2021-03-07 15:00:00,151,Desktop,9,Scarves, Plaid Scarf
+316,2021-03-07 16:00:00,166,Desktop,1,Belts, Studded Belt
+316,2021-03-07 17:00:00,466,Mobile,14,Accessories, Pocket Square
+316,2021-03-07 18:00:00,111,Desktop,19,Swimwear, Rash Guard
+316,2021-03-07 19:00:00,430,Desktop,1,Bags, Crossbody Bag
+317,2021-03-07 20:00:00,382,Mobile,3,Jeans, Bootcut Jeans
+317,2021-03-07 21:00:00,32,Mobile,2,Backpacks, Travel Backpack
+317,2021-03-07 22:00:00,573,Mobile,4,Sunglasses, Cat-Eye Sunglasses
+317,2021-03-07 23:00:00,560,Desktop,8,Accessories, Necktie
+317,2021-03-08 00:00:00,211,Mobile,15,Skincare, Serum
+318,2021-03-08 01:00:00,233,Tablet,13,Sandals, Flat Sandals
+318,2021-03-08 02:00:00,139,Mobile,4,Sneakers, Canvas Sneakers
+318,2021-03-08 03:00:00,333,Mobile,12,Jackets, Denim Jacket
+318,2021-03-08 04:00:00,59,Tablet,12,Jeans, Bootcut Jeans
+318,2021-03-08 05:00:00,558,Desktop,7,Sunglasses, Cat-Eye Sunglasses
+319,2021-03-08 06:00:00,437,Desktop,5,Skincare, Eye Cream
+319,2021-03-08 07:00:00,351,Desktop,13,Shirts, Formal Shirt
+319,2021-03-08 08:00:00,182,Mobile,11,Accessories, Pocket Square
+319,2021-03-08 09:00:00,78,Desktop,7,Gloves, Wool Gloves
+319,2021-03-08 10:00:00,31,Mobile,12,Swimwear, Rash Guard
+320,2021-03-08 11:00:00,92,Mobile,12,Gloves, Touchscreen Gloves
+320,2021-03-08 12:00:00,491,Mobile,11,Sweaters, V-Neck Sweater
+320,2021-03-08 13:00:00,108,Desktop,2,Boots, Ankle Boots
+320,2021-03-08 14:00:00,327,Desktop,9,T-Shirts, Plain T-Shirt
+320,2021-03-08 15:00:00,585,Tablet,15,Belts, Studded Belt
+321,2021-03-08 16:00:00,310,Desktop,19,Dresses, Wrap Dress
+321,2021-03-08 17:00:00,185,Desktop,18,Makeup, Eyeshadow
+321,2021-03-08 18:00:00,232,Desktop,12,Hoodies, Athletic Hoodie
+321,2021-03-08 19:00:00,250,Mobile,6,Sunglasses, Round Sunglasses
+321,2021-03-08 20:00:00,478,Tablet,10,Jeans, Distressed Jeans
+322,2021-03-08 21:00:00,311,Mobile,9,Boots, Chelsea Boots
+322,2021-03-08 22:00:00,312,Mobile,4,Shirts, Formal Shirt
+322,2021-03-08 23:00:00,145,Mobile,13,Scarves, Silk Scarf
+322,2021-03-09 00:00:00,331,Desktop,5,Suits, Tuxedo
+322,2021-03-09 01:00:00,34,Mobile,14,Shorts, Chino Shorts
+323,2021-03-09 02:00:00,219,Mobile,13,Suits, Casual Suit
+323,2021-03-09 03:00:00,579,Desktop,18,Sneakers, Classic Sneakers
+323,2021-03-09 04:00:00,245,Mobile,4,Sweaters, Cable Knit Sweater
+323,2021-03-09 05:00:00,521,Desktop,13,Sweaters, Turtleneck Sweater
+323,2021-03-09 06:00:00,579,Tablet,2,Skincare, Eye Cream
+324,2021-03-09 07:00:00,540,Mobile,4,Jewelry, Bracelet
+324,2021-03-09 08:00:00,77,Mobile,19,Ties, Woven Tie
+324,2021-03-09 09:00:00,568,Desktop,9,Belts, Studded Belt
+324,2021-03-09 10:00:00,415,Mobile,8,Sunglasses, Square Sunglasses
+324,2021-03-09 11:00:00,292,Tablet,10,Backpacks, Daypack
+325,2021-03-09 12:00:00,161,Desktop,7,Makeup, Concealer
+325,2021-03-09 13:00:00,95,Desktop,8,Jewelry, Ring
+325,2021-03-09 14:00:00,86,Mobile,18,Swimwear, Swim Trunks
+325,2021-03-09 15:00:00,315,Desktop,3,T-Shirts, Graphic T-Shirt
+325,2021-03-09 16:00:00,368,Mobile,1,Ties, Woven Tie
+326,2021-03-09 17:00:00,363,Desktop,13,Watches, Sports Watch
+326,2021-03-09 18:00:00,341,Mobile,9,Jeans, Bootcut Jeans
+326,2021-03-09 19:00:00,48,Desktop,15,Scarves, Plaid Scarf
+326,2021-03-09 20:00:00,569,Mobile,7,Jackets, Blazer
+326,2021-03-09 21:00:00,220,Mobile,6,Shirts, Formal Shirt
+327,2021-03-09 22:00:00,407,Mobile,17,Shirts, Printed Shirt
+327,2021-03-09 23:00:00,566,Mobile,5,Sneakers, Running Shoes
+327,2021-03-10 00:00:00,552,Mobile,3,Jackets, Windbreaker
+327,2021-03-10 01:00:00,52,Desktop,2,Hoodies, Pullover Hoodie
+327,2021-03-10 02:00:00,490,Mobile,8,Sweaters, Cable Knit Sweater
+328,2021-03-10 03:00:00,582,Desktop,8,Jewelry, Necklace
+328,2021-03-10 04:00:00,511,Tablet,14,Jewelry, Ring
+328,2021-03-10 05:00:00,61,Mobile,11,Dresses, Cocktail Dress
+328,2021-03-10 06:00:00,513,Mobile,10,Sneakers, Classic Sneakers
+328,2021-03-10 07:00:00,183,Desktop,11,Heels, Platform Heels
+329,2021-03-10 08:00:00,17,Tablet,16,Pants, Chinos
+329,2021-03-10 09:00:00,145,Mobile,18,Suits, Double-Breasted Suit
+329,2021-03-10 10:00:00,110,Mobile,18,Swimwear, Board Shorts
+329,2021-03-10 11:00:00,150,Mobile,15,Bags, Clutch Bag
+329,2021-03-10 12:00:00,166,Desktop,16,Sweaters, Cable Knit Sweater
+330,2021-03-10 13:00:00,131,Mobile,1,Pants, Track Pants
+330,2021-03-10 14:00:00,395,Desktop,14,Belts, Braided Belt
+330,2021-03-10 15:00:00,497,Desktop,6,Belts, Canvas Belt
+330,2021-03-10 16:00:00,43,Mobile,16,Skincare, Face Mask
+330,2021-03-10 17:00:00,183,Mobile,4,Shirts, Printed Shirt
+331,2021-03-10 18:00:00,558,Tablet,2,Jeans, Bootcut Jeans
+331,2021-03-10 19:00:00,392,Mobile,8,Watches, Analog Watch
+331,2021-03-10 20:00:00,200,Desktop,6,Swimwear, Swim Briefs
+331,2021-03-10 21:00:00,420,Tablet,14,Hoodies, Pullover Hoodie
+331,2021-03-10 22:00:00,544,Desktop,7,Jewelry, Bracelet
+332,2021-03-10 23:00:00,30,Mobile,2,Pants, Dress Pants
+332,2021-03-11 00:00:00,352,Mobile,4,Backpacks, Hiking Backpack
+332,2021-03-11 01:00:00,111,Mobile,9,Bags, Backpack
+332,2021-03-11 02:00:00,576,Mobile,12,Dresses, Wrap Dress
+332,2021-03-11 03:00:00,510,Desktop,7,Skincare, Moisturizer
+333,2021-03-11 04:00:00,231,Mobile,14,Sandals, Gladiator Sandals
+333,2021-03-11 05:00:00,455,Desktop,13,Scarves, Infinity Scarf
+333,2021-03-11 06:00:00,437,Desktop,4,Shorts, Cargo Shorts
+333,2021-03-11 07:00:00,157,Desktop,11,Sandals, Wedge Sandals
+333,2021-03-11 08:00:00,229,Desktop,6,Heels, Wedge Heels
+334,2021-03-11 09:00:00,484,Mobile,8,Jeans, Bootcut Jeans
+334,2021-03-11 10:00:00,221,Tablet,1,Scarves, Knit Scarf
+334,2021-03-11 11:00:00,99,Desktop,14,Ties, Silk Tie
+334,2021-03-11 12:00:00,106,Desktop,18,Sandals, Wedge Sandals
+334,2021-03-11 13:00:00,295,Desktop,16,Jackets, Leather Jacket
+335,2021-03-11 14:00:00,440,Desktop,5,Belts, Studded Belt
+335,2021-03-11 15:00:00,304,Mobile,12,Gloves, Wool Gloves
+335,2021-03-11 16:00:00,481,Mobile,16,Swimwear, Swim Trunks
+335,2021-03-11 17:00:00,167,Desktop,16,Shorts, Bermuda Shorts
+335,2021-03-11 18:00:00,546,Desktop,3,Suits, Business Suit
+336,2021-03-11 19:00:00,441,Desktop,6,Pants, Dress Pants
+336,2021-03-11 20:00:00,58,Tablet,19,Boots, Chelsea Boots
+336,2021-03-11 21:00:00,391,Desktop,2,Jeans, Distressed Jeans
+336,2021-03-11 22:00:00,347,Tablet,3,Heels, Stiletto Heels
+336,2021-03-11 23:00:00,596,Mobile,19,Boots, Hiking Boots
+337,2021-03-12 00:00:00,135,Mobile,1,Belts, Braided Belt
+337,2021-03-12 01:00:00,197,Desktop,19,Shorts, Chino Shorts
+337,2021-03-12 02:00:00,463,Desktop,14,Hoodies, Athletic Hoodie
+337,2021-03-12 03:00:00,60,Desktop,18,Accessories, Necktie
+337,2021-03-12 04:00:00,156,Mobile,6,Watches, Analog Watch
+338,2021-03-12 05:00:00,332,Desktop,4,Ties, Woven Tie
+338,2021-03-12 06:00:00,127,Tablet,10,Heels, Block Heels
+338,2021-03-12 07:00:00,97,Desktop,18,T-Shirts, Graphic T-Shirt
+338,2021-03-12 08:00:00,112,Desktop,15,Makeup, Foundation
+338,2021-03-12 09:00:00,308,Mobile,5,Gloves, Touchscreen Gloves
+339,2021-03-12 10:00:00,402,Desktop,19,Scarves, Silk Scarf
+339,2021-03-12 11:00:00,422,Desktop,17,Gloves, Knit Gloves
+339,2021-03-12 12:00:00,416,Desktop,10,Heels, Ankle-strap Heels
+339,2021-03-12 13:00:00,598,Mobile,4,Belts, Leather Belt
+339,2021-03-12 14:00:00,339,Desktop,15,Jeans, Skinny Jeans
+340,2021-03-12 15:00:00,318,Tablet,13,Gloves, Wool Gloves
+340,2021-03-12 16:00:00,160,Mobile,13,Backpacks, Daypack
+340,2021-03-12 17:00:00,243,Desktop,17,Accessories, Necktie
+340,2021-03-12 18:00:00,265,Mobile,18,Dresses, Cocktail Dress
+340,2021-03-12 19:00:00,591,Desktop,5,Belts, Studded Belt
+341,2021-03-12 20:00:00,485,Desktop,8,Scarves, Infinity Scarf
+341,2021-03-12 21:00:00,510,Desktop,15,Gloves, Touchscreen Gloves
+341,2021-03-12 22:00:00,61,Desktop,14,Makeup, Concealer
+341,2021-03-12 23:00:00,388,Mobile,6,Sandals, Wedge Sandals
+341,2021-03-13 00:00:00,154,Mobile,18,Shorts, Denim Shorts
+342,2021-03-13 01:00:00,548,Mobile,4,Jewelry, Anklet
+342,2021-03-13 02:00:00,5,Desktop,5,Sneakers, High-Top Sneakers
+342,2021-03-13 03:00:00,123,Mobile,4,Shorts, Denim Shorts
+342,2021-03-13 04:00:00,100,Tablet,5,Backpacks, Travel Backpack
+342,2021-03-13 05:00:00,174,Mobile,14,Sunglasses, Wayfarer Sunglasses
+343,2021-03-13 06:00:00,417,Desktop,19,Skincare, Cleanser
+343,2021-03-13 07:00:00,538,Desktop,12,Watches, Sports Watch
+343,2021-03-13 08:00:00,344,Mobile,12,Makeup, Mascara
+343,2021-03-13 09:00:00,336,Mobile,6,Belts, Leather Belt
+343,2021-03-13 10:00:00,284,Desktop,5,Skincare, Cleanser
+344,2021-03-13 11:00:00,278,Desktop,10,Jackets, Windbreaker
+344,2021-03-13 12:00:00,226,Desktop,10,Suits, Tuxedo
+344,2021-03-13 13:00:00,205,Desktop,19,Sandals, Slide Sandals
+344,2021-03-13 14:00:00,272,Desktop,4,Pants, Dress Pants
+344,2021-03-13 15:00:00,243,Mobile,16,Sandals, Wedge Sandals
+345,2021-03-13 16:00:00,454,Desktop,19,Sneakers, Classic Sneakers
+345,2021-03-13 17:00:00,529,Mobile,10,Hoodies, Zip-Up Hoodie
+345,2021-03-13 18:00:00,49,Desktop,3,Sunglasses, Cat-Eye Sunglasses
+345,2021-03-13 19:00:00,11,Mobile,5,Jeans, Skinny Jeans
+345,2021-03-13 20:00:00,31,Mobile,1,Jeans, Distressed Jeans
+346,2021-03-13 21:00:00,432,Mobile,16,Makeup, Mascara
+346,2021-03-13 22:00:00,399,Desktop,19,Sunglasses, Square Sunglasses
+346,2021-03-13 23:00:00,316,Mobile,8,Shorts, Chino Shorts
+346,2021-03-14 00:00:00,395,Mobile,11,Belts, Leather Belt
+346,2021-03-14 01:00:00,256,Desktop,12,Swimwear, Swim Briefs
+347,2021-03-14 02:00:00,99,Mobile,14,Hats, Trucker Hat
+347,2021-03-14 03:00:00,506,Mobile,7,Pants, Chinos
+347,2021-03-14 04:00:00,106,Desktop,13,Skincare, Eye Cream
+347,2021-03-14 05:00:00,124,Desktop,12,Suits, Tuxedo
+347,2021-03-14 06:00:00,25,Desktop,13,Backpacks, Hiking Backpack
+348,2021-03-14 07:00:00,503,Desktop,6,Shorts, Athletic Shorts
+348,2021-03-14 08:00:00,525,Desktop,6,Boots, Combat Boots
+348,2021-03-14 09:00:00,288,Mobile,3,Boots, Ankle Boots
+348,2021-03-14 10:00:00,49,Desktop,4,Hats, Trucker Hat
+348,2021-03-14 11:00:00,278,Desktop,3,Makeup, Eyeshadow
+349,2021-03-14 12:00:00,448,Desktop,17,Ties, Bowtie
+349,2021-03-14 13:00:00,130,Mobile,10,Sweaters, Cable Knit Sweater
+349,2021-03-14 14:00:00,429,Desktop,17,Skincare, Cleanser
+349,2021-03-14 15:00:00,181,Mobile,17,Bags, Crossbody Bag
+349,2021-03-14 16:00:00,33,Mobile,16,Makeup, Concealer
+350,2021-03-14 17:00:00,570,Desktop,16,Bags, Clutch Bag
+350,2021-03-14 18:00:00,303,Desktop,1,Suits, Casual Suit
+350,2021-03-14 19:00:00,441,Mobile,17,Heels, Platform Heels
+350,2021-03-14 20:00:00,539,Mobile,10,Jackets, Blazer
+350,2021-03-14 21:00:00,536,Mobile,13,Heels, Wedge Heels
+351,2021-03-14 22:00:00,471,Mobile,6,Suits, Single-Breasted Suit
+351,2021-03-14 23:00:00,495,Desktop,13,Hats, Wide Brim Hat
+351,2021-03-15 00:00:00,597,Mobile,19,Watches, Digital Watch
+351,2021-03-15 01:00:00,318,Desktop,5,Jackets, Blazer
+351,2021-03-15 02:00:00,520,Desktop,14,Sandals, Wedge Sandals
+352,2021-03-15 03:00:00,52,Mobile,10,T-Shirts, Striped T-Shirt
+352,2021-03-15 04:00:00,547,Desktop,4,Heels, Platform Heels
+352,2021-03-15 05:00:00,543,Tablet,8,Sneakers, Canvas Sneakers
+352,2021-03-15 06:00:00,389,Desktop,11,Watches, Smart Watch
+352,2021-03-15 07:00:00,496,Desktop,14,Hoodies, Pullover Hoodie
+353,2021-03-15 08:00:00,157,Tablet,10,Ties, Bowtie
+353,2021-03-15 09:00:00,524,Tablet,5,Sweaters, Crewneck Sweater
+353,2021-03-15 10:00:00,437,Desktop,4,Sweaters, Crewneck Sweater
+353,2021-03-15 11:00:00,91,Tablet,5,Jewelry, Ring
+353,2021-03-15 12:00:00,63,Mobile,8,Sunglasses, Square Sunglasses
+354,2021-03-15 13:00:00,45,Desktop,9,Makeup, Foundation
+354,2021-03-15 14:00:00,218,Tablet,4,Jackets, Windbreaker
+354,2021-03-15 15:00:00,59,Mobile,5,T-Shirts, Graphic T-Shirt
+354,2021-03-15 16:00:00,298,Mobile,2,Hoodies, Fleece Hoodie
+354,2021-03-15 17:00:00,90,Desktop,7,Backpacks, Travel Backpack
+355,2021-03-15 18:00:00,121,Tablet,11,Makeup, Mascara
+355,2021-03-15 19:00:00,328,Mobile,10,Sweaters, Turtleneck Sweater
+355,2021-03-15 20:00:00,265,Mobile,13,Hats, Baseball Cap
+355,2021-03-15 21:00:00,561,Mobile,7,Hoodies, Zip-Up Hoodie
+355,2021-03-15 22:00:00,264,Desktop,6,Ties, Skinny Tie
+356,2021-03-15 23:00:00,308,Desktop,3,Accessories, Necktie
+356,2021-03-16 00:00:00,570,Mobile,11,Hats, Beanie
+356,2021-03-16 01:00:00,24,Mobile,17,Shorts, Bermuda Shorts
+356,2021-03-16 02:00:00,569,Desktop,8,Heels, Block Heels
+356,2021-03-16 03:00:00,548,Mobile,16,Hats, Trucker Hat
+357,2021-03-16 04:00:00,402,Mobile,16,Shorts, Bermuda Shorts
+357,2021-03-16 05:00:00,356,Tablet,5,Sweaters, Cable Knit Sweater
+357,2021-03-16 06:00:00,470,Desktop,17,Scarves, Infinity Scarf
+357,2021-03-16 07:00:00,127,Mobile,15,Suits, Single-Breasted Suit
+357,2021-03-16 08:00:00,494,Desktop,6,Heels, Stiletto Heels
+358,2021-03-16 09:00:00,128,Desktop,14,Shorts, Cargo Shorts
+358,2021-03-16 10:00:00,354,Mobile,13,Dresses, Cocktail Dress
+358,2021-03-16 11:00:00,205,Mobile,4,Jackets, Windbreaker
+358,2021-03-16 12:00:00,479,Desktop,12,Dresses, Wrap Dress
+358,2021-03-16 13:00:00,264,Tablet,11,Hats, Bucket Hat
+359,2021-03-16 14:00:00,10,Desktop,16,Hoodies, Pullover Hoodie
+359,2021-03-16 15:00:00,263,Desktop,6,Skincare, Moisturizer
+359,2021-03-16 16:00:00,52,Tablet,9,Sweaters, Crewneck Sweater
+359,2021-03-16 17:00:00,479,Mobile,9,Makeup, Eyeshadow
+359,2021-03-16 18:00:00,24,Desktop,17,Pants, Track Pants
+360,2021-03-16 19:00:00,389,Mobile,9,Gloves, Touchscreen Gloves
+360,2021-03-16 20:00:00,238,Desktop,18,Jeans, Distressed Jeans
+360,2021-03-16 21:00:00,57,Mobile,8,Bags, Clutch Bag
+360,2021-03-16 22:00:00,150,Desktop,13,Watches, Smart Watch
+360,2021-03-16 23:00:00,349,Mobile,10,Swimwear, Board Shorts
+361,2021-03-17 00:00:00,384,Desktop,13,Boots, Hiking Boots
+361,2021-03-17 01:00:00,253,Desktop,16,Bags, Tote Bag
+361,2021-03-17 02:00:00,578,Desktop,5,Sweaters, Cardigan
+361,2021-03-17 03:00:00,373,Desktop,8,Gloves, Knit Gloves
+361,2021-03-17 04:00:00,395,Mobile,17,Hats, Baseball Cap
+362,2021-03-17 05:00:00,485,Desktop,14,Swimwear, Swim Trunks
+362,2021-03-17 06:00:00,485,Mobile,4,Jeans, Straight Jeans
+362,2021-03-17 07:00:00,436,Mobile,2,Pants, Chinos
+362,2021-03-17 08:00:00,122,Desktop,16,Watches, Dress Watch
+362,2021-03-17 09:00:00,338,Mobile,10,Bags, Backpack
+363,2021-03-17 10:00:00,306,Mobile,12,Belts, Studded Belt
+363,2021-03-17 11:00:00,533,Mobile,17,Ties, Woven Tie
+363,2021-03-17 12:00:00,221,Mobile,3,Swimwear, Swim Briefs
+363,2021-03-17 13:00:00,574,Mobile,6,Bags, Clutch Bag
+363,2021-03-17 14:00:00,201,Desktop,1,Accessories, Pocket Square
+364,2021-03-17 15:00:00,148,Mobile,19,Skincare, Serum
+364,2021-03-17 16:00:00,459,Desktop,6,Pants, Cargo Pants
+364,2021-03-17 17:00:00,440,Desktop,7,Dresses, Summer Dress
+364,2021-03-17 18:00:00,41,Tablet,8,Belts, Canvas Belt
+364,2021-03-17 19:00:00,179,Desktop,19,Jeans, Bootcut Jeans
+365,2021-03-17 20:00:00,329,Tablet,5,Skincare, Eye Cream
+365,2021-03-17 21:00:00,461,Desktop,10,Jewelry, Bracelet
+365,2021-03-17 22:00:00,219,Desktop,1,Hats, Trucker Hat
+365,2021-03-17 23:00:00,53,Mobile,8,Sandals, Gladiator Sandals
+365,2021-03-18 00:00:00,578,Desktop,8,Watches, Analog Watch
+366,2021-03-18 01:00:00,585,Mobile,18,Skincare, Face Mask
+366,2021-03-18 02:00:00,436,Mobile,19,Bags, Satchel Bag
+366,2021-03-18 03:00:00,559,Tablet,19,Suits, Tuxedo
+366,2021-03-18 04:00:00,17,Mobile,6,Makeup, Concealer
+366,2021-03-18 05:00:00,518,Mobile,16,Ties, Bowtie
+367,2021-03-18 06:00:00,192,Desktop,13,Suits, Double-Breasted Suit
+367,2021-03-18 07:00:00,416,Mobile,16,Pants, Jeans
+367,2021-03-18 08:00:00,558,Tablet,3,Pants, Dress Pants
+367,2021-03-18 09:00:00,344,Desktop,9,Jackets, Denim Jacket
+367,2021-03-18 10:00:00,346,Mobile,5,Bags, Backpack
+368,2021-03-18 11:00:00,346,Mobile,9,Jackets, Windbreaker
+368,2021-03-18 12:00:00,63,Desktop,11,Skincare, Moisturizer
+368,2021-03-18 13:00:00,206,Mobile,17,Jewelry, Bracelet
+368,2021-03-18 14:00:00,393,Desktop,17,T-Shirts, Graphic T-Shirt
+368,2021-03-18 15:00:00,406,Desktop,5,Backpacks, Hiking Backpack
+369,2021-03-18 16:00:00,88,Mobile,2,Watches, Sports Watch
+369,2021-03-18 17:00:00,557,Mobile,1,Bags, Satchel Bag
+369,2021-03-18 18:00:00,377,Tablet,17,Boots, Hiking Boots
+369,2021-03-18 19:00:00,151,Desktop,13,Gloves, Leather Gloves
+369,2021-03-18 20:00:00,52,Desktop,5,Backpacks, Hiking Backpack
+370,2021-03-18 21:00:00,108,Desktop,14,Makeup, Blush
+370,2021-03-18 22:00:00,342,Mobile,18,Ties, Knit Tie
+370,2021-03-18 23:00:00,42,Tablet,8,Suits, Business Suit
+370,2021-03-19 00:00:00,578,Desktop,15,Sweaters, Turtleneck Sweater
+370,2021-03-19 01:00:00,360,Desktop,1,Sweaters, Turtleneck Sweater
+371,2021-03-19 02:00:00,98,Mobile,13,T-Shirts, Pocket T-Shirt
+371,2021-03-19 03:00:00,338,Desktop,10,Sneakers, Running Shoes
+371,2021-03-19 04:00:00,139,Desktop,4,Scarves, Plaid Scarf
+371,2021-03-19 05:00:00,492,Mobile,9,Shorts, Chino Shorts
+371,2021-03-19 06:00:00,400,Desktop,8,Sweaters, Crewneck Sweater
+372,2021-03-19 07:00:00,315,Desktop,13,Swimwear, Board Shorts
+372,2021-03-19 08:00:00,198,Tablet,16,Shirts, Striped Shirt
+372,2021-03-19 09:00:00,497,Mobile,15,Makeup, Concealer
+372,2021-03-19 10:00:00,268,Mobile,17,Sneakers, High-Top Sneakers
+372,2021-03-19 11:00:00,207,Desktop,8,Backpacks, Daypack
+373,2021-03-19 12:00:00,301,Mobile,3,Sneakers, Canvas Sneakers
+373,2021-03-19 13:00:00,154,Desktop,5,Jeans, Distressed Jeans
+373,2021-03-19 14:00:00,561,Tablet,1,Shirts, Printed Shirt
+373,2021-03-19 15:00:00,436,Desktop,9,Ties, Woven Tie
+373,2021-03-19 16:00:00,347,Mobile,10,Shorts, Chino Shorts
+374,2021-03-19 17:00:00,232,Desktop,12,Hats, Bucket Hat
+374,2021-03-19 18:00:00,148,Mobile,6,Sweaters, Turtleneck Sweater
+374,2021-03-19 19:00:00,63,Desktop,17,Sweaters, Cable Knit Sweater
+374,2021-03-19 20:00:00,552,Mobile,14,Gloves, Leather Gloves
+374,2021-03-19 21:00:00,210,Mobile,3,Shirts, Printed Shirt
+375,2021-03-19 22:00:00,342,Mobile,16,Heels, Stiletto Heels
+375,2021-03-19 23:00:00,10,Desktop,1,Suits, Single-Breasted Suit
+375,2021-03-20 00:00:00,116,Mobile,13,Swimwear, Rash Guard
+375,2021-03-20 01:00:00,156,Tablet,11,Sunglasses, Cat-Eye Sunglasses
+375,2021-03-20 02:00:00,292,Mobile,11,Skincare, Cleanser
+376,2021-03-20 03:00:00,189,Tablet,12,Bags, Crossbody Bag
+376,2021-03-20 04:00:00,132,Mobile,16,Sneakers, Classic Sneakers
+376,2021-03-20 05:00:00,266,Mobile,16,Shorts, Bermuda Shorts
+376,2021-03-20 06:00:00,448,Tablet,5,Swimwear, Rash Guard
+376,2021-03-20 07:00:00,323,Tablet,12,Jewelry, Ring
+377,2021-03-20 08:00:00,193,Desktop,4,Hats, Bucket Hat
+377,2021-03-20 09:00:00,91,Desktop,7,Boots, Ankle Boots
+377,2021-03-20 10:00:00,24,Mobile,17,Backpacks, Daypack
+377,2021-03-20 11:00:00,246,Desktop,3,Watches, Dress Watch
+377,2021-03-20 12:00:00,549,Mobile,1,Sneakers, High-Top Sneakers
+378,2021-03-20 13:00:00,223,Desktop,10,Jackets, Bomber Jacket
+378,2021-03-20 14:00:00,434,Desktop,16,Watches, Dress Watch
+378,2021-03-20 15:00:00,206,Mobile,14,Watches, Sports Watch
+378,2021-03-20 16:00:00,541,Desktop,18,Dresses, Wrap Dress
+378,2021-03-20 17:00:00,421,Tablet,17,Shorts, Denim Shorts
+379,2021-03-20 18:00:00,577,Desktop,2,Makeup, Foundation
+379,2021-03-20 19:00:00,194,Desktop,11,Skincare, Moisturizer
+379,2021-03-20 20:00:00,522,Mobile,7,Jeans, Skinny Jeans
+379,2021-03-20 21:00:00,14,Mobile,11,Skincare, Face Mask
+379,2021-03-20 22:00:00,297,Mobile,10,Shorts, Denim Shorts
+380,2021-03-20 23:00:00,132,Mobile,12,Makeup, Foundation
+380,2021-03-21 00:00:00,114,Desktop,18,Swimwear, Board Shorts
+380,2021-03-21 01:00:00,352,Desktop,9,Jeans, Straight Jeans
+380,2021-03-21 02:00:00,599,Mobile,16,Suits, Casual Suit
+380,2021-03-21 03:00:00,382,Desktop,12,Accessories, Cufflinks
+381,2021-03-21 04:00:00,127,Mobile,6,Gloves, Wool Gloves
+381,2021-03-21 05:00:00,200,Desktop,11,Hoodies, Pullover Hoodie
+381,2021-03-21 06:00:00,222,Mobile,8,Pants, Jeans
+381,2021-03-21 07:00:00,406,Mobile,5,Accessories, Pocket Square
+381,2021-03-21 08:00:00,350,Desktop,13,Dresses, Cocktail Dress
+382,2021-03-21 09:00:00,506,Desktop,18,Sweaters, Turtleneck Sweater
+382,2021-03-21 10:00:00,307,Tablet,3,Jackets, Leather Jacket
+382,2021-03-21 11:00:00,560,Mobile,3,Jackets, Windbreaker
+382,2021-03-21 12:00:00,338,Desktop,12,Ties, Bowtie
+382,2021-03-21 13:00:00,289,Desktop,7,T-Shirts, Pocket T-Shirt
+383,2021-03-21 14:00:00,172,Mobile,4,Accessories, Bowtie
+383,2021-03-21 15:00:00,392,Desktop,12,Skincare, Moisturizer
+383,2021-03-21 16:00:00,25,Desktop,1,Backpacks, Laptop Backpack
+383,2021-03-21 17:00:00,90,Desktop,2,Shirts, Printed Shirt
+383,2021-03-21 18:00:00,129,Desktop,4,Accessories, Necktie
+384,2021-03-21 19:00:00,502,Desktop,1,Accessories, Pocket Square
+384,2021-03-21 20:00:00,16,Tablet,5,Dresses, Evening Dress
+384,2021-03-21 21:00:00,546,Desktop,15,Watches, Digital Watch
+384,2021-03-21 22:00:00,331,Desktop,6,Sneakers, High-Top Sneakers
+384,2021-03-21 23:00:00,456,Desktop,1,Ties, Woven Tie
+385,2021-03-22 00:00:00,406,Desktop,18,Heels, Block Heels
+385,2021-03-22 01:00:00,209,Desktop,13,Dresses, Summer Dress
+385,2021-03-22 02:00:00,190,Tablet,19,Swimwear, Swim Trunks
+385,2021-03-22 03:00:00,406,Mobile,18,Jeans, Bootcut Jeans
+385,2021-03-22 04:00:00,488,Desktop,10,Belts, Studded Belt
+386,2021-03-22 05:00:00,419,Desktop,14,Accessories, Necktie
+386,2021-03-22 06:00:00,151,Desktop,3,Accessories, Belt
+386,2021-03-22 07:00:00,199,Mobile,16,Belts, Canvas Belt
+386,2021-03-22 08:00:00,13,Mobile,1,Pants, Track Pants
+386,2021-03-22 09:00:00,258,Desktop,16,Sneakers, Running Shoes
+387,2021-03-22 10:00:00,378,Desktop,18,Ties, Knit Tie
+387,2021-03-22 11:00:00,524,Desktop,10,Swimwear, Board Shorts
+387,2021-03-22 12:00:00,571,Desktop,15,Sandals, Platform Sandals
+387,2021-03-22 13:00:00,42,Mobile,12,Makeup, Blush
+387,2021-03-22 14:00:00,276,Desktop,7,Accessories, Bowtie
+388,2021-03-22 15:00:00,174,Desktop,6,Scarves, Infinity Scarf
+388,2021-03-22 16:00:00,457,Mobile,16,Skincare, Moisturizer
+388,2021-03-22 17:00:00,212,Desktop,13,Makeup, Eyeshadow
+388,2021-03-22 18:00:00,323,Desktop,5,Boots, Knee-high Boots
+388,2021-03-22 19:00:00,48,Mobile,14,Jackets, Blazer
+389,2021-03-22 20:00:00,165,Mobile,4,Makeup, Foundation
+389,2021-03-22 21:00:00,83,Desktop,4,Sunglasses, Aviator Sunglasses
+389,2021-03-22 22:00:00,84,Mobile,8,Sandals, Platform Sandals
+389,2021-03-22 23:00:00,413,Mobile,18,Bags, Satchel Bag
+389,2021-03-23 00:00:00,419,Desktop,14,T-Shirts, V-Neck T-Shirt
+390,2021-03-23 01:00:00,111,Mobile,5,Suits, Casual Suit
+390,2021-03-23 02:00:00,401,Desktop,14,Watches, Sports Watch
+390,2021-03-23 03:00:00,269,Tablet,8,Dresses, Evening Dress
+390,2021-03-23 04:00:00,89,Desktop,9,Dresses, Cocktail Dress
+390,2021-03-23 05:00:00,120,Desktop,5,T-Shirts, Plain T-Shirt
+391,2021-03-23 06:00:00,383,Tablet,19,Hoodies, Fleece Hoodie
+391,2021-03-23 07:00:00,410,Desktop,14,Sneakers, Classic Sneakers
+391,2021-03-23 08:00:00,414,Desktop,18,Boots, Hiking Boots
+391,2021-03-23 09:00:00,575,Desktop,18,Jewelry, Ring
+391,2021-03-23 10:00:00,555,Mobile,10,Accessories, Belt
+392,2021-03-23 11:00:00,390,Tablet,2,Sneakers, Classic Sneakers
+392,2021-03-23 12:00:00,95,Desktop,5,Shirts, Casual Shirt
+392,2021-03-23 13:00:00,472,Mobile,5,Bags, Tote Bag
+392,2021-03-23 14:00:00,124,Desktop,2,Bags, Crossbody Bag
+392,2021-03-23 15:00:00,123,Mobile,2,Hats, Trucker Hat
+393,2021-03-23 16:00:00,491,Mobile,19,Suits, Double-Breasted Suit
+393,2021-03-23 17:00:00,598,Desktop,10,Dresses, Evening Dress
+393,2021-03-23 18:00:00,495,Tablet,16,Dresses, Wrap Dress
+393,2021-03-23 19:00:00,106,Tablet,11,Gloves, Driving Gloves
+393,2021-03-23 20:00:00,312,Desktop,9,Boots, Knee-high Boots
+394,2021-03-23 21:00:00,555,Desktop,16,Belts, Webbed Belt
+394,2021-03-23 22:00:00,112,Desktop,7,Heels, Platform Heels
+394,2021-03-23 23:00:00,431,Tablet,3,Accessories, Bowtie
+394,2021-03-24 00:00:00,304,Mobile,14,Watches, Dress Watch
+394,2021-03-24 01:00:00,224,Desktop,5,Skincare, Eye Cream
+395,2021-03-24 02:00:00,283,Desktop,16,Sunglasses, Wayfarer Sunglasses
+395,2021-03-24 03:00:00,36,Desktop,12,Pants, Chinos
+395,2021-03-24 04:00:00,172,Tablet,16,Gloves, Driving Gloves
+395,2021-03-24 05:00:00,273,Mobile,7,Boots, Combat Boots
+395,2021-03-24 06:00:00,165,Desktop,15,Gloves, Driving Gloves
+396,2021-03-24 07:00:00,134,Desktop,2,Scarves, Silk Scarf
+396,2021-03-24 08:00:00,359,Tablet,19,Ties, Woven Tie
+396,2021-03-24 09:00:00,87,Mobile,15,Heels, Platform Heels
+396,2021-03-24 10:00:00,553,Mobile,14,Accessories, Necktie
+396,2021-03-24 11:00:00,241,Desktop,16,Jeans, High-rise Jeans
+397,2021-03-24 12:00:00,550,Mobile,13,Gloves, Touchscreen Gloves
+397,2021-03-24 13:00:00,541,Mobile,9,Backpacks, Laptop Backpack
+397,2021-03-24 14:00:00,384,Mobile,13,Shorts, Bermuda Shorts
+397,2021-03-24 15:00:00,241,Mobile,2,Scarves, Plaid Scarf
+397,2021-03-24 16:00:00,511,Desktop,15,Sneakers, Skate Shoes
+398,2021-03-24 17:00:00,187,Mobile,11,Suits, Single-Breasted Suit
+398,2021-03-24 18:00:00,283,Mobile,9,Sandals, Slide Sandals
+398,2021-03-24 19:00:00,345,Desktop,5,Ties, Woven Tie
+398,2021-03-24 20:00:00,496,Desktop,18,Backpacks, Laptop Backpack
+398,2021-03-24 21:00:00,320,Desktop,2,Ties, Knit Tie
+399,2021-03-24 22:00:00,410,Mobile,16,Watches, Analog Watch
+399,2021-03-24 23:00:00,376,Mobile,2,Scarves, Silk Scarf
+399,2021-03-25 00:00:00,404,Desktop,9,Swimwear, Board Shorts
+399,2021-03-25 01:00:00,368,Desktop,16,Bags, Crossbody Bag
+399,2021-03-25 02:00:00,362,Desktop,13,Backpacks, Daypack
+400,2021-03-25 03:00:00,111,Tablet,16,Hoodies, Fleece Hoodie
+400,2021-03-25 04:00:00,561,Desktop,8,Jackets, Denim Jacket
+400,2021-03-25 05:00:00,246,Desktop,15,Sweaters, V-Neck Sweater
+400,2021-03-25 06:00:00,268,Tablet,19,Sunglasses, Round Sunglasses
+400,2021-03-25 07:00:00,344,Desktop,19,Scarves, Infinity Scarf
+401,2021-03-25 08:00:00,448,Mobile,15,Jeans, Straight Jeans
+401,2021-03-25 09:00:00,263,Desktop,2,Watches, Dress Watch
+401,2021-03-25 10:00:00,212,Desktop,13,Sneakers, Skate Shoes
+401,2021-03-25 11:00:00,571,Mobile,14,Belts, Canvas Belt
+401,2021-03-25 12:00:00,545,Desktop,19,Hoodies, Pullover Hoodie
+402,2021-03-25 13:00:00,535,Mobile,9,Shorts, Bermuda Shorts
+402,2021-03-25 14:00:00,530,Desktop,7,Bags, Tote Bag
+402,2021-03-25 15:00:00,357,Mobile,13,Sneakers, Running Shoes
+402,2021-03-25 16:00:00,198,Desktop,8,Sunglasses, Aviator Sunglasses
+402,2021-03-25 17:00:00,251,Desktop,16,Skincare, Face Mask
+403,2021-03-25 18:00:00,577,Desktop,9,Scarves, Silk Scarf
+403,2021-03-25 19:00:00,206,Desktop,14,Sandals, Gladiator Sandals
+403,2021-03-25 20:00:00,417,Desktop,3,Jewelry, Necklace
+403,2021-03-25 21:00:00,299,Mobile,6,Shirts, Printed Shirt
+403,2021-03-25 22:00:00,159,Desktop,10,Dresses, Wrap Dress
+404,2021-03-25 23:00:00,443,Mobile,10,Jewelry, Bracelet
+404,2021-03-26 00:00:00,415,Mobile,4,Pants, Track Pants
+404,2021-03-26 01:00:00,32,Tablet,16,Accessories, Pocket Square
+404,2021-03-26 02:00:00,511,Desktop,8,Boots, Combat Boots
+404,2021-03-26 03:00:00,287,Desktop,14,Gloves, Touchscreen Gloves
+405,2021-03-26 04:00:00,488,Mobile,1,Shirts, Casual Shirt
+405,2021-03-26 05:00:00,591,Desktop,18,Sweaters, V-Neck Sweater
+405,2021-03-26 06:00:00,558,Desktop,2,Shorts, Chino Shorts
+405,2021-03-26 07:00:00,451,Desktop,11,Swimwear, Board Shorts
+405,2021-03-26 08:00:00,120,Mobile,2,Suits, Business Suit
+406,2021-03-26 09:00:00,248,Desktop,10,Dresses, Evening Dress
+406,2021-03-26 10:00:00,126,Desktop,3,Ties, Woven Tie
+406,2021-03-26 11:00:00,419,Tablet,7,Backpacks, Canvas Backpack
+406,2021-03-26 12:00:00,281,Desktop,7,Hoodies, Pullover Hoodie
+406,2021-03-26 13:00:00,20,Desktop,5,Watches, Dress Watch
+407,2021-03-26 14:00:00,142,Desktop,19,Sunglasses, Square Sunglasses
+407,2021-03-26 15:00:00,56,Desktop,8,Hats, Beanie
+407,2021-03-26 16:00:00,479,Desktop,10,Scarves, Knit Scarf
+407,2021-03-26 17:00:00,38,Desktop,2,T-Shirts, Striped T-Shirt
+407,2021-03-26 18:00:00,98,Mobile,17,Dresses, Evening Dress
+408,2021-03-26 19:00:00,508,Desktop,3,Heels, Ankle-strap Heels
+408,2021-03-26 20:00:00,454,Mobile,18,Hoodies, Pullover Hoodie
+408,2021-03-26 21:00:00,350,Desktop,5,Backpacks, Hiking Backpack
+408,2021-03-26 22:00:00,245,Desktop,7,Swimwear, Swim Briefs
+408,2021-03-26 23:00:00,449,Mobile,19,Shorts, Cargo Shorts
+409,2021-03-27 00:00:00,304,Mobile,11,Heels, Ankle-strap Heels
+409,2021-03-27 01:00:00,79,Desktop,14,Jewelry, Necklace
+409,2021-03-27 02:00:00,377,Mobile,3,Hoodies, Zip-Up Hoodie
+409,2021-03-27 03:00:00,113,Mobile,3,Hats, Bucket Hat
+409,2021-03-27 04:00:00,345,Desktop,17,Dresses, Wrap Dress
+410,2021-03-27 05:00:00,392,Mobile,11,Backpacks, Hiking Backpack
+410,2021-03-27 06:00:00,453,Desktop,2,Backpacks, Laptop Backpack
+410,2021-03-27 07:00:00,160,Mobile,8,T-Shirts, V-Neck T-Shirt
+410,2021-03-27 08:00:00,566,Mobile,8,T-Shirts, Graphic T-Shirt
+410,2021-03-27 09:00:00,589,Mobile,18,Hats, Bucket Hat
+411,2021-03-27 10:00:00,123,Mobile,6,Bags, Clutch Bag
+411,2021-03-27 11:00:00,465,Desktop,15,Scarves, Fringe Scarf
+411,2021-03-27 12:00:00,154,Desktop,8,Jewelry, Ring
+411,2021-03-27 13:00:00,179,Tablet,1,Sneakers, Skate Shoes
+411,2021-03-27 14:00:00,274,Desktop,10,Shirts, Casual Shirt
+412,2021-03-27 15:00:00,400,Mobile,1,Shirts, Graphic Shirt
+412,2021-03-27 16:00:00,321,Tablet,14,Swimwear, Swim Briefs
+412,2021-03-27 17:00:00,64,Desktop,9,Hats, Baseball Cap
+412,2021-03-27 18:00:00,406,Tablet,12,Backpacks, Canvas Backpack
+412,2021-03-27 19:00:00,521,Desktop,1,Ties, Woven Tie
+413,2021-03-27 20:00:00,539,Desktop,2,Bags, Tote Bag
+413,2021-03-27 21:00:00,189,Desktop,5,Makeup, Blush
+413,2021-03-27 22:00:00,397,Desktop,14,Sunglasses, Round Sunglasses
+413,2021-03-27 23:00:00,307,Desktop,4,Jackets, Leather Jacket
+413,2021-03-28 00:00:00,519,Mobile,7,Accessories, Belt
+414,2021-03-28 01:00:00,490,Desktop,1,Watches, Analog Watch
+414,2021-03-28 02:00:00,352,Mobile,19,Suits, Casual Suit
+414,2021-03-28 03:00:00,476,Desktop,4,Backpacks, Daypack
+414,2021-03-28 04:00:00,418,Mobile,5,Belts, Braided Belt
+414,2021-03-28 05:00:00,164,Desktop,9,Belts, Leather Belt
+415,2021-03-28 06:00:00,343,Mobile,18,Accessories, Necktie
+415,2021-03-28 07:00:00,168,Mobile,1,Ties, Knit Tie
+415,2021-03-28 08:00:00,57,Desktop,18,Watches, Dress Watch
+415,2021-03-28 09:00:00,407,Tablet,2,Shirts, Printed Shirt
+415,2021-03-28 10:00:00,445,Mobile,3,Bags, Satchel Bag
+416,2021-03-28 11:00:00,152,Desktop,16,Watches, Dress Watch
+416,2021-03-28 12:00:00,160,Mobile,10,Shirts, Graphic Shirt
+416,2021-03-28 13:00:00,99,Tablet,16,Scarves, Silk Scarf
+416,2021-03-28 14:00:00,13,Desktop,11,Gloves, Touchscreen Gloves
+416,2021-03-28 15:00:00,508,Desktop,16,Boots, Ankle Boots
+417,2021-03-28 16:00:00,587,Desktop,15,Makeup, Blush
+417,2021-03-28 17:00:00,164,Mobile,11,Skincare, Face Mask
+417,2021-03-28 18:00:00,97,Desktop,3,Jackets, Blazer
+417,2021-03-28 19:00:00,564,Desktop,18,Boots, Chelsea Boots
+417,2021-03-28 20:00:00,51,Desktop,14,Makeup, Blush
+418,2021-03-28 21:00:00,376,Mobile,15,Jackets, Denim Jacket
+418,2021-03-28 22:00:00,165,Desktop,11,Heels, Stiletto Heels
+418,2021-03-28 23:00:00,470,Mobile,10,Shorts, Denim Shorts
+418,2021-03-29 00:00:00,418,Desktop,15,Sandals, Wedge Sandals
+418,2021-03-29 01:00:00,396,Tablet,10,T-Shirts, V-Neck T-Shirt
+419,2021-03-29 02:00:00,249,Mobile,6,Jewelry, Bracelet
+419,2021-03-29 03:00:00,398,Tablet,7,Backpacks, Travel Backpack
+419,2021-03-29 04:00:00,430,Desktop,3,Sandals, Gladiator Sandals
+419,2021-03-29 05:00:00,168,Mobile,17,Shorts, Chino Shorts
+419,2021-03-29 06:00:00,268,Desktop,4,Skincare, Eye Cream
+420,2021-03-29 07:00:00,89,Desktop,8,Suits, Business Suit
+420,2021-03-29 08:00:00,135,Mobile,6,Gloves, Touchscreen Gloves
+420,2021-03-29 09:00:00,532,Mobile,16,Bags, Crossbody Bag
+420,2021-03-29 10:00:00,410,Mobile,16,Heels, Ankle-strap Heels
+420,2021-03-29 11:00:00,342,Mobile,10,Shirts, Formal Shirt
+421,2021-03-29 12:00:00,218,Mobile,10,Accessories, Pocket Square
+421,2021-03-29 13:00:00,507,Tablet,1,Hats, Beanie
+421,2021-03-29 14:00:00,382,Desktop,15,Makeup, Mascara
+421,2021-03-29 15:00:00,309,Mobile,5,Gloves, Touchscreen Gloves
+421,2021-03-29 16:00:00,431,Desktop,18,Sweaters, Cable Knit Sweater
+422,2021-03-29 17:00:00,433,Mobile,3,Dresses, Wrap Dress
+422,2021-03-29 18:00:00,505,Mobile,6,Jeans, High-rise Jeans
+422,2021-03-29 19:00:00,386,Desktop,2,Pants, Jeans
+422,2021-03-29 20:00:00,430,Desktop,13,Jeans, Straight Jeans
+422,2021-03-29 21:00:00,270,Mobile,14,Heels, Block Heels
+423,2021-03-29 22:00:00,77,Mobile,8,Scarves, Fringe Scarf
+423,2021-03-29 23:00:00,251,Desktop,9,Sneakers, High-Top Sneakers
+423,2021-03-30 00:00:00,296,Desktop,7,T-Shirts, Striped T-Shirt
+423,2021-03-30 01:00:00,167,Mobile,17,Gloves, Touchscreen Gloves
+423,2021-03-30 02:00:00,222,Desktop,4,Jeans, Straight Jeans
+424,2021-03-30 03:00:00,299,Desktop,19,Scarves, Silk Scarf
+424,2021-03-30 04:00:00,285,Desktop,8,Boots, Chelsea Boots
+424,2021-03-30 05:00:00,510,Tablet,10,Shorts, Athletic Shorts
+424,2021-03-30 06:00:00,269,Desktop,19,Sneakers, Canvas Sneakers
+424,2021-03-30 07:00:00,150,Desktop,3,Pants, Chinos
+425,2021-03-30 08:00:00,592,Mobile,10,Dresses, Wrap Dress
+425,2021-03-30 09:00:00,298,Desktop,5,Shorts, Cargo Shorts
+425,2021-03-30 10:00:00,513,Desktop,18,Swimwear, Swim Briefs
+425,2021-03-30 11:00:00,119,Mobile,6,Gloves, Knit Gloves
+425,2021-03-30 12:00:00,146,Desktop,9,Jewelry, Necklace
+426,2021-03-30 13:00:00,197,Desktop,17,Sandals, Platform Sandals
+426,2021-03-30 14:00:00,213,Desktop,19,Backpacks, Laptop Backpack
+426,2021-03-30 15:00:00,169,Mobile,3,Skincare, Eye Cream
+426,2021-03-30 16:00:00,420,Mobile,1,Swimwear, Swim Shirt
+426,2021-03-30 17:00:00,275,Desktop,18,Pants, Chinos
+427,2021-03-30 18:00:00,40,Mobile,19,Heels, Block Heels
+427,2021-03-30 19:00:00,124,Mobile,8,Pants, Jeans
+427,2021-03-30 20:00:00,247,Desktop,6,Shirts, Striped Shirt
+427,2021-03-30 21:00:00,296,Desktop,11,Backpacks, Canvas Backpack
+427,2021-03-30 22:00:00,361,Mobile,2,Backpacks, Canvas Backpack
+428,2021-03-30 23:00:00,301,Mobile,17,T-Shirts, V-Neck T-Shirt
+428,2021-03-31 00:00:00,457,Desktop,19,Accessories, Cufflinks
+428,2021-03-31 01:00:00,321,Desktop,12,Gloves, Wool Gloves
+428,2021-03-31 02:00:00,192,Desktop,12,Skincare, Moisturizer
+428,2021-03-31 03:00:00,297,Desktop,13,Heels, Block Heels
+429,2021-03-31 04:00:00,442,Mobile,15,Suits, Tuxedo
+429,2021-03-31 05:00:00,191,Mobile,7,Jeans, Straight Jeans
+429,2021-03-31 06:00:00,93,Desktop,13,Accessories, Bowtie
+429,2021-03-31 07:00:00,48,Desktop,9,Sunglasses, Round Sunglasses
+429,2021-03-31 08:00:00,457,Tablet,6,Shirts, Casual Shirt
+430,2021-03-31 09:00:00,439,Mobile,16,Sweaters, Turtleneck Sweater
+430,2021-03-31 10:00:00,341,Mobile,18,Boots, Knee-high Boots
+430,2021-03-31 11:00:00,188,Desktop,18,Scarves, Fringe Scarf
+430,2021-03-31 12:00:00,283,Desktop,18,Shirts, Casual Shirt
+430,2021-03-31 13:00:00,320,Desktop,12,T-Shirts, Plain T-Shirt
+431,2021-03-31 14:00:00,430,Mobile,2,Boots, Knee-high Boots
+431,2021-03-31 15:00:00,142,Desktop,15,Scarves, Fringe Scarf
+431,2021-03-31 16:00:00,482,Desktop,12,Gloves, Touchscreen Gloves
+431,2021-03-31 17:00:00,85,Mobile,5,Watches, Dress Watch
+431,2021-03-31 18:00:00,274,Desktop,5,Jackets, Bomber Jacket
+432,2021-03-31 19:00:00,146,Tablet,13,Ties, Knit Tie
+432,2021-03-31 20:00:00,456,Desktop,16,Jackets, Denim Jacket
+432,2021-03-31 21:00:00,316,Desktop,1,Gloves, Touchscreen Gloves
+432,2021-03-31 22:00:00,567,Tablet,14,T-Shirts, Graphic T-Shirt
+432,2021-03-31 23:00:00,469,Mobile,3,Sweaters, V-Neck Sweater
+433,2021-04-01 00:00:00,264,Tablet,10,Boots, Knee-high Boots
+433,2021-04-01 01:00:00,60,Tablet,5,Jewelry, Anklet
+433,2021-04-01 02:00:00,428,Mobile,6,Bags, Clutch Bag
+433,2021-04-01 03:00:00,557,Desktop,2,Skincare, Eye Cream
+433,2021-04-01 04:00:00,370,Mobile,6,Hoodies, Graphic Hoodie
+434,2021-04-01 05:00:00,565,Mobile,2,Sweaters, Turtleneck Sweater
+434,2021-04-01 06:00:00,404,Desktop,11,Makeup, Eyeshadow
+434,2021-04-01 07:00:00,10,Desktop,15,Dresses, Cocktail Dress
+434,2021-04-01 08:00:00,459,Tablet,11,Accessories, Belt
+434,2021-04-01 09:00:00,491,Desktop,6,Shirts, Striped Shirt
+435,2021-04-01 10:00:00,161,Desktop,9,Sweaters, V-Neck Sweater
+435,2021-04-01 11:00:00,568,Tablet,4,Hats, Bucket Hat
+435,2021-04-01 12:00:00,149,Mobile,7,Gloves, Touchscreen Gloves
+435,2021-04-01 13:00:00,498,Mobile,12,Boots, Hiking Boots
+435,2021-04-01 14:00:00,43,Desktop,12,Swimwear, Rash Guard
+436,2021-04-01 15:00:00,582,Desktop,17,Suits, Business Suit
+436,2021-04-01 16:00:00,434,Desktop,15,Hoodies, Graphic Hoodie
+436,2021-04-01 17:00:00,308,Tablet,3,Gloves, Knit Gloves
+436,2021-04-01 18:00:00,131,Tablet,13,Dresses, Cocktail Dress
+436,2021-04-01 19:00:00,162,Desktop,17,Sweaters, V-Neck Sweater
+437,2021-04-01 20:00:00,280,Mobile,13,Sneakers, Skate Shoes
+437,2021-04-01 21:00:00,295,Mobile,5,Swimwear, Board Shorts
+437,2021-04-01 22:00:00,232,Desktop,12,Shorts, Bermuda Shorts
+437,2021-04-01 23:00:00,20,Mobile,2,Gloves, Touchscreen Gloves
+437,2021-04-02 00:00:00,105,Mobile,12,Suits, Double-Breasted Suit
+438,2021-04-02 01:00:00,441,Desktop,18,Sunglasses, Aviator Sunglasses
+438,2021-04-02 02:00:00,273,Mobile,16,Suits, Tuxedo
+438,2021-04-02 03:00:00,294,Mobile,10,Suits, Casual Suit
+438,2021-04-02 04:00:00,223,Mobile,6,Jackets, Windbreaker
+438,2021-04-02 05:00:00,36,Mobile,3,Sandals, Wedge Sandals
+439,2021-04-02 06:00:00,341,Desktop,19,Belts, Braided Belt
+439,2021-04-02 07:00:00,538,Desktop,6,Sneakers, High-Top Sneakers
+439,2021-04-02 08:00:00,583,Desktop,12,Dresses, Wrap Dress
+439,2021-04-02 09:00:00,71,Mobile,17,T-Shirts, Graphic T-Shirt
+439,2021-04-02 10:00:00,220,Mobile,7,T-Shirts, Plain T-Shirt
+440,2021-04-02 11:00:00,379,Mobile,1,Scarves, Knit Scarf
+440,2021-04-02 12:00:00,548,Mobile,15,Sandals, Wedge Sandals
+440,2021-04-02 13:00:00,315,Desktop,19,Jackets, Denim Jacket
+440,2021-04-02 14:00:00,291,Mobile,16,Jeans, Straight Jeans
+440,2021-04-02 15:00:00,411,Mobile,15,Bags, Tote Bag
+441,2021-04-02 16:00:00,385,Desktop,13,Hoodies, Pullover Hoodie
+441,2021-04-02 17:00:00,235,Tablet,15,Pants, Dress Pants
+441,2021-04-02 18:00:00,518,Mobile,14,Jeans, High-rise Jeans
+441,2021-04-02 19:00:00,247,Tablet,7,Backpacks, Daypack
+441,2021-04-02 20:00:00,490,Desktop,2,Sandals, Flat Sandals
+442,2021-04-02 21:00:00,368,Tablet,5,Sandals, Wedge Sandals
+442,2021-04-02 22:00:00,459,Mobile,15,Skincare, Serum
+442,2021-04-02 23:00:00,592,Desktop,14,Makeup, Foundation
+442,2021-04-03 00:00:00,34,Mobile,4,Jewelry, Necklace
+442,2021-04-03 01:00:00,342,Mobile,17,Shorts, Denim Shorts
+443,2021-04-03 02:00:00,89,Mobile,7,Jewelry, Ring
+443,2021-04-03 03:00:00,198,Desktop,15,Hoodies, Fleece Hoodie
+443,2021-04-03 04:00:00,195,Mobile,6,Sweaters, V-Neck Sweater
+443,2021-04-03 05:00:00,382,Tablet,6,Dresses, Cocktail Dress
+443,2021-04-03 06:00:00,589,Desktop,15,Ties, Bowtie
+444,2021-04-03 07:00:00,56,Mobile,7,Jackets, Windbreaker
+444,2021-04-03 08:00:00,562,Mobile,14,Watches, Smart Watch
+444,2021-04-03 09:00:00,375,Desktop,15,Scarves, Silk Scarf
+444,2021-04-03 10:00:00,447,Desktop,15,Shorts, Chino Shorts
+444,2021-04-03 11:00:00,176,Mobile,1,Pants, Track Pants
+445,2021-04-03 12:00:00,216,Tablet,6,Sneakers, Canvas Sneakers
+445,2021-04-03 13:00:00,162,Mobile,5,Pants, Cargo Pants
+445,2021-04-03 14:00:00,249,Mobile,7,T-Shirts, V-Neck T-Shirt
+445,2021-04-03 15:00:00,265,Desktop,5,Shorts, Cargo Shorts
+445,2021-04-03 16:00:00,197,Mobile,17,Sneakers, High-Top Sneakers
+446,2021-04-03 17:00:00,151,Tablet,11,Shorts, Bermuda Shorts
+446,2021-04-03 18:00:00,108,Desktop,2,Watches, Dress Watch
+446,2021-04-03 19:00:00,25,Desktop,1,Sneakers, Running Shoes
+446,2021-04-03 20:00:00,241,Mobile,16,T-Shirts, Plain T-Shirt
+446,2021-04-03 21:00:00,118,Desktop,16,Skincare, Moisturizer
+447,2021-04-03 22:00:00,452,Tablet,9,Makeup, Eyeshadow
+447,2021-04-03 23:00:00,59,Desktop,15,Shorts, Denim Shorts
+447,2021-04-04 00:00:00,255,Desktop,12,Watches, Digital Watch
+447,2021-04-04 01:00:00,204,Mobile,6,Hoodies, Fleece Hoodie
+447,2021-04-04 02:00:00,359,Desktop,15,Accessories, Bowtie
+448,2021-04-04 03:00:00,200,Mobile,8,Hats, Trucker Hat
+448,2021-04-04 04:00:00,128,Mobile,5,Pants, Chinos
+448,2021-04-04 05:00:00,280,Mobile,6,Ties, Knit Tie
+448,2021-04-04 06:00:00,79,Desktop,18,Shorts, Denim Shorts
+448,2021-04-04 07:00:00,556,Tablet,4,Suits, Casual Suit
+449,2021-04-04 08:00:00,75,Desktop,17,Backpacks, Canvas Backpack
+449,2021-04-04 09:00:00,345,Desktop,5,Dresses, Wrap Dress
+449,2021-04-04 10:00:00,388,Desktop,19,Swimwear, Swim Trunks
+449,2021-04-04 11:00:00,533,Mobile,8,Hoodies, Fleece Hoodie
+449,2021-04-04 12:00:00,276,Desktop,13,Ties, Bowtie
+450,2021-04-04 13:00:00,563,Mobile,9,Belts, Studded Belt
+450,2021-04-04 14:00:00,393,Mobile,14,Swimwear, Board Shorts
+450,2021-04-04 15:00:00,228,Mobile,5,Sunglasses, Cat-Eye Sunglasses
+450,2021-04-04 16:00:00,430,Desktop,4,Dresses, Evening Dress
+450,2021-04-04 17:00:00,177,Desktop,1,Swimwear, Board Shorts
+451,2021-04-04 18:00:00,435,Desktop,6,T-Shirts, Plain T-Shirt
+451,2021-04-04 19:00:00,256,Desktop,9,Shirts, Printed Shirt
+451,2021-04-04 20:00:00,517,Mobile,13,Shorts, Cargo Shorts
+451,2021-04-04 21:00:00,500,Tablet,13,Boots, Knee-high Boots
+451,2021-04-04 22:00:00,123,Mobile,14,Bags, Clutch Bag
+452,2021-04-04 23:00:00,300,Desktop,16,Suits, Double-Breasted Suit
+452,2021-04-05 00:00:00,169,Desktop,13,Hats, Baseball Cap
+452,2021-04-05 01:00:00,273,Tablet,14,T-Shirts, Plain T-Shirt
+452,2021-04-05 02:00:00,509,Desktop,3,Jeans, Straight Jeans
+452,2021-04-05 03:00:00,307,Desktop,9,Jeans, High-rise Jeans
+453,2021-04-05 04:00:00,166,Desktop,1,Skincare, Face Mask
+453,2021-04-05 05:00:00,135,Mobile,7,Jackets, Leather Jacket
+453,2021-04-05 06:00:00,533,Mobile,2,Hoodies, Athletic Hoodie
+453,2021-04-05 07:00:00,305,Mobile,9,Suits, Single-Breasted Suit
+453,2021-04-05 08:00:00,337,Mobile,4,Skincare, Moisturizer
+454,2021-04-05 09:00:00,385,Desktop,3,T-Shirts, V-Neck T-Shirt
+454,2021-04-05 10:00:00,412,Desktop,17,Pants, Dress Pants
+454,2021-04-05 11:00:00,384,Desktop,1,Sunglasses, Aviator Sunglasses
+454,2021-04-05 12:00:00,205,Desktop,3,Jeans, Distressed Jeans
+454,2021-04-05 13:00:00,291,Desktop,11,Suits, Casual Suit
+455,2021-04-05 14:00:00,555,Mobile,8,Gloves, Knit Gloves
+455,2021-04-05 15:00:00,89,Mobile,2,Heels, Ankle-strap Heels
+455,2021-04-05 16:00:00,94,Desktop,17,Belts, Studded Belt
+455,2021-04-05 17:00:00,308,Tablet,6,Suits, Casual Suit
+455,2021-04-05 18:00:00,383,Mobile,15,Hats, Bucket Hat
+456,2021-04-05 19:00:00,27,Tablet,6,Sneakers, Running Shoes
+456,2021-04-05 20:00:00,566,Desktop,2,Sunglasses, Aviator Sunglasses
+456,2021-04-05 21:00:00,576,Desktop,9,Boots, Ankle Boots
+456,2021-04-05 22:00:00,556,Desktop,17,Scarves, Plaid Scarf
+456,2021-04-05 23:00:00,128,Mobile,17,Bags, Backpack
+457,2021-04-06 00:00:00,11,Desktop,10,Sneakers, Skate Shoes
+457,2021-04-06 01:00:00,571,Mobile,11,Dresses, Maxi Dress
+457,2021-04-06 02:00:00,6,Desktop,6,Accessories, Belt
+457,2021-04-06 03:00:00,530,Mobile,13,Jewelry, Anklet
+457,2021-04-06 04:00:00,467,Mobile,1,Sandals, Wedge Sandals
+458,2021-04-06 05:00:00,432,Desktop,19,Ties, Knit Tie
+458,2021-04-06 06:00:00,485,Mobile,13,Swimwear, Swim Shirt
+458,2021-04-06 07:00:00,127,Desktop,15,Watches, Smart Watch
+458,2021-04-06 08:00:00,488,Desktop,19,Belts, Braided Belt
+458,2021-04-06 09:00:00,147,Desktop,9,Sunglasses, Wayfarer Sunglasses
+459,2021-04-06 10:00:00,583,Desktop,19,Sandals, Platform Sandals
+459,2021-04-06 11:00:00,174,Desktop,19,Sunglasses, Aviator Sunglasses
+459,2021-04-06 12:00:00,16,Desktop,8,Makeup, Blush
+459,2021-04-06 13:00:00,505,Desktop,8,Skincare, Face Mask
+459,2021-04-06 14:00:00,229,Mobile,2,Heels, Wedge Heels
+460,2021-04-06 15:00:00,242,Mobile,14,Belts, Canvas Belt
+460,2021-04-06 16:00:00,32,Desktop,5,Sweaters, Turtleneck Sweater
+460,2021-04-06 17:00:00,287,Mobile,13,Dresses, Summer Dress
+460,2021-04-06 18:00:00,553,Desktop,13,Ties, Silk Tie
+460,2021-04-06 19:00:00,207,Mobile,18,Jewelry, Earrings
+461,2021-04-06 20:00:00,319,Mobile,13,Accessories, Bowtie
+461,2021-04-06 21:00:00,313,Desktop,4,Hats, Trucker Hat
+461,2021-04-06 22:00:00,35,Mobile,16,Shorts, Bermuda Shorts
+461,2021-04-06 23:00:00,280,Desktop,8,Boots, Ankle Boots
+461,2021-04-07 00:00:00,13,Desktop,6,Jewelry, Ring
+462,2021-04-07 01:00:00,115,Desktop,4,Heels, Block Heels
+462,2021-04-07 02:00:00,29,Desktop,3,Hats, Bucket Hat
+462,2021-04-07 03:00:00,503,Desktop,17,Scarves, Infinity Scarf
+462,2021-04-07 04:00:00,226,Mobile,11,Belts, Studded Belt
+462,2021-04-07 05:00:00,59,Mobile,17,Shirts, Printed Shirt
+463,2021-04-07 06:00:00,10,Desktop,10,Boots, Chelsea Boots
+463,2021-04-07 07:00:00,246,Desktop,18,Watches, Sports Watch
+463,2021-04-07 08:00:00,23,Mobile,3,Jackets, Blazer
+463,2021-04-07 09:00:00,252,Desktop,3,Watches, Digital Watch
+463,2021-04-07 10:00:00,111,Mobile,4,Jewelry, Necklace
+464,2021-04-07 11:00:00,131,Desktop,12,Belts, Braided Belt
+464,2021-04-07 12:00:00,386,Mobile,13,Makeup, Blush
+464,2021-04-07 13:00:00,208,Tablet,2,Swimwear, Swim Trunks
+464,2021-04-07 14:00:00,216,Mobile,15,Boots, Ankle Boots
+464,2021-04-07 15:00:00,282,Tablet,19,Scarves, Silk Scarf
+465,2021-04-07 16:00:00,39,Desktop,15,Jewelry, Ring
+465,2021-04-07 17:00:00,553,Mobile,17,Shirts, Graphic Shirt
+465,2021-04-07 18:00:00,343,Desktop,9,Dresses, Wrap Dress
+465,2021-04-07 19:00:00,237,Mobile,18,Sunglasses, Round Sunglasses
+465,2021-04-07 20:00:00,294,Desktop,6,Shorts, Bermuda Shorts
+466,2021-04-07 21:00:00,269,Desktop,3,Belts, Braided Belt
+466,2021-04-07 22:00:00,270,Desktop,9,Makeup, Mascara
+466,2021-04-07 23:00:00,489,Mobile,17,Boots, Knee-high Boots
+466,2021-04-08 00:00:00,156,Mobile,3,Belts, Canvas Belt
+466,2021-04-08 01:00:00,228,Mobile,12,T-Shirts, Pocket T-Shirt
+467,2021-04-08 02:00:00,559,Desktop,13,Belts, Leather Belt
+467,2021-04-08 03:00:00,393,Mobile,5,Sweaters, Crewneck Sweater
+467,2021-04-08 04:00:00,18,Desktop,15,Accessories, Pocket Square
+467,2021-04-08 05:00:00,59,Desktop,8,Jeans, Bootcut Jeans
+467,2021-04-08 06:00:00,351,Mobile,17,T-Shirts, Plain T-Shirt
+468,2021-04-08 07:00:00,468,Mobile,19,Sandals, Flat Sandals
+468,2021-04-08 08:00:00,121,Tablet,3,Ties, Bowtie
+468,2021-04-08 09:00:00,136,Desktop,17,Belts, Canvas Belt
+468,2021-04-08 10:00:00,580,Desktop,16,Accessories, Pocket Square
+468,2021-04-08 11:00:00,266,Mobile,5,Hoodies, Zip-Up Hoodie
+469,2021-04-08 12:00:00,165,Mobile,2,Bags, Clutch Bag
+469,2021-04-08 13:00:00,367,Desktop,15,Watches, Smart Watch
+469,2021-04-08 14:00:00,344,Mobile,15,Backpacks, Travel Backpack
+469,2021-04-08 15:00:00,290,Desktop,3,Pants, Dress Pants
+469,2021-04-08 16:00:00,565,Desktop,13,Belts, Leather Belt
+470,2021-04-08 17:00:00,341,Mobile,4,Makeup, Foundation
+470,2021-04-08 18:00:00,465,Mobile,11,Gloves, Wool Gloves
+470,2021-04-08 19:00:00,381,Mobile,14,Jackets, Denim Jacket
+470,2021-04-08 20:00:00,407,Tablet,13,Watches, Dress Watch
+470,2021-04-08 21:00:00,127,Desktop,5,Watches, Sports Watch
+471,2021-04-08 22:00:00,93,Mobile,1,Accessories, Cufflinks
+471,2021-04-08 23:00:00,317,Mobile,8,Jewelry, Necklace
+471,2021-04-09 00:00:00,229,Desktop,15,Watches, Dress Watch
+471,2021-04-09 01:00:00,321,Mobile,6,Jackets, Leather Jacket
+471,2021-04-09 02:00:00,235,Mobile,17,Dresses, Maxi Dress
+472,2021-04-09 03:00:00,6,Mobile,6,Sneakers, Running Shoes
+472,2021-04-09 04:00:00,220,Desktop,18,Hoodies, Fleece Hoodie
+472,2021-04-09 05:00:00,273,Tablet,16,Gloves, Wool Gloves
+472,2021-04-09 06:00:00,540,Desktop,19,Bags, Backpack
+472,2021-04-09 07:00:00,470,Tablet,3,Dresses, Summer Dress
+473,2021-04-09 08:00:00,533,Tablet,5,Makeup, Blush
+473,2021-04-09 09:00:00,16,Desktop,19,Sneakers, High-Top Sneakers
+473,2021-04-09 10:00:00,417,Tablet,13,Shorts, Bermuda Shorts
+473,2021-04-09 11:00:00,69,Desktop,16,Accessories, Belt
+473,2021-04-09 12:00:00,311,Mobile,18,Accessories, Necktie
+474,2021-04-09 13:00:00,37,Tablet,14,Heels, Wedge Heels
+474,2021-04-09 14:00:00,473,Desktop,17,Skincare, Eye Cream
+474,2021-04-09 15:00:00,291,Desktop,19,Suits, Business Suit
+474,2021-04-09 16:00:00,278,Desktop,8,Jackets, Leather Jacket
+474,2021-04-09 17:00:00,462,Desktop,9,Ties, Woven Tie
+475,2021-04-09 18:00:00,360,Mobile,5,Makeup, Mascara
+475,2021-04-09 19:00:00,441,Desktop,2,Gloves, Knit Gloves
+475,2021-04-09 20:00:00,379,Mobile,10,Backpacks, Daypack
+475,2021-04-09 21:00:00,568,Mobile,6,Makeup, Eyeshadow
+475,2021-04-09 22:00:00,164,Desktop,6,Sweaters, Crewneck Sweater
+476,2021-04-09 23:00:00,434,Mobile,15,Dresses, Evening Dress
+476,2021-04-10 00:00:00,345,Desktop,1,Swimwear, Swim Trunks
+476,2021-04-10 01:00:00,441,Desktop,19,Hats, Trucker Hat
+476,2021-04-10 02:00:00,224,Mobile,14,Backpacks, Daypack
+476,2021-04-10 03:00:00,85,Tablet,1,Hats, Wide Brim Hat
+477,2021-04-10 04:00:00,65,Mobile,10,Sunglasses, Square Sunglasses
+477,2021-04-10 05:00:00,296,Mobile,12,Boots, Knee-high Boots
+477,2021-04-10 06:00:00,150,Desktop,8,Sunglasses, Wayfarer Sunglasses
+477,2021-04-10 07:00:00,340,Mobile,3,Swimwear, Board Shorts
+477,2021-04-10 08:00:00,142,Mobile,7,Gloves, Wool Gloves
+478,2021-04-10 09:00:00,260,Desktop,8,Skincare, Eye Cream
+478,2021-04-10 10:00:00,286,Mobile,3,Jewelry, Necklace
+478,2021-04-10 11:00:00,400,Desktop,18,Jewelry, Ring
+478,2021-04-10 12:00:00,390,Desktop,17,Backpacks, Hiking Backpack
+478,2021-04-10 13:00:00,317,Mobile,5,Boots, Combat Boots
+479,2021-04-10 14:00:00,411,Tablet,11,Swimwear, Board Shorts
+479,2021-04-10 15:00:00,130,Tablet,1,Hoodies, Zip-Up Hoodie
+479,2021-04-10 16:00:00,181,Mobile,2,Accessories, Pocket Square
+479,2021-04-10 17:00:00,505,Desktop,2,Backpacks, Hiking Backpack
+479,2021-04-10 18:00:00,376,Mobile,16,Jeans, Straight Jeans
+480,2021-04-10 19:00:00,144,Mobile,7,Dresses, Summer Dress
+480,2021-04-10 20:00:00,292,Mobile,9,Belts, Braided Belt
+480,2021-04-10 21:00:00,526,Mobile,11,Boots, Hiking Boots
+480,2021-04-10 22:00:00,67,Desktop,10,Jewelry, Bracelet
+480,2021-04-10 23:00:00,335,Desktop,1,Sunglasses, Square Sunglasses
+481,2021-04-11 00:00:00,92,Desktop,14,Scarves, Knit Scarf
+481,2021-04-11 01:00:00,185,Mobile,17,Boots, Combat Boots
+481,2021-04-11 02:00:00,23,Mobile,14,Sunglasses, Square Sunglasses
+481,2021-04-11 03:00:00,380,Mobile,16,Makeup, Mascara
+481,2021-04-11 04:00:00,182,Mobile,18,Sneakers, High-Top Sneakers
+482,2021-04-11 05:00:00,451,Desktop,16,Gloves, Wool Gloves
+482,2021-04-11 06:00:00,490,Desktop,15,Suits, Double-Breasted Suit
+482,2021-04-11 07:00:00,54,Mobile,16,Watches, Sports Watch
+482,2021-04-11 08:00:00,468,Mobile,12,Belts, Webbed Belt
+482,2021-04-11 09:00:00,518,Tablet,7,Sweaters, Cardigan
+483,2021-04-11 10:00:00,307,Tablet,13,Sneakers, Skate Shoes
+483,2021-04-11 11:00:00,282,Desktop,18,Scarves, Knit Scarf
+483,2021-04-11 12:00:00,475,Mobile,12,Skincare, Cleanser
+483,2021-04-11 13:00:00,191,Desktop,16,Hats, Trucker Hat
+483,2021-04-11 14:00:00,596,Desktop,2,Bags, Crossbody Bag
+484,2021-04-11 15:00:00,254,Mobile,16,Heels, Ankle-strap Heels
+484,2021-04-11 16:00:00,291,Mobile,14,Jeans, Straight Jeans
+484,2021-04-11 17:00:00,334,Mobile,14,Heels, Stiletto Heels
+484,2021-04-11 18:00:00,88,Mobile,8,Scarves, Infinity Scarf
+484,2021-04-11 19:00:00,578,Mobile,17,Ties, Skinny Tie
+485,2021-04-11 20:00:00,82,Mobile,8,Hoodies, Pullover Hoodie
+485,2021-04-11 21:00:00,479,Desktop,11,Hats, Wide Brim Hat
+485,2021-04-11 22:00:00,445,Desktop,7,T-Shirts, Plain T-Shirt
+485,2021-04-11 23:00:00,588,Mobile,14,Belts, Webbed Belt
+485,2021-04-12 00:00:00,347,Mobile,9,Jackets, Windbreaker
+486,2021-04-12 01:00:00,300,Desktop,2,Suits, Tuxedo
+486,2021-04-12 02:00:00,188,Desktop,5,Jewelry, Earrings
+486,2021-04-12 03:00:00,52,Desktop,3,Sweaters, Turtleneck Sweater
+486,2021-04-12 04:00:00,116,Desktop,14,Jackets, Blazer
+486,2021-04-12 05:00:00,32,Mobile,15,Shorts, Chino Shorts
+487,2021-04-12 06:00:00,117,Desktop,5,Hoodies, Athletic Hoodie
+487,2021-04-12 07:00:00,563,Mobile,6,Shorts, Denim Shorts
+487,2021-04-12 08:00:00,39,Desktop,3,Jeans, High-rise Jeans
+487,2021-04-12 09:00:00,267,Tablet,7,T-Shirts, Pocket T-Shirt
+487,2021-04-12 10:00:00,97,Desktop,3,Pants, Jeans
+488,2021-04-12 11:00:00,380,Mobile,16,Dresses, Evening Dress
+488,2021-04-12 12:00:00,133,Mobile,6,Belts, Leather Belt
+488,2021-04-12 13:00:00,506,Mobile,14,Pants, Track Pants
+488,2021-04-12 14:00:00,411,Desktop,3,Sandals, Slide Sandals
+488,2021-04-12 15:00:00,19,Desktop,16,Sweaters, Cable Knit Sweater
+489,2021-04-12 16:00:00,66,Desktop,7,Watches, Sports Watch
+489,2021-04-12 17:00:00,522,Desktop,19,Bags, Clutch Bag
+489,2021-04-12 18:00:00,60,Mobile,4,Boots, Knee-high Boots
+489,2021-04-12 19:00:00,161,Tablet,17,Jewelry, Ring
+489,2021-04-12 20:00:00,484,Desktop,9,Sandals, Gladiator Sandals
+490,2021-04-12 21:00:00,584,Desktop,13,Jeans, High-rise Jeans
+490,2021-04-12 22:00:00,121,Desktop,5,Shirts, Casual Shirt
+490,2021-04-12 23:00:00,110,Desktop,14,Watches, Smart Watch
+490,2021-04-13 00:00:00,484,Desktop,10,Jewelry, Earrings
+490,2021-04-13 01:00:00,84,Desktop,19,Jackets, Bomber Jacket
+491,2021-04-13 02:00:00,385,Desktop,2,Bags, Crossbody Bag
+491,2021-04-13 03:00:00,385,Desktop,1,Sandals, Flat Sandals
+491,2021-04-13 04:00:00,170,Desktop,6,T-Shirts, Pocket T-Shirt
+491,2021-04-13 05:00:00,356,Desktop,7,Jeans, High-rise Jeans
+491,2021-04-13 06:00:00,20,Mobile,18,Bags, Backpack
+492,2021-04-13 07:00:00,271,Desktop,13,Scarves, Knit Scarf
+492,2021-04-13 08:00:00,568,Desktop,3,Gloves, Driving Gloves
+492,2021-04-13 09:00:00,516,Desktop,14,Hoodies, Athletic Hoodie
+492,2021-04-13 10:00:00,525,Mobile,9,Hoodies, Athletic Hoodie
+492,2021-04-13 11:00:00,525,Desktop,17,Sweaters, Crewneck Sweater
+493,2021-04-13 12:00:00,94,Tablet,4,T-Shirts, Pocket T-Shirt
+493,2021-04-13 13:00:00,75,Desktop,15,Watches, Dress Watch
+493,2021-04-13 14:00:00,371,Desktop,4,Skincare, Moisturizer
+493,2021-04-13 15:00:00,338,Desktop,16,Makeup, Blush
+493,2021-04-13 16:00:00,142,Desktop,14,Shirts, Formal Shirt
+494,2021-04-13 17:00:00,464,Mobile,10,Jewelry, Ring
+494,2021-04-13 18:00:00,61,Mobile,1,Sandals, Slide Sandals
+494,2021-04-13 19:00:00,148,Mobile,6,Jewelry, Bracelet
+494,2021-04-13 20:00:00,522,Desktop,8,Backpacks, Hiking Backpack
+494,2021-04-13 21:00:00,478,Tablet,7,Hoodies, Pullover Hoodie
+495,2021-04-13 22:00:00,241,Desktop,6,Ties, Knit Tie
+495,2021-04-13 23:00:00,83,Mobile,12,Heels, Ankle-strap Heels
+495,2021-04-14 00:00:00,142,Mobile,4,Watches, Dress Watch
+495,2021-04-14 01:00:00,517,Desktop,14,Sweaters, Crewneck Sweater
+495,2021-04-14 02:00:00,21,Mobile,8,Jewelry, Bracelet
+496,2021-04-14 03:00:00,173,Desktop,5,Shirts, Graphic Shirt
+496,2021-04-14 04:00:00,134,Desktop,5,Jeans, Straight Jeans
+496,2021-04-14 05:00:00,567,Mobile,15,Jewelry, Earrings
+496,2021-04-14 06:00:00,92,Desktop,14,Scarves, Silk Scarf
+496,2021-04-14 07:00:00,249,Mobile,19,Swimwear, Swim Trunks
+497,2021-04-14 08:00:00,336,Mobile,11,Boots, Ankle Boots
+497,2021-04-14 09:00:00,84,Tablet,15,Swimwear, Board Shorts
+497,2021-04-14 10:00:00,301,Mobile,8,Accessories, Bowtie
+497,2021-04-14 11:00:00,450,Mobile,7,Scarves, Infinity Scarf
+497,2021-04-14 12:00:00,282,Desktop,16,Belts, Leather Belt
+498,2021-04-14 13:00:00,94,Desktop,19,Suits, Double-Breasted Suit
+498,2021-04-14 14:00:00,479,Mobile,5,Sandals, Slide Sandals
+498,2021-04-14 15:00:00,503,Tablet,4,Backpacks, Canvas Backpack
+498,2021-04-14 16:00:00,476,Desktop,17,Sweaters, Cable Knit Sweater
+498,2021-04-14 17:00:00,497,Desktop,3,Swimwear, Swim Briefs
+499,2021-04-14 18:00:00,513,Mobile,8,Belts, Leather Belt
+499,2021-04-14 19:00:00,94,Desktop,12,Sweaters, V-Neck Sweater
+499,2021-04-14 20:00:00,128,Desktop,12,Sweaters, Cable Knit Sweater
+499,2021-04-14 21:00:00,581,Mobile,11,Bags, Backpack
+499,2021-04-14 22:00:00,163,Desktop,13,Skincare, Serum
+500,2021-04-14 23:00:00,416,Desktop,8,Heels, Wedge Heels
+500,2021-04-15 00:00:00,281,Mobile,2,Makeup, Concealer
+500,2021-04-15 01:00:00,141,Mobile,13,Boots, Chelsea Boots
+500,2021-04-15 02:00:00,401,Desktop,8,Skincare, Serum
+500,2021-04-15 03:00:00,473,Desktop,14,Swimwear, Rash Guard

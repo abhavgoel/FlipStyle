@@ -1,21 +1,13 @@
-from selenium import webdriver
-from bs4 import BeautifulSoup
+from pinscrape import pinscrape
 
-# Set up a headless Chrome browser
-options = webdriver.ChromeOptions()
-options.add_argument('--headless')
-driver = webdriver.Chrome(options=options)
+def pinterest_scraper(query):
 
-url = "https://www.pinterest.com/search/pins/?q=fashion"  # Example URL
-driver.get(url)
+    details = pinscrape.scraper.scrape(query, "output", {}, 10, 15)
 
-driver.implicitly_wait(10)  
-
-page_source = driver.page_source
-
-driver.quit()
-
-soup = BeautifulSoup(page_source, 'html.parser')
-text = soup.get_text()
-
-print(text)
+    if details["isDownloaded"]:
+        print("\nDownloading completed !!")
+        print(f"\nTotal urls found: {len(details['extracted_urls'])}")
+        print(f"\nTotal images downloaded (including duplicate images): {len(details['url_list'])}")
+        print(details)
+    else:
+        print("\nNothing to download !!")
