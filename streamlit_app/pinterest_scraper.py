@@ -1,8 +1,11 @@
 from pinscrape import pinscrape
-import os
+from pathlib import Path
+
 def pinterest_images(query):
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-    folder_path = os.path.join(current_directory,"pins")
+    current_directory = Path(__file__).resolve().parent
+    folder_path = current_directory / "pins"
+    folder_path.mkdir(exist_ok=True)  # Create the "pins" directory if it doesn't exist
+    
     details = pinscrape.scraper.scrape(query, folder_path, {}, 10, 15)
 
     if details["isDownloaded"]:
