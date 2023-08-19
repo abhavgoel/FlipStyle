@@ -19,8 +19,15 @@ if show_trends:
         output = pinterest_images("fashion")
         fashion_images=[]
         if output:
-            directory_path = os.path.abspath("pins")
-            fashion_images = get_images_from_directory(directory_path)
+            # directory_path = os.path.abspath("pins")
+            current_directory = os.path.dirname(os.path.abspath(__file__))
+
+            # Navigate one directory back
+            parent_directory = os.path.dirname(current_directory)
+
+            # Construct the path to "pins" directory in the parent directory
+            pins_directory = os.path.join(parent_directory, "pins")
+            fashion_images = get_images_from_directory(pins_directory)
         
         if fashion_images:
             st.write(f"Found {len(fashion_images)} fashion trend images:")
