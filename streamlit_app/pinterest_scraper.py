@@ -1,8 +1,9 @@
 from pinscrape import pinscrape
-
+import os
 def pinterest_images(query):
-
-    details = pinscrape.scraper.scrape(query, "pins", {}, 10, 15)
+    current_directory = os.path.dirname(os.path.abspath(__file__))
+    folder_path = os.path.join(current_directory,"pins")
+    details = pinscrape.scraper.scrape(query, folder_path, {}, 10, 15)
 
     if details["isDownloaded"]:
         print("\nDownloading completed !!")
