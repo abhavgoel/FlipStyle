@@ -6,7 +6,7 @@ def pinterest_images(query):
     folder_path = current_directory / "pins"
     folder_path.mkdir(exist_ok=True)  # Create the "pins" directory if it doesn't exist
     
-    details = pinscrape.scraper.scrape(query, folder_path, {}, 10, 15)
+    details = pinscrape.scraper.scrape(query, folder_path, {}, 10, 6)
 
     if details["isDownloaded"]:
         print("\nDownloading completed !!")
