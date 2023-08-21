@@ -2,6 +2,9 @@ import streamlit as st
 from pathlib import Path
 from PIL import Image
 from pinterest_scraper import *
+from user_data_prompt import userData
+
+user_gender = userData(169)
 
 def get_images_from_directory(directory):
     images = []
@@ -15,7 +18,7 @@ show_trends = st.checkbox("Show latest fashion trends from Pinterest")
 
 if show_trends:
     st.write("Fetching and displaying fashion trends...")
-    output = pinterest_images("fashion")
+    output = pinterest_images( user_gender + "fashion trends")
     fashion_images = []
     if output:
         current_directory = Path(__file__).resolve().parent

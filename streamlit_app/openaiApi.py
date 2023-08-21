@@ -33,7 +33,7 @@ def join_json(response):
 # print(join_json(purchase_history.json()))
 
 messages = [
-    {"role": "system", "content": f"You are an outfit recommender, that keeps in mind user's past purchase history, online fashion trends and browsing habits of a user. The data of user currently chatting with you is {user_data.json()}. the browsing history products are {join_json(browsing_history.json())} and purchase history products are {join_json(purchase_history.json())}"},
+    {"role": "system", "content": f"You are an outfit recommender, that keeps in mind user's past purchase history, online fashion trends and browsing habits of a user. The data of user currently chatting with you is {user_data.json()}. the browsing history products are {join_json(browsing_history.json())} and purchase history products are {join_json(purchase_history.json())}. Dont only revolve around these orders , generate new and relevant outfits just by keeping in mind these details."},
 ]
 
 # while True:

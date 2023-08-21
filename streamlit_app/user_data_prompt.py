@@ -15,5 +15,5 @@ def userData(user_id):
     user_region = user_data['Region']
     user_body_type = user_data['BodyType']
     msg = f"The gender is {user_gender}, age is {user_age} and body type is {user_body_type}. I live in {user_region}"
-    return msg
+    return user_gender
     
